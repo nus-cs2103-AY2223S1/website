@@ -10,19 +10,19 @@
 <li><strong>Refactoring is not rewriting</strong>: Discarding poorly-written code entirely and re-writing it from scratch is not refactoring because refactoring needs to be done in small steps.</li>
 <li><strong>Refactoring is not bug fixing</strong>: By definition, refactoring is different from bug fixing or any other modifications that alter the external behavior (e.g. adding a feature) of the component in concern.</li></ul>
 <box>
-<p><span class="badge badge-pill badge-warning"><span aria-hidden="true" class="fas fa-lightbulb"></span></span> Improving code structure can have many secondary benefits: e.g.</p>
+<p><span class="badge rounded-pill bg-warning text-dark"><span aria-hidden="true" class="fas fa-lightbulb"></span></span> Improving code structure can have many secondary benefits: e.g.</p>
 <ul>
 <li>hidden bugs become easier to spot</li>
 <li>improve performance (sometimes, simpler code runs faster than complex code because simpler code is easier for the compiler to optimize).</li></ul></box>
 <p>Given below are two common refactorings (<trigger trigger="click" for="modal:refactoring-catalog-what">more</trigger>).</p>
-<b-modal id="modal:refactoring-catalog-what" hide-footer size modal-class="mb-zoom" ref="modal:refactoring-catalog-what"><template #modal-title><strong>Refactoring Catalogs</strong></template>
+<modal id="modal:refactoring-catalog-what"><template #header><strong>Refactoring Catalogs</strong></template>
   <div>
 <ul>
 <li>Java: <a href="http://refactoring.com/catalog/">http://refactoring.com/catalog/</a> -- This is a list of common refactorings maintained by Martin Fowler, a leading authority on refactoring. He is also the author of the ‘bestseller’ on refactoring: <a href="https://martinfowler.com/books/#refactoring">Refactoring: Improving the Design of Existing Code</a></li>
 <li>Python: some examples from
 <ul>
 <li><a href="https://www.python-engineer.com/posts/python-refactoring-tips/">https://www.python-engineer.com</a></li>
-<li><a href="https://medium.com/code-85/4-simple-ways-to-refactor-your-python-code-2f491b767381">https://medium.com</a></li></ul></li></ul></div></b-modal>
+<li><a href="https://medium.com/code-85/4-simple-ways-to-refactor-your-python-code-2f491b767381">https://medium.com</a></li></ul></li></ul></div></modal>
 <box>
 <p>Refactoring Name: <strong>Consolidate Duplicate Conditional Fragments</strong></p>
 <p>Situation:  The same fragment of code is in all branches of a conditional expression.</p>
@@ -110,7 +110,7 @@
 </span><span>    <span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;name:	&quot;</span> + name)
 </span><span>    <span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;amount	&quot;</span> + amount)
 </span></code></pre></div></div></box>
-<p><span class="badge badge-pill badge-warning"><span aria-hidden="true" class="fas fa-lightbulb"></span></span> Some IDEs have builtin support for basic refactorings such as automatically renaming a variable/method/class in all places it has been used.</p>
+<p><span class="badge rounded-pill bg-warning text-dark"><span aria-hidden="true" class="fas fa-lightbulb"></span></span> Some IDEs have builtin support for basic refactorings such as automatically renaming a variable/method/class in all places it has been used.</p>
 <p><span style="color: red"><big><span><span aria-hidden="true" class="glyphicon glyphicon-exclamation-sign"></span></span></big></span> Refactoring, even if done with the aid of an IDE, may still result in regressions. Therefore, each small refactoring should be followed by regression testing.</p></div>
 <div>
 <div><panel expandable><template #header><p><span><span aria-hidden="true" class="fas fa-dumbbell"></span></span> Exercises</p></template>

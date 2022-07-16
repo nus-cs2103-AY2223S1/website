@@ -23,7 +23,7 @@
 <div>
 <div><panel expanded><template #header><p><span><span aria-hidden="true" class="fas fa-paperclip"></span></span>  Resources</p></template>
 <ul>
-<li><a href="http://www.oodesign.com/single-responsibility-principle.html">An explanation of the SRP</a> from <a href="http://www.oodesign.com">www.oodesign.com</a></li>
+<li><a href="http://www.oodesign.com/single-responsibility-principle.html">An explanation of the SRP</a> from www.oodesign.com</li>
 <li><a href="http://code.tutsplus.com/tutorials/solid-part-1-the-single-responsibility-principle--net-36074">Another explanation (more detailed)</a>
 by Patkos Csaba</li>
 <li><a href="https://drive.google.com/file/d/0ByOwmqah_nuGNHEtcU5OekdDMkk/view">A book chapter on SRP</a> written by the father of the principle itself, Robert C Martin</li></ul></panel></div></div></div></div></div></panel>
@@ -72,7 +72,7 @@ by Patkos Csaba</li>
   <div>
 <p><strong>Liskov substitution principle (LSP)</strong>: Derived classes must be substitutable for their base classes. <sub>-- proposed by <a href="https://en.wikipedia.org/wiki/Barbara_Liskov">Barbara Liskov</a></sub></p></div></box>
 <p>LSP sounds the same as <trigger large trigger="click" for="modal:lsp-substitutability">substitutability</trigger> but it goes beyond substitutability; <strong>LSP implies that a subclass should not be more restrictive than the behavior specified by the superclass.</strong> As you know, Java has language support for substitutability. However, if LSP is not followed, substituting a subclass object for a superclass object can break the functionality of the code.</p>
-<b-modal id="modal:lsp-substitutability" hide-footer size="lg" modal-class="mb-zoom" ref="modal:lsp-substitutability"><template #modal-title>Textbook <span><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></span></template>
+<modal large id="modal:lsp-substitutability"><template #header>Textbook <span><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></span></template>
   <div><div><panel src="/website/book/oop/inheritance/what/unit-inElsewhere-asFlat._include_.html" popup-url="/website/book/oop/inheritance/what"><template #header><p><span class="dimmed"><span><span aria-hidden="true" class="glyphicon glyphicon-education"></span></span> Paradigms → Object Oriented Programming → Inheritance → What</span></p></template></panel></div><p></p>
 <p><span class="dimmed"><strong><span>Paradigms → OOP → Inheritance →
 </span></strong></span></p>
@@ -91,7 +91,7 @@ by Patkos Csaba</li>
 </span><span>...
 </span><span>AcademicStaff academicStaff = staff; <span class="hljs-comment">// Not OK</span>
 </span></code></pre></box></div>
-<div></div></div></div></div></b-modal> 
+<div></div></div></div></div></modal> 
 <box>
 <p><span><span aria-hidden="true" class="fas fa-cube"></span></span> Suppose the <code class="hljs inline no-lang" v-pre>Payroll</code> class depends on the <code class="hljs inline no-lang" v-pre>adjustMySalary(int percent)</code> method of the <code class="hljs inline no-lang" v-pre>Staff</code> class. Furthermore, the <code class="hljs inline no-lang" v-pre>Staff</code> class states that the <code class="hljs inline no-lang" v-pre>adjustMySalary</code> method will work for all positive percent values. Both the <code class="hljs inline no-lang" v-pre>Admin</code> and <code class="hljs inline no-lang" v-pre>Academic</code> classes override the <code class="hljs inline no-lang" v-pre>adjustMySalary</code> method.</p>
 <img src="/website/book/principles/liskovSubstitutionPrinciple/images/payroll.png" height="200">

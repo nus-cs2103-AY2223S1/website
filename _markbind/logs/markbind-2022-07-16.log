@@ -1,0 +1,678 @@
+2022-07-16T08:13:32.080Z - info: Website generation (lazy) started at 4:13:29 pm
+2022-07-16T08:13:36.892Z - info: Building assets...
+2022-07-16T08:13:40.889Z - info: Assets built
+2022-07-16T08:13:40.889Z - info: Generating landing page...
+2022-07-16T08:13:40.979Z - error:  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\admin\index.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\admin\index.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\admin\index.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\admin\index.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\admin\index.md)
+  Error: template not found: _module-CS2103/textbookTopics.mbdf
+    at Object._prettifyError (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:36:11)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\environment.js:631:18), <anonymous>:54:3)
+    at Template.render (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:372:8)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:326:7)
+    at Object.asyncIter (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:332:3)
+    at Environment.getTemplate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:59:20)
+    at VariableProcessor.renderWithSiteVariables (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:157:53)
+    at VariableProcessor.renderIncludeFile (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:256:34)
+    at processInclude (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:207:25)
+2022-07-16T08:13:40.997Z - warn:  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\default.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\default.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\css.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\default.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\header.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\default.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\header.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\default.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\header.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\default.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\header.md)
+  Error: template not found: _module-CS2103/textbookTopics.mbdf
+    at Object._prettifyError (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:36:11)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\environment.js:631:18), <anonymous>:96:3)
+    at Template.render (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:372:8)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:326:7)
+    at Object.asyncIter (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:332:3)
+    at Environment.getTemplate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:59:20)
+    at VariableProcessor.renderWithSiteVariables (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:157:53)
+    at Layout.generate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Layout\Layout.js:48:51)
+    at LayoutManager.generateLayoutIfNeeded (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Layout\LayoutManager.js:51:61)
+2022-07-16T08:13:41.969Z - info: Site data built
+2022-07-16T08:13:41.969Z - info: Website generation (lazy) complete! Total build time: 12.386s
+2022-07-16T08:13:42.714Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-07-16T08:13:42.714Z - info: Press CTRL+C to stop ...
+2022-07-16T08:17:20.219Z - info: Website generation (lazy) started at 4:17:20 pm
+2022-07-16T08:17:25.300Z - info: Building assets...
+2022-07-16T08:17:29.577Z - info: Assets built
+2022-07-16T08:17:29.578Z - info: Generating landing page...
+2022-07-16T08:17:29.752Z - error:  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\admin\index.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\admin\index.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\admin\index.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\admin\index.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\admin\index.md)
+  Error: template not found: _module-CS2103/textbookTopics.mbdf
+    at Object._prettifyError (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:36:11)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\environment.js:631:18), <anonymous>:54:3)
+    at Template.render (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:372:8)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:326:7)
+    at Object.asyncIter (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:332:3)
+    at Environment.getTemplate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:59:20)
+    at VariableProcessor.renderWithSiteVariables (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:157:53)
+    at VariableProcessor.renderIncludeFile (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:256:34)
+    at processInclude (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:207:25)
+2022-07-16T08:17:29.777Z - warn:  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\default.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\default.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\css.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\default.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\header.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\default.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\header.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\default.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\header.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\default.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\header.md)
+  Error: template not found: _module-CS2103/textbookTopics.mbdf
+    at Object._prettifyError (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:36:11)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\environment.js:631:18), <anonymous>:96:3)
+    at Template.render (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:372:8)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:326:7)
+    at Object.asyncIter (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:332:3)
+    at Environment.getTemplate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:59:20)
+    at VariableProcessor.renderWithSiteVariables (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:157:53)
+    at Layout.generate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Layout\Layout.js:48:51)
+    at LayoutManager.generateLayoutIfNeeded (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Layout\LayoutManager.js:51:61)
+2022-07-16T08:17:30.916Z - info: Site data built
+2022-07-16T08:17:30.916Z - info: Website generation (lazy) complete! Total build time: 10.807s
+2022-07-16T08:17:31.884Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-07-16T08:17:31.884Z - info: Press CTRL+C to stop ...
+2022-07-16T08:18:35.763Z - info: [4:18:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks-fragment.md
+2022-07-16T08:18:35.764Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:18:35.764Z - info: No pages are currently opened
+2022-07-16T08:18:35.775Z - info: [4:18:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\admin.njk
+2022-07-16T08:18:35.775Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:18:35.775Z - info: No pages are currently opened
+2022-07-16T08:18:35.790Z - info: [4:18:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\admin-tasks-fragment.md
+2022-07-16T08:18:35.790Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:18:35.790Z - info: No pages are currently opened
+2022-07-16T08:18:35.806Z - info: [4:18:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-deliverables-ppp-fragment.md
+2022-07-16T08:18:35.806Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:18:35.806Z - info: No pages are currently opened
+2022-07-16T08:18:35.820Z - info: [4:18:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\common-tutorials-fragment.md
+2022-07-16T08:18:35.820Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:18:35.820Z - info: No pages are currently opened
+2022-07-16T08:18:35.833Z - info: [4:18:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-pe-fragment.md
+2022-07-16T08:18:35.833Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:18:35.833Z - info: No pages are currently opened
+2022-07-16T08:18:35.851Z - info: [4:18:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-ped-fragment.md
+2022-07-16T08:18:35.852Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:18:35.852Z - info: No pages are currently opened
+2022-07-16T08:18:35.863Z - info: [4:18:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\config.njk
+2022-07-16T08:18:35.863Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:18:35.863Z - info: No pages are currently opened
+2022-07-16T08:18:35.878Z - info: [4:18:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-grading-bugs-fragment.md
+2022-07-16T08:18:35.878Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:18:35.879Z - info: No pages are currently opened
+2022-07-16T08:18:35.892Z - info: [4:18:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\peerEvaluations-midterm-fragment.md
+2022-07-16T08:18:35.892Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:18:35.892Z - info: No pages are currently opened
+2022-07-16T08:18:35.903Z - info: [4:18:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\tutorial-cs2103-fragment.md
+2022-07-16T08:18:35.903Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:18:35.903Z - info: No pages are currently opened
+2022-07-16T08:18:35.910Z - info: [4:18:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\peerEvaluations-final-fragment.md
+2022-07-16T08:18:35.910Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:18:35.910Z - info: No pages are currently opened
+2022-07-16T08:18:35.922Z - info: [4:18:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\ip-tasks-fragment.md
+2022-07-16T08:18:35.922Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:18:35.922Z - info: No pages are currently opened
+2022-07-16T08:18:35.942Z - info: [4:18:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\common-commentary-fragment.md
+2022-07-16T08:18:35.942Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:18:35.943Z - info: No pages are currently opened
+2022-07-16T08:18:35.954Z - info: [4:18:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\index.md
+2022-07-16T08:18:35.954Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:18:35.954Z - info: No pages are currently opened
+2022-07-16T08:18:36.797Z - info: Assets built
+2022-07-16T08:18:59.602Z - info: Website generation (lazy) started at 4:18:59 pm
+2022-07-16T08:19:03.891Z - info: Building assets...
+2022-07-16T08:19:07.165Z - info: Assets built
+2022-07-16T08:19:07.166Z - info: Generating landing page...
+2022-07-16T08:19:08.082Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-07-16T08:19:08.584Z - info: Site data built
+2022-07-16T08:19:08.584Z - info: Website generation (lazy) complete! Total build time: 9.094s
+2022-07-16T08:19:09.358Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-07-16T08:19:09.358Z - info: Press CTRL+C to stop ...
+2022-07-16T08:19:40.608Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\moduleOverview as some of its dependencies were changed since the last visit
+2022-07-16T08:19:41.082Z - info: Site data built
+2022-07-16T08:19:41.083Z - info: Lazy website regeneration complete! Total build time: 0.477s
+2022-07-16T08:23:13.648Z - info: [4:23:13 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\admin.njk
+2022-07-16T08:23:13.648Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:23:13.649Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:23:13.649Z - info: 1. admin/moduleOverview
+2022-07-16T08:23:13.662Z - info: [4:23:13 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\macros.njk
+2022-07-16T08:23:13.663Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:23:13.663Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:23:13.663Z - info: 1. admin/moduleOverview
+2022-07-16T08:23:13.681Z - info: [4:23:13 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\ip-tasks-fragment.md
+2022-07-16T08:23:13.681Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:23:13.681Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:23:13.681Z - info: 1. admin/moduleOverview
+2022-07-16T08:23:14.782Z - info: Rebuilding 1 pages
+2022-07-16T08:23:14.817Z - info: Assets built
+2022-07-16T08:23:15.040Z - info: Site data built
+2022-07-16T08:23:15.041Z - info: Pages rebuilt
+2022-07-16T08:23:15.041Z - info: Website regeneration complete! Total build time: 0.26s
+2022-07-16T08:27:01.140Z - info: [4:27:01 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\admin.njk
+2022-07-16T08:27:01.141Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:27:01.141Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:27:01.141Z - info: 1. admin/moduleOverview
+2022-07-16T08:27:01.154Z - info: [4:27:01 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\_markbind\variables.md
+2022-07-16T08:27:01.154Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:27:01.155Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:27:01.155Z - info: 1. admin/moduleOverview
+2022-07-16T08:27:01.167Z - info: [4:27:01 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\timeline.md
+2022-07-16T08:27:01.167Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:27:01.168Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:27:01.168Z - info: 1. admin/moduleOverview
+2022-07-16T08:27:01.177Z - info: [4:27:01 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters-printable\chapter-printable.njk
+2022-07-16T08:27:01.177Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:27:01.177Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:27:01.177Z - info: 1. admin/moduleOverview
+2022-07-16T08:27:01.189Z - info: [4:27:01 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2022-07-16T08:27:01.190Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:27:01.190Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:27:01.190Z - info: 1. admin/moduleOverview
+2022-07-16T08:27:01.206Z - info: [4:27:01 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\ip-tasks-fragment.md
+2022-07-16T08:27:01.206Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:27:01.206Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:27:01.206Z - info: 1. admin/moduleOverview
+2022-07-16T08:27:01.227Z - info: [4:27:01 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\index.md
+2022-07-16T08:27:01.228Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:27:01.228Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:27:01.228Z - info: 1. admin/moduleOverview
+2022-07-16T08:27:02.419Z - info: Rebuilding 1 pages
+2022-07-16T08:27:02.716Z - info: Assets built
+2022-07-16T08:27:02.761Z - info: Site data built
+2022-07-16T08:27:02.761Z - info: Pages rebuilt
+2022-07-16T08:27:02.761Z - info: Website regeneration complete! Total build time: 0.343s
+2022-07-16T08:27:08.572Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\usingThisWebsite as some of its dependencies were changed since the last visit
+2022-07-16T08:27:09.011Z - info: Site data built
+2022-07-16T08:27:09.012Z - info: Lazy website regeneration complete! Total build time: 0.44s
+2022-07-16T08:32:09.417Z - info: [4:32:09 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks-fragment.md
+2022-07-16T08:32:09.418Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:32:09.418Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:32:09.418Z - info: 1. admin/usingThisWebsite
+2022-07-16T08:32:09.437Z - info: [4:32:09 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-deliverables-website-fragment.md
+2022-07-16T08:32:09.437Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:32:09.437Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:32:09.438Z - info: 1. admin/usingThisWebsite
+2022-07-16T08:32:09.457Z - info: [4:32:09 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\_markbind\variables.md
+2022-07-16T08:32:09.457Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:32:09.457Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:32:09.457Z - info: 1. admin/usingThisWebsite
+2022-07-16T08:32:09.471Z - info: [4:32:09 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-deliverables-ppp-fragment.md
+2022-07-16T08:32:09.471Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:32:09.471Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:32:09.471Z - info: 1. admin/usingThisWebsite
+2022-07-16T08:32:09.481Z - info: [4:32:09 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week5\tutorial-cs2113-fragment.md
+2022-07-16T08:32:09.481Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:32:09.481Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:32:09.481Z - info: 1. admin/usingThisWebsite
+2022-07-16T08:32:09.492Z - info: [4:32:09 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\ip-showcase.md
+2022-07-16T08:32:09.493Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:32:09.493Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:32:09.493Z - info: 1. admin/usingThisWebsite
+2022-07-16T08:32:09.502Z - info: [4:32:09 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\monty\monty-fragment.md
+2022-07-16T08:32:09.503Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:32:09.503Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:32:09.503Z - info: 1. admin/usingThisWebsite
+2022-07-16T08:32:09.520Z - info: [4:32:09 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-pe-fragment.md
+2022-07-16T08:32:09.520Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:32:09.520Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:32:09.520Z - info: 1. admin/usingThisWebsite
+2022-07-16T08:32:09.536Z - info: [4:32:09 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-ped-fragment.md
+2022-07-16T08:32:09.536Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:32:09.536Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:32:09.536Z - info: 1. admin/usingThisWebsite
+2022-07-16T08:32:09.547Z - info: [4:32:09 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tee3201-fragment.md
+2022-07-16T08:32:09.547Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:32:09.548Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:32:09.548Z - info: 1. admin/usingThisWebsite
+2022-07-16T08:32:09.557Z - info: [4:32:09 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week5\tutorial-cs2103-fragment.md
+2022-07-16T08:32:09.557Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:32:09.557Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:32:09.557Z - info: 1. admin/usingThisWebsite
+2022-07-16T08:32:09.569Z - info: [4:32:09 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\macros.njk
+2022-07-16T08:32:09.569Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:32:09.569Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:32:09.569Z - info: 1. admin/usingThisWebsite
+2022-07-16T08:32:09.582Z - info: [4:32:09 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-timeline.md
+2022-07-16T08:32:09.582Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:32:09.582Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:32:09.582Z - info: 1. admin/usingThisWebsite
+2022-07-16T08:32:09.596Z - info: [4:32:09 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-deliverables-demo-fragment.md
+2022-07-16T08:32:09.596Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:32:09.596Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:32:09.596Z - info: 1. admin/usingThisWebsite
+2022-07-16T08:32:09.615Z - info: [4:32:09 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-expectations.md
+2022-07-16T08:32:09.615Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:32:09.616Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:32:09.616Z - info: 1. admin/usingThisWebsite
+2022-07-16T08:32:09.634Z - info: [4:32:09 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-constraints.md
+2022-07-16T08:32:09.634Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:32:09.634Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:32:09.634Z - info: 1. admin/usingThisWebsite
+2022-07-16T08:32:09.647Z - info: [4:32:09 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\variables.md
+2022-07-16T08:32:09.647Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:32:09.647Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:32:09.647Z - info: 1. admin/usingThisWebsite
+2022-07-16T08:32:10.432Z - info: Assets built
+2022-07-16T08:32:10.710Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2022-07-16T08:32:10.714Z - info: Rebuilding 1 pages
+2022-07-16T08:32:11.066Z - info: Site data built
+2022-07-16T08:32:11.066Z - info: Pages rebuilt
+2022-07-16T08:32:11.066Z - info: Website regeneration complete! Total build time: 0.425s
+2022-07-16T08:33:14.804Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week5\index as some of its dependencies were changed since the last visit
+2022-07-16T08:33:15.993Z - info: Site data built
+2022-07-16T08:33:15.993Z - info: Lazy website regeneration complete! Total build time: 1.19s
+2022-07-16T08:33:20.983Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week5\tutorial as some of its dependencies were changed since the last visit
+2022-07-16T08:33:21.468Z - info: Site data built
+2022-07-16T08:33:21.469Z - info: Lazy website regeneration complete! Total build time: 0.487s
+2022-07-16T08:35:18.566Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\index as some of its dependencies were changed since the last visit
+2022-07-16T08:35:19.010Z - info: Site data built
+2022-07-16T08:35:19.010Z - info: Lazy website regeneration complete! Total build time: 0.444s
+2022-07-16T08:40:15.417Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\moduleExpectations as some of its dependencies were changed since the last visit
+2022-07-16T08:40:15.584Z - info: Site data built
+2022-07-16T08:40:15.584Z - info: Lazy website regeneration complete! Total build time: 0.167s
+2022-07-16T08:43:50.532Z - info: [4:43:50 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\admin.njk
+2022-07-16T08:43:50.532Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:43:50.532Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:43:50.532Z - info: 1. admin/moduleExpectations
+2022-07-16T08:43:51.657Z - info: Rebuilding 1 pages
+2022-07-16T08:43:51.780Z - info: Site data built
+2022-07-16T08:43:51.781Z - info: Pages rebuilt
+2022-07-16T08:43:51.781Z - info: Website regeneration complete! Total build time: 0.125s
+2022-07-16T08:44:19.392Z - info: [4:44:19 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\admin.njk
+2022-07-16T08:44:19.392Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:44:19.392Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:44:19.392Z - info: 1. admin/moduleExpectations
+2022-07-16T08:44:20.507Z - info: Rebuilding 1 pages
+2022-07-16T08:44:20.589Z - info: Site data built
+2022-07-16T08:44:20.589Z - info: Pages rebuilt
+2022-07-16T08:44:20.589Z - info: Website regeneration complete! Total build time: 0.082s
+2022-07-16T08:44:42.150Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\weeklySchedule as some of its dependencies were changed since the last visit
+2022-07-16T08:44:42.501Z - info: Site data built
+2022-07-16T08:44:42.501Z - info: Lazy website regeneration complete! Total build time: 0.352s
+2022-07-16T08:44:50.876Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\lectures as some of its dependencies were changed since the last visit
+2022-07-16T08:44:51.100Z - info: Site data built
+2022-07-16T08:44:51.100Z - info: Lazy website regeneration complete! Total build time: 0.224s
+2022-07-16T08:45:03.089Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tutorials as some of its dependencies were changed since the last visit
+2022-07-16T08:45:03.436Z - info: Site data built
+2022-07-16T08:45:03.436Z - info: Lazy website regeneration complete! Total build time: 0.347s
+2022-07-16T08:48:00.601Z - info: [4:48:00 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\participation.md
+2022-07-16T08:48:00.602Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:48:00.602Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:48:00.602Z - info: 1. admin/tutorials
+2022-07-16T08:48:00.619Z - info: [4:48:00 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\topics.njk
+2022-07-16T08:48:00.619Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:48:00.619Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:48:00.619Z - info: 1. admin/tutorials
+2022-07-16T08:48:00.629Z - info: [4:48:00 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\_markbind\variables.md
+2022-07-16T08:48:00.630Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:48:00.630Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:48:00.630Z - info: 1. admin/tutorials
+2022-07-16T08:48:00.645Z - info: [4:48:00 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-grading.md
+2022-07-16T08:48:00.645Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:48:00.645Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:48:00.645Z - info: 1. admin/tutorials
+2022-07-16T08:48:00.655Z - info: [4:48:00 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\variables.md
+2022-07-16T08:48:00.655Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:48:00.655Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:48:00.655Z - info: 1. admin/tutorials
+2022-07-16T08:48:01.616Z - info: Assets built
+2022-07-16T08:48:01.682Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2022-07-16T08:48:01.684Z - info: Rebuilding 1 pages
+2022-07-16T08:48:01.942Z - info: Site data built
+2022-07-16T08:48:01.942Z - info: Pages rebuilt
+2022-07-16T08:48:01.942Z - info: Website regeneration complete! Total build time: 0.311s
+2022-07-16T08:48:51.787Z - info: [4:48:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\header.md
+2022-07-16T08:48:51.787Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:48:51.787Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:48:51.787Z - info: 1. admin/tutorials
+2022-07-16T08:48:51.802Z - info: [4:48:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\boilerplates\montyFragment.md
+2022-07-16T08:48:51.802Z - info: Synchronizing opened pages list before reload
+2022-07-16T08:48:51.803Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T08:48:51.803Z - info: 1. admin/tutorials
+2022-07-16T08:48:52.945Z - info: Rebuilding 1 pages
+2022-07-16T08:48:52.995Z - info: Assets built
+2022-07-16T08:48:53.137Z - info: Site data built
+2022-07-16T08:48:53.137Z - info: Pages rebuilt
+2022-07-16T08:48:53.137Z - info: Website regeneration complete! Total build time: 0.193s
+2022-07-16T08:49:00.028Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\instructors as some of its dependencies were changed since the last visit
+2022-07-16T08:49:00.287Z - info: Site data built
+2022-07-16T08:49:00.287Z - info: Lazy website regeneration complete! Total build time: 0.259s
+2022-07-16T08:49:05.762Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\textbooks as some of its dependencies were changed since the last visit
+2022-07-16T08:49:05.909Z - info: Site data built
+2022-07-16T08:49:05.909Z - info: Lazy website regeneration complete! Total build time: 0.147s
+2022-07-16T08:49:12.173Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\programmingLanguages as some of its dependencies were changed since the last visit
+2022-07-16T08:49:12.348Z - info: Site data built
+2022-07-16T08:49:12.348Z - info: Lazy website regeneration complete! Total build time: 0.175s
+2022-07-16T08:49:20.049Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\standardsAndConventions as some of its dependencies were changed since the last visit
+2022-07-16T08:49:20.203Z - info: Site data built
+2022-07-16T08:49:20.203Z - info: Lazy website regeneration complete! Total build time: 0.154s
+2022-07-16T08:49:30.479Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\ip-overview as some of its dependencies were changed since the last visit
+2022-07-16T08:49:30.741Z - info: Site data built
+2022-07-16T08:49:30.741Z - info: Lazy website regeneration complete! Total build time: 0.263s
+2022-07-16T08:49:36.212Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w2 as some of its dependencies were changed since the last visit
+2022-07-16T08:49:37.870Z - info: Site data built
+2022-07-16T08:49:37.870Z - info: Lazy website regeneration complete! Total build time: 1.658s
+2022-07-16T08:49:38.683Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w2 as some of its dependencies were changed since the last visit
+2022-07-16T08:49:39.622Z - info: Site data built
+2022-07-16T08:49:39.623Z - info: Lazy website regeneration complete! Total build time: 0.94s
+2022-07-16T08:50:13.807Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w3 as some of its dependencies were changed since the last visit
+2022-07-16T08:50:14.932Z - info: Site data built
+2022-07-16T08:50:14.932Z - info: Lazy website regeneration complete! Total build time: 1.126s
+2022-07-16T08:50:33.619Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w4 as some of its dependencies were changed since the last visit
+2022-07-16T08:50:34.686Z - info: Site data built
+2022-07-16T08:50:34.686Z - info: Lazy website regeneration complete! Total build time: 1.068s
+2022-07-16T08:52:35.670Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w5 as some of its dependencies were changed since the last visit
+2022-07-16T08:52:36.347Z - info: Site data built
+2022-07-16T08:52:36.347Z - info: Lazy website regeneration complete! Total build time: 0.677s
+2022-07-16T08:52:57.969Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w6 as some of its dependencies were changed since the last visit
+2022-07-16T08:52:58.803Z - info: Site data built
+2022-07-16T08:52:58.804Z - info: Lazy website regeneration complete! Total build time: 0.835s
+2022-07-16T08:53:11.441Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w7 as some of its dependencies were changed since the last visit
+2022-07-16T08:53:11.669Z - info: Site data built
+2022-07-16T08:53:11.669Z - info: Lazy website regeneration complete! Total build time: 0.228s
+2022-07-16T08:53:15.434Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w8 as some of its dependencies were changed since the last visit
+2022-07-16T08:53:15.667Z - info: Site data built
+2022-07-16T08:53:15.667Z - info: Lazy website regeneration complete! Total build time: 0.234s
+2022-07-16T08:53:22.305Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\ip-grading as some of its dependencies were changed since the last visit
+2022-07-16T08:53:22.476Z - info: Site data built
+2022-07-16T08:53:22.476Z - info: Lazy website regeneration complete! Total build time: 0.172s
+2022-07-16T08:53:28.231Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-expectations as some of its dependencies were changed since the last visit
+2022-07-16T08:53:28.466Z - info: Site data built
+2022-07-16T08:53:28.467Z - info: Lazy website regeneration complete! Total build time: 0.235s
+2022-07-16T13:52:48.091Z - info: Website generation (lazy) started at 9:52:45 pm
+2022-07-16T13:52:54.066Z - info: Building assets...
+2022-07-16T13:52:59.033Z - info: Assets built
+2022-07-16T13:52:59.034Z - info: Generating landing page...
+2022-07-16T13:52:59.769Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-07-16T13:53:00.907Z - info: Site data built
+2022-07-16T13:53:00.908Z - info: Website generation (lazy) complete! Total build time: 15.418s
+2022-07-16T13:53:01.821Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-07-16T13:53:01.822Z - info: Press CTRL+C to stop ...
+2022-07-16T14:00:15.988Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w7 as some of its dependencies were changed since the last visit
+2022-07-16T14:00:16.794Z - info: Site data built
+2022-07-16T14:00:16.794Z - info: Lazy website regeneration complete! Total build time: 0.808s
+2022-07-16T14:00:21.407Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w8 as some of its dependencies were changed since the last visit
+2022-07-16T14:00:21.787Z - info: Site data built
+2022-07-16T14:00:21.788Z - info: Lazy website regeneration complete! Total build time: 0.381s
+2022-07-16T14:00:27.084Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\ip-grading as some of its dependencies were changed since the last visit
+2022-07-16T14:00:27.309Z - info: Site data built
+2022-07-16T14:00:27.310Z - info: Lazy website regeneration complete! Total build time: 0.226s
+2022-07-16T14:00:32.257Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-expectations as some of its dependencies were changed since the last visit
+2022-07-16T14:00:32.711Z - info: Site data built
+2022-07-16T14:00:32.711Z - info: Lazy website regeneration complete! Total build time: 0.454s
+2022-07-16T14:00:47.140Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-timeline as some of its dependencies were changed since the last visit
+2022-07-16T14:00:47.804Z - info: Site data built
+2022-07-16T14:00:47.805Z - info: Lazy website regeneration complete! Total build time: 0.665s
+2022-07-16T14:00:48.721Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-timeline as some of its dependencies were changed since the last visit
+2022-07-16T14:00:49.177Z - info: Site data built
+2022-07-16T14:00:49.177Z - info: Lazy website regeneration complete! Total build time: 0.456s
+2022-07-16T14:00:49.191Z - debug: The process cannot access the file because it is being used by another process.
+
+2022-07-16T14:00:49.192Z - debug: The process cannot access the file because it is being used by another process.
+
+2022-07-16T14:00:54.267Z - debug:  
+2022-07-16T14:00:54.286Z - debug:  
+2022-07-16T14:01:42.696Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-constraints as some of its dependencies were changed since the last visit
+2022-07-16T14:01:43.033Z - info: Site data built
+2022-07-16T14:01:43.034Z - info: Lazy website regeneration complete! Total build time: 0.338s
+2022-07-16T14:02:51.268Z - info: [10:02:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-constraints.md
+2022-07-16T14:02:51.269Z - info: Synchronizing opened pages list before reload
+2022-07-16T14:02:51.269Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T14:02:51.269Z - info: 1. admin/tp-constraints
+2022-07-16T14:02:52.284Z - info: Rebuilding 1 pages
+2022-07-16T14:02:52.685Z - info: Site data built
+2022-07-16T14:02:52.685Z - info: Pages rebuilt
+2022-07-16T14:02:52.685Z - info: Website regeneration complete! Total build time: 0.402s
+2022-07-16T14:03:08.348Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-teams as some of its dependencies were changed since the last visit
+2022-07-16T14:03:08.663Z - info: Site data built
+2022-07-16T14:03:08.663Z - info: Lazy website regeneration complete! Total build time: 0.316s
+2022-07-16T14:03:13.295Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-w3 as some of its dependencies were changed since the last visit
+2022-07-16T14:03:13.963Z - info: Site data built
+2022-07-16T14:03:13.964Z - info: Lazy website regeneration complete! Total build time: 0.668s
+2022-07-16T14:03:27.957Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-w4 as some of its dependencies were changed since the last visit
+2022-07-16T14:03:28.857Z - info: Site data built
+2022-07-16T14:03:28.858Z - info: Lazy website regeneration complete! Total build time: 0.901s
+2022-07-16T14:03:43.414Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-w5 as some of its dependencies were changed since the last visit
+2022-07-16T14:03:44.322Z - info: Site data built
+2022-07-16T14:03:44.322Z - info: Lazy website regeneration complete! Total build time: 0.909s
+2022-07-16T14:03:51.764Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-w6 as some of its dependencies were changed since the last visit
+2022-07-16T14:03:53.368Z - info: Site data built
+2022-07-16T14:03:53.368Z - info: Lazy website regeneration complete! Total build time: 1.605s
+2022-07-16T14:04:05.423Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-w7 as some of its dependencies were changed since the last visit
+2022-07-16T14:04:07.120Z - info: Site data built
+2022-07-16T14:04:07.120Z - info: Lazy website regeneration complete! Total build time: 1.697s
+2022-07-16T14:04:23.933Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-w8 as some of its dependencies were changed since the last visit
+2022-07-16T14:04:24.907Z - info: Site data built
+2022-07-16T14:04:24.907Z - info: Lazy website regeneration complete! Total build time: 0.975s
+2022-07-16T14:04:35.986Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-w9 as some of its dependencies were changed since the last visit
+2022-07-16T14:04:36.575Z - info: Site data built
+2022-07-16T14:04:36.575Z - info: Lazy website regeneration complete! Total build time: 0.59s
+2022-07-16T14:04:47.357Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-w10 as some of its dependencies were changed since the last visit
+2022-07-16T14:04:48.378Z - info: Site data built
+2022-07-16T14:04:48.378Z - info: Lazy website regeneration complete! Total build time: 1.021s
+2022-07-16T14:05:13.259Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-w11 as some of its dependencies were changed since the last visit
+2022-07-16T14:05:14.520Z - info: Site data built
+2022-07-16T14:05:14.520Z - info: Lazy website regeneration complete! Total build time: 1.261s
+2022-07-16T14:06:10.029Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-w12 as some of its dependencies were changed since the last visit
+2022-07-16T14:06:13.010Z - info: Site data built
+2022-07-16T14:06:13.011Z - info: Lazy website regeneration complete! Total build time: 2.983s
+2022-07-16T14:06:53.271Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-w13 as some of its dependencies were changed since the last visit
+2022-07-16T14:06:55.730Z - info: Site data built
+2022-07-16T14:06:55.730Z - info: Lazy website regeneration complete! Total build time: 2.459s
+2022-07-16T14:07:07.132Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-deliverables as some of its dependencies were changed since the last visit
+2022-07-16T14:07:07.699Z - info: Site data built
+2022-07-16T14:07:07.699Z - info: Lazy website regeneration complete! Total build time: 0.568s
+2022-07-16T14:07:32.331Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-pe as some of its dependencies were changed since the last visit
+2022-07-16T14:07:34.264Z - info: Site data built
+2022-07-16T14:07:34.265Z - info: Lazy website regeneration complete! Total build time: 1.935s
+2022-07-16T14:08:27.393Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-grading as some of its dependencies were changed since the last visit
+2022-07-16T14:08:28.126Z - info: Site data built
+2022-07-16T14:08:28.126Z - info: Lazy website regeneration complete! Total build time: 0.733s
+2022-07-16T14:08:37.881Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-supervision as some of its dependencies were changed since the last visit
+2022-07-16T14:08:38.059Z - info: Site data built
+2022-07-16T14:08:38.060Z - info: Lazy website regeneration complete! Total build time: 0.178s
+2022-07-16T14:08:41.782Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\peerEvaluations as some of its dependencies were changed since the last visit
+2022-07-16T14:08:42.114Z - info: Site data built
+2022-07-16T14:08:42.114Z - info: Lazy website regeneration complete! Total build time: 0.332s
+2022-07-16T14:08:51.003Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tools as some of its dependencies were changed since the last visit
+2022-07-16T14:08:51.228Z - info: Site data built
+2022-07-16T14:08:51.228Z - info: Lazy website regeneration complete! Total build time: 0.225s
+2022-07-16T14:12:23.139Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\exams as some of its dependencies were changed since the last visit
+2022-07-16T14:12:23.322Z - info: Site data built
+2022-07-16T14:12:23.322Z - info: Lazy website regeneration complete! Total build time: 0.183s
+2022-07-16T14:12:32.196Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\participation as some of its dependencies were changed since the last visit
+2022-07-16T14:12:32.754Z - info: Site data built
+2022-07-16T14:12:32.754Z - info: Lazy website regeneration complete! Total build time: 0.559s
+2022-07-16T14:12:33.573Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\participation as some of its dependencies were changed since the last visit
+2022-07-16T14:12:33.802Z - info: Site data built
+2022-07-16T14:12:33.802Z - info: Lazy website regeneration complete! Total build time: 0.229s
+2022-07-16T14:12:48.672Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\gradeBreakdown as some of its dependencies were changed since the last visit
+2022-07-16T14:12:49.502Z - info: Site data built
+2022-07-16T14:12:49.503Z - info: Lazy website regeneration complete! Total build time: 0.831s
+2022-07-16T14:12:51.011Z - debug:  
+2022-07-16T14:13:02.691Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\appendixA-principles as some of its dependencies were changed since the last visit
+2022-07-16T14:13:02.834Z - info: Site data built
+2022-07-16T14:13:02.834Z - info: Lazy website regeneration complete! Total build time: 0.144s
+2022-07-16T14:13:15.425Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\appendixB-policies as some of its dependencies were changed since the last visit
+2022-07-16T14:13:16.092Z - info: Site data built
+2022-07-16T14:13:16.092Z - info: Lazy website regeneration complete! Total build time: 0.668s
+2022-07-16T14:13:30.646Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\appendixC-faq as some of its dependencies were changed since the last visit
+2022-07-16T14:13:30.866Z - info: Site data built
+2022-07-16T14:13:30.866Z - info: Lazy website regeneration complete! Total build time: 0.22s
+2022-07-16T14:13:38.393Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\appendixD-help as some of its dependencies were changed since the last visit
+2022-07-16T14:13:38.658Z - info: Site data built
+2022-07-16T14:13:38.659Z - info: Lazy website regeneration complete! Total build time: 0.267s
+2022-07-16T14:13:50.963Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub as some of its dependencies were changed since the last visit
+2022-07-16T14:13:51.605Z - info: Site data built
+2022-07-16T14:13:51.606Z - info: Lazy website regeneration complete! Total build time: 0.643s
+2022-07-16T14:14:07.134Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\appendixF-teamworkIssues as some of its dependencies were changed since the last visit
+2022-07-16T14:14:07.300Z - info: Site data built
+2022-07-16T14:14:07.301Z - info: Lazy website regeneration complete! Total build time: 0.166s
+2022-07-16T14:14:15.836Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\appendixG-CS2103R as some of its dependencies were changed since the last visit
+2022-07-16T14:14:16.037Z - info: Site data built
+2022-07-16T14:14:16.037Z - info: Lazy website regeneration complete! Total build time: 0.202s
+2022-07-16T14:57:12.410Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\index as some of its dependencies were changed since the last visit
+2022-07-16T14:57:13.553Z - info: Site data built
+2022-07-16T14:57:13.553Z - info: Lazy website regeneration complete! Total build time: 1.143s
+2022-07-16T14:57:18.518Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\admin as some of its dependencies were changed since the last visit
+2022-07-16T14:57:20.737Z - info: Site data built
+2022-07-16T14:57:20.738Z - info: Lazy website regeneration complete! Total build time: 2.219s
+2022-07-16T14:57:22.014Z - debug:  
+2022-07-16T14:57:25.645Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\topics as some of its dependencies were changed since the last visit
+2022-07-16T14:57:28.545Z - info: Site data built
+2022-07-16T14:57:28.545Z - info: Lazy website regeneration complete! Total build time: 2.9s
+2022-07-16T14:57:29.453Z - debug:  
+2022-07-16T14:58:22.719Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\project as some of its dependencies were changed since the last visit
+2022-07-16T14:58:23.013Z - info: Site data built
+2022-07-16T14:58:23.014Z - info: Lazy website regeneration complete! Total build time: 0.296s
+2022-07-16T14:58:25.908Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\tutorial as some of its dependencies were changed since the last visit
+2022-07-16T14:58:26.103Z - info: Site data built
+2022-07-16T14:58:26.103Z - info: Lazy website regeneration complete! Total build time: 0.195s
+2022-07-16T14:58:49.675Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\index as some of its dependencies were changed since the last visit
+2022-07-16T14:58:50.590Z - info: Site data built
+2022-07-16T14:58:50.591Z - info: Lazy website regeneration complete! Total build time: 0.916s
+2022-07-16T14:58:55.466Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week2\index as some of its dependencies were changed since the last visit
+2022-07-16T14:58:56.201Z - info: Site data built
+2022-07-16T14:58:56.201Z - info: Lazy website regeneration complete! Total build time: 0.735s
+2022-07-16T14:59:28.980Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\admin as some of its dependencies were changed since the last visit
+2022-07-16T14:59:29.606Z - info: Site data built
+2022-07-16T14:59:29.606Z - info: Lazy website regeneration complete! Total build time: 0.626s
+2022-07-16T14:59:37.633Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\topics as some of its dependencies were changed since the last visit
+2022-07-16T14:59:39.391Z - info: Site data built
+2022-07-16T14:59:39.391Z - info: Lazy website regeneration complete! Total build time: 1.758s
+2022-07-16T14:59:43.922Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\tutorial as some of its dependencies were changed since the last visit
+2022-07-16T14:59:44.317Z - info: Site data built
+2022-07-16T14:59:44.317Z - info: Lazy website regeneration complete! Total build time: 0.395s
+2022-07-16T15:00:52.372Z - info: [11:00:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\index.md
+2022-07-16T15:00:52.373Z - info: Synchronizing opened pages list before reload
+2022-07-16T15:00:52.373Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T15:00:52.374Z - info: 1. schedule/week3/tutorial
+2022-07-16T15:00:53.393Z - info: Rebuilding 1 pages
+2022-07-16T15:00:53.939Z - info: Site data built
+2022-07-16T15:00:53.940Z - info: Pages rebuilt
+2022-07-16T15:00:53.940Z - info: Website regeneration complete! Total build time: 0.548s
+2022-07-16T15:00:58.768Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\index as some of its dependencies were changed since the last visit
+2022-07-16T15:00:59.683Z - info: Site data built
+2022-07-16T15:00:59.683Z - info: Lazy website regeneration complete! Total build time: 0.916s
+2022-07-16T15:01:06.030Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week5\index as some of its dependencies were changed since the last visit
+2022-07-16T15:01:06.982Z - info: Site data built
+2022-07-16T15:01:06.982Z - info: Lazy website regeneration complete! Total build time: 0.952s
+2022-07-16T15:01:25.721Z - info: [11:01:25 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\index.md
+2022-07-16T15:01:25.721Z - info: Synchronizing opened pages list before reload
+2022-07-16T15:01:25.721Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T15:01:25.722Z - info: 1. schedule/week5/index
+2022-07-16T15:01:26.734Z - info: Rebuilding 1 pages
+2022-07-16T15:01:27.311Z - info: Site data built
+2022-07-16T15:01:27.312Z - info: Pages rebuilt
+2022-07-16T15:01:27.312Z - info: Website regeneration complete! Total build time: 0.579s
+2022-07-16T15:01:29.794Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\index as some of its dependencies were changed since the last visit
+2022-07-16T15:01:30.388Z - info: Site data built
+2022-07-16T15:01:30.388Z - info: Lazy website regeneration complete! Total build time: 0.595s
+2022-07-16T15:01:34.579Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week6\index as some of its dependencies were changed since the last visit
+2022-07-16T15:01:35.177Z - info: Site data built
+2022-07-16T15:01:35.177Z - info: Lazy website regeneration complete! Total build time: 0.598s
+2022-07-16T15:05:13.062Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week7\index as some of its dependencies were changed since the last visit
+2022-07-16T15:05:14.268Z - info: Site data built
+2022-07-16T15:05:14.268Z - info: Lazy website regeneration complete! Total build time: 1.207s
+2022-07-16T15:05:21.170Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week8\index as some of its dependencies were changed since the last visit
+2022-07-16T15:05:21.941Z - info: Site data built
+2022-07-16T15:05:21.941Z - info: Lazy website regeneration complete! Total build time: 0.772s
+2022-07-16T15:05:26.922Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\index as some of its dependencies were changed since the last visit
+2022-07-16T15:05:27.680Z - info: Site data built
+2022-07-16T15:05:27.680Z - info: Lazy website regeneration complete! Total build time: 0.758s
+2022-07-16T15:05:32.103Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week10\index as some of its dependencies were changed since the last visit
+2022-07-16T15:05:32.927Z - info: Site data built
+2022-07-16T15:05:32.927Z - info: Lazy website regeneration complete! Total build time: 0.824s
+2022-07-16T15:05:37.240Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\index as some of its dependencies were changed since the last visit
+2022-07-16T15:05:38.208Z - info: Site data built
+2022-07-16T15:05:38.208Z - info: Lazy website regeneration complete! Total build time: 0.969s
+2022-07-16T15:05:41.864Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week12\index as some of its dependencies were changed since the last visit
+2022-07-16T15:05:42.445Z - info: Site data built
+2022-07-16T15:05:42.445Z - info: Lazy website regeneration complete! Total build time: 0.582s
+2022-07-16T15:05:45.362Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week13\index as some of its dependencies were changed since the last visit
+2022-07-16T15:05:45.827Z - info: Site data built
+2022-07-16T15:05:45.827Z - info: Lazy website regeneration complete! Total build time: 0.465s
+2022-07-16T15:07:16.621Z - info: [11:07:16 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\macros.njk
+2022-07-16T15:07:16.622Z - info: Synchronizing opened pages list before reload
+2022-07-16T15:07:16.622Z - info: Current opened pages, from most-to-least recent:
+2022-07-16T15:07:16.622Z - info: 1. schedule/week13/index
+2022-07-16T15:07:17.844Z - info: Rebuilding 1 pages
+2022-07-16T15:07:18.433Z - info: Site data built
+2022-07-16T15:07:18.433Z - info: Pages rebuilt
+2022-07-16T15:07:18.433Z - info: Website regeneration complete! Total build time: 0.591s
+2022-07-16T15:09:11.093Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\index as some of its dependencies were changed since the last visit
+2022-07-16T15:09:11.373Z - info: Site data built
+2022-07-16T15:09:11.374Z - info: Lazy website regeneration complete! Total build time: 0.281s
+2022-07-16T15:09:21.760Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\gatheringRequirements as some of its dependencies were changed since the last visit
+2022-07-16T15:09:22.115Z - info: Site data built
+2022-07-16T15:09:22.115Z - info: Lazy website regeneration complete! Total build time: 0.355s
+2022-07-16T15:09:30.405Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\print as some of its dependencies were changed since the last visit
+2022-07-16T15:09:38.638Z - debug:  
+2022-07-16T15:09:38.641Z - debug:  
+2022-07-16T15:09:38.654Z - debug:  
+2022-07-16T15:09:40.654Z - debug:  
+2022-07-16T15:09:40.657Z - debug:  
+2022-07-16T15:09:40.657Z - debug:  
+2022-07-16T15:09:41.092Z - info: Site data built
+2022-07-16T15:09:41.092Z - info: Lazy website regeneration complete! Total build time: 10.687s
+2022-07-16T15:23:09.591Z - info: Website generation started at 11:23:08 pm
+2022-07-16T15:23:15.648Z - info: Building assets...
+2022-07-16T15:23:19.897Z - info: Assets built
+2022-07-16T15:23:19.898Z - info: Generating pages...
+2022-07-16T15:23:28.732Z - debug:  
+2022-07-16T15:23:28.733Z - debug:  
+2022-07-16T15:23:30.517Z - debug:  
+2022-07-16T15:23:30.520Z - debug:  
+2022-07-16T15:23:30.520Z - debug:  
+2022-07-16T15:23:30.520Z - debug:  
+2022-07-16T15:25:25.290Z - debug:  
+2022-07-16T15:25:38.135Z - debug:  
+2022-07-16T15:25:38.228Z - debug:  
+2022-07-16T15:25:44.355Z - info: Pages built
+2022-07-16T15:25:45.540Z - info: Site data built
+2022-07-16T15:25:45.540Z - info: Website generation complete! Total build time: 157.189s
+2022-07-16T15:25:46.577Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-07-16T15:25:46.577Z - info: Press CTRL+C to stop ...
+2022-07-16T15:26:22.042Z - info: Website generation started at 11:26:18 pm
+2022-07-16T15:26:27.879Z - info: Building assets...
