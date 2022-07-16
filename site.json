@@ -1,6 +1,6 @@
 {
   "baseUrl": "/website",
-  "titlePrefix": "CS2103/T",
+  "titlePrefix": "CS2113/T",
   "style": {
     "codeTheme": "light"
   },
@@ -58,13 +58,10 @@
   },
   "enableSearch": true,
   "headingIndexingLevel": 5,
-  "plugins": ["filterTags", "googleAnalytics"],
+  "plugins": ["filterTags"],
   "pluginsContext": {
     "filterTags" : {
-      "tags": ["m--cs2103"]
-    },
-    "googleAnalytics": {
-       "trackingID": "UA-122519234-1"
+      "tags": ["m--cs2113"]
     }
   },
   "algolia": {
@@ -73,11 +70,11 @@
     "indexName": "nus-tic-cs",
     "algoliaOptions": {
       "hitsPerPage": 10,
-      "facetFilters": [["site:nus-cs2103-ay2223s1.github.io"], ["tags:admin", "tags:se-book-adapted", "tags:schedule"]]
+      "facetFilters": [["site:nus-cs2113-ay2223s1.github.io"], ["tags:admin", "tags:se-book-adapted", "tags:schedule"]]
     },
     "debug": false
   },
-  "deploy": {
+    "deploy": {
     "message": "Site Update.",
     "repo": "https://github.com/nus-cs2103-AY2223S1/website.git",
     "branch": "gh-pages"
