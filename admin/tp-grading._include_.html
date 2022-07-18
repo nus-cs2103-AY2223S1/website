@@ -21,7 +21,7 @@ CS2103T projects will be assessed separately from CS2103 projects.</span> Given 
 <ul>
 <li>the teaching team (based on product demo and user guide)</li>
 <li>peers from other teams (based on peer testing and user guide)</li></ul>
-<panel type class="embedding" minimized><template #header><p>Admin <span><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></span> tP → PE → <mark>Grading Instructions for Product Design</mark> <span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span></p></template>
+<panel type class="embedding algolia-no-index" minimized><template #header><p>Admin <span><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></span> tP → PE → <mark>Grading Instructions for Product Design</mark> <span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span></p></template>
 <div>
 <p><thumbnail circle background="#28a745" font-color="white" size="25"><strong>Q</strong></thumbnail> <strong>Quality of the product design,</strong><br>
 Evaluate based on the User Guide and the actual product behavior.</p>
@@ -98,7 +98,7 @@ Evaluate based on the User Guide and the actual product behavior.</p>
 <ul>
 <li>Step 1: Evaluate the effort for the entire project. This is evaluated by peers who tested your product, and tutors.</li></ul>
 <div class="indented-level2">
-<panel type class="embedding" minimized><template #header><p>Admin <span><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></span> tP → PE → <mark>Questions used for Implementation Effort</mark> <span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span></p></template>
+<panel type class="embedding algolia-no-index" minimized><template #header><p>Admin <span><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></span> tP → PE → <mark>Questions used for Implementation Effort</mark> <span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span></p></template>
 <div>
 <div tags="m--cs2103 m--tic4002">
 <p><thumbnail circle background="#28a745" font-color="white" size="25"><strong>Q</strong></thumbnail> <strong>If the implementation effort required to create AB3 from scratch is 10, the estimated implementation effort of this team is,</strong> [<code class="hljs inline no-lang" v-pre>0</code>..<code class="hljs inline no-lang" v-pre>20</code>] e.g., if you give <code class="hljs inline no-lang" v-pre>8</code>, that means the team's effort is about 80% of that spent on creating AB3. We expect most typical teams to score near to <code class="hljs inline no-lang" v-pre>10</code>.</p>
@@ -110,11 +110,11 @@ Evaluate based on the User Guide and the actual product behavior.</p>
 <ul>
 <li>Step 2: Evaluate how much of that effort can be attributed to you. This is evaluated by team members, and tutors.</li></ul>
 <div class="indented-level2">
-<panel type class="embedding" minimized><template #header><p>Admin <span><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></span> Peer Evaluations → <mark>Questions used for Evaluating Implementation Effort</mark> <span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span></p></template>
+<panel type class="embedding algolia-no-index" minimized><template #header><p>Admin <span><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></span> Peer Evaluations → <mark>Questions used for Evaluating Implementation Effort</mark> <span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span></p></template>
 <div>
 <p><thumbnail circle background="#28a745" font-color="white" size="25"><strong>Q</strong></thumbnail> <strong>The team members' contribution to the product implementation (excluding UG, DG, and team-based tasks) is,</strong></p>
 <div>
-<panel type="seamless"><template #header><p>Uses the <code class="hljs inline no-lang" v-pre>Equal Share +/- N%</code> scale for the answer</p></template>
+<panel type="seamless" class="algolia-no-index"><template #header><p>Uses the <code class="hljs inline no-lang" v-pre>Equal Share +/- N%</code> scale for the answer</p></template>
 <ul radio-group="070b7" class="radio-list">
 <li class="radio-list-item"><label><input class="radio-list-input" name="070b7" type="radio"> <code class="hljs inline no-lang" v-pre>Equal share</code> <span class="dimmed">i.e., if the team has 4 members, this person did 1/4 of the work</span></label></li>
 <li class="radio-list-item"><label><input class="radio-list-input" name="070b7" type="radio"> <code class="hljs inline no-lang" v-pre>Equal share + 10%</code> <span class="dimmed">i.e., this person did about 10% more than an equal share (equal share x 1.10)</span></label></li>
@@ -135,7 +135,7 @@ Evaluate based on the User Guide and the actual product behavior.</p>
 <ol>
 <li>functionality bugs in your work found by others during the <a href="/website/admin/tp-pe.html#tp-practical-exam">Practical Exam (PE)</a></li>
 <li>your test code <span class="dimmed">(note <trigger trigger="click" for="modal:projectGradingQA-testingExpectations">our expectations for automated testing</trigger>)</span></li></ol>
-<modal large id="modal:projectGradingQA-testingExpectations"><template #header>Our expectations for automated testing in the project</template>
+<modal large id="modal:projectGradingQA-testingExpectations" class="algolia-no-index"><template #header>Our expectations for automated testing in the project</template>
   <div>
 <ul>
 <li><span class="badge bg-info">Expectation</span> <span class="text-info"><strong>Write <em>some</em> automated tests</strong></span> so that we can evaluate your ability to write tests.</li></ul>
@@ -180,7 +180,7 @@ There is no requirement for a minimum test coverage level. Note that in a high-e
 <ul>
 <li>Step 1: Evaluate the whole UG and DG. This is evaluated by peers who tested your product, and tutors.</li></ul>
 <div class="indented-level2">
-<panel type class="embedding" minimized><template #header><p>Admin <span><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></span> tP → PE → <mark>Grading Instructions for User Guide</mark> <span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span></p></template>
+<panel type class="embedding algolia-no-index" minimized><template #header><p>Admin <span><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></span> tP → PE → <mark>Grading Instructions for User Guide</mark> <span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span></p></template>
 <div>
 <p><thumbnail circle background="#28a745" font-color="white" size="25"><strong>Q</strong></thumbnail> <strong>Compared to AddressBoook-Level3 (AB3), the overall quality of the UG you evaluated is,</strong><br>
 Evaluate based on fit-for-purpose, from the perspective of a target user.
@@ -191,7 +191,7 @@ For reference, the AB3 UG is <a href="https://se-education.org/addressbook-level
 <li class="radio-list-item"><label><input class="radio-list-input" name="94300" type="radio">  Similar</label></li>
 <li class="radio-list-item"><label><input class="radio-list-input" name="94300" type="radio">  Higher</label></li></ul></div></panel></div><p></p>
 <div class="indented-level2">
-<panel type class="embedding" minimized><template #header><p>Admin <span><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></span> tP → PE → <mark>Grading Instructions for Developer Guide</mark> <span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span></p></template>
+<panel type class="embedding algolia-no-index" minimized><template #header><p>Admin <span><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></span> tP → PE → <mark>Grading Instructions for Developer Guide</mark> <span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span></p></template>
 <div>
 <p><thumbnail circle background="#28a745" font-color="white" size="25"><strong>Q</strong></thumbnail> <strong>Compared to AB3, the overall quality of the DG you evaluated is,</strong><br>
 Evaluate based on fit-for-purpose from the perspective of a new team member trying to understand the product's internal design by reading the DG.
@@ -204,11 +204,11 @@ For reference, the AB3 DG is <a href="https://se-education.org/addressbook-level
 <ul>
 <li>Step 2: Evaluate how much of that effort can be attributed to you. This is evaluated by team members, and tutors.</li></ul>
 <div class="indented-level2">
-<panel type class="embedding" minimized><template #header><p>Admin <span><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></span> Peer Evaluations → <mark>Questions used for Evaluating the Contribution to the UG</mark> <span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span></p></template>
+<panel type class="embedding algolia-no-index" minimized><template #header><p>Admin <span><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></span> Peer Evaluations → <mark>Questions used for Evaluating the Contribution to the UG</mark> <span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span></p></template>
 <div>
 <p><thumbnail circle background="#28a745" font-color="white" size="25"><strong>Q</strong></thumbnail> <strong>The team members' contribution to the User Guide is,</strong></p>
 <span id="equalShareScale">
-<panel type="seamless"><template #header><p>Uses the <code class="hljs inline no-lang" v-pre>Equal Share +/- N%</code> scale for the answer</p></template>
+<panel type="seamless" class="algolia-no-index"><template #header><p>Uses the <code class="hljs inline no-lang" v-pre>Equal Share +/- N%</code> scale for the answer</p></template>
 <ul radio-group="070b7" class="radio-list">
 <li class="radio-list-item"><label><input class="radio-list-input" name="070b7" type="radio"> <code class="hljs inline no-lang" v-pre>Equal share</code> <span class="dimmed">i.e., if the team has 4 members, this person did 1/4 of the work</span></label></li>
 <li class="radio-list-item"><label><input class="radio-list-input" name="070b7" type="radio"> <code class="hljs inline no-lang" v-pre>Equal share + 10%</code> <span class="dimmed">i.e., this person did about 10% more than an equal share (equal share x 1.10)</span></label></li>
@@ -217,11 +217,11 @@ For reference, the AB3 DG is <a href="https://se-education.org/addressbook-level
 <li class="radio-list-item"><label><input class="radio-list-input" name="070b7" type="radio"> <code class="hljs inline no-lang" v-pre>Equal share - 10%</code> <span class="dimmed">i.e., this person did about 10% less than an equal share (equal share x 0.90)</span></label></li>
 <li class="radio-list-item"><label><input class="radio-list-input" name="070b7" type="radio"> <code class="hljs inline no-lang" v-pre>Equal share - 20%</code> <span class="dimmed">i.e., this person did about 20% less than an equal share (equal share x 0.80)</span></label></li></ul></panel></span></div></panel></div><p></p>
 <div class="indented-level2">
-<panel type class="embedding" minimized><template #header><p>Admin <span><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></span> Peer Evaluations → <mark>Questions used for Evaluating the Contribution to the DG</mark> <span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span></p></template>
+<panel type class="embedding algolia-no-index" minimized><template #header><p>Admin <span><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></span> Peer Evaluations → <mark>Questions used for Evaluating the Contribution to the DG</mark> <span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span></p></template>
 <div>
 <p><thumbnail circle background="#28a745" font-color="white" size="25"><strong>Q</strong></thumbnail> <strong>The team members' contribution to the Developer Guide is,</strong></p>
 <div>
-<panel type="seamless"><template #header><p>Uses the <code class="hljs inline no-lang" v-pre>Equal Share +/- N%</code> scale for the answer</p></template>
+<panel type="seamless" class="algolia-no-index"><template #header><p>Uses the <code class="hljs inline no-lang" v-pre>Equal Share +/- N%</code> scale for the answer</p></template>
 <ul radio-group="070b7" class="radio-list">
 <li class="radio-list-item"><label><input class="radio-list-input" name="070b7" type="radio"> <code class="hljs inline no-lang" v-pre>Equal share</code> <span class="dimmed">i.e., if the team has 4 members, this person did 1/4 of the work</span></label></li>
 <li class="radio-list-item"><label><input class="radio-list-input" name="070b7" type="radio"> <code class="hljs inline no-lang" v-pre>Equal share + 10%</code> <span class="dimmed">i.e., this person did about 10% more than an equal share (equal share x 1.10)</span></label></li>
@@ -269,7 +269,7 @@ For reference, the AB3 DG is <a href="https://se-education.org/addressbook-level
 <box>
 <div>
 <p><strong>These are considered DG bugs (if they hinder the reader):</strong></p>
-<panel type="seamless"><template #header><p>Those given as possible UG bugs ...</p></template>
+<panel type="seamless" class="algolia-no-index"><template #header><p>Those given as possible UG bugs ...</p></template>
 <div>
 <p><strong>These are considered UG bugs (if they hinder the reader):</strong><br></p>
 <div>
@@ -391,7 +391,7 @@ For reference, the AB3 DG is <a href="https://se-education.org/addressbook-level
 <p><big><strong>5B. Team-tasks:</strong></big></p>
 <p><strong>Evaluates:</strong> How much you contributed to team-tasks</p>
 <div class="indented-level1">
-<panel type class="embedding" minimized><template #header><p>Admin <span><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></span> tP → Expectations: Examples of team-tasks <span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span></p></template>
+<panel type class="embedding algolia-no-index" minimized><template #header><p>Admin <span><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></span> tP → Expectations: Examples of team-tasks <span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span></p></template>
 <div>
 <p>Here is a non-exhaustive list of team-tasks:</p>
 <ol>

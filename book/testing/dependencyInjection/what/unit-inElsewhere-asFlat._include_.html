@@ -6,8 +6,8 @@
 <div id="main">
 <div>
 <p><strong><em>Dependency injection</em> is the process of 'injecting' objects to replace current dependencies with a different object.</strong> This is often used to inject <trigger trigger="click" for="modal:explainDi-stub">stubs</trigger> to isolate the <tooltip><template #content>Software Under Test</template>SUT</tooltip> from its <tooltip><template #content>objects it depends on</template>dependencies</tooltip> so that it can be tested in isolation.</p>
-<modal large id="modal:explainDi-stub"><template #header></template>
-  <div><div><panel src="/website/book/testing/testingTypes/unitTesting/what/unit-inElsewhere-asFlat._include_.html" popup-url="/website/book/testing/testingTypes/unitTesting/what"><template #header><p><span class="dimmed"><span><span aria-hidden="true" class="glyphicon glyphicon-education"></span></span> Quality Assurance → Testing → Unit Testing → What →</span></p></template></panel></div><p></p>
+<modal large id="modal:explainDi-stub" class="algolia-no-index"><template #header></template>
+  <div><div><panel src="/website/book/testing/testingTypes/unitTesting/what/unit-inElsewhere-asFlat._include_.html" popup-url="/website/book/testing/testingTypes/unitTesting/what" class="algolia-no-index"><template #header><p><span class="dimmed"><span><span aria-hidden="true" class="glyphicon glyphicon-education"></span></span> Quality Assurance → Testing → Unit Testing → What →</span></p></template></panel></div><p></p>
 <p><span class="dimmed"><strong><span>Quality Assurance → Testing → Unit Testing →
 </span></strong></span></p>
 <div id="title-and-body">
@@ -83,14 +83,14 @@
   <div><panel expanded><template #header><p><span><span aria-hidden="true" class="fas fa-paperclip"></span></span> Resources</p></template> 
 <ul>
 <li><a href="https://martinfowler.com/articles/mocksArentStubs.html"><strong>Mocks Aren't Stubs</strong></a> by Martin Fowler -- An in-depth article about how Stubs differ from other types of test helpers.</li></ul></panel></div>
-  <div><panel expandable><template #header><p><span><span aria-hidden="true" class="fas fa-dumbbell"></span></span> Exercises</p></template>
-  <div><panel><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Purpose of stubs</p></template>
+  <div><panel expandable class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="fas fa-dumbbell"></span></span> Exercises</p></template>
+  <div><panel class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Purpose of stubs</p></template>
 <question>
 <p>Stubs help us to test a component in isolation from its dependencies.</p>
 <ul radio-group="a0303" class="radio-list">
 <li class="radio-list-item"><label><input class="radio-list-input" name="a0303" type="radio"> True</label></li>
 <li class="radio-list-item"><label><input class="radio-list-input" name="a0303" type="radio"> False</label></li></ul>
-<template #answer><div>
+<template #answer><div class="algolia-no-index">
 <p>True</p></div></template></question></panel></div></panel></div></div></div></div></div></modal>
 <box>
 <p><span><span aria-hidden="true" class="fas fa-cube"></span></span> A <code class="hljs inline no-lang" v-pre>Foo</code> object normally depends on a <code class="hljs inline no-lang" v-pre>Bar</code> object, but you can inject a <code class="hljs inline no-lang" v-pre>BarStub</code> object so that the <code class="hljs inline no-lang" v-pre>Foo</code> object no longer depends on a <code class="hljs inline no-lang" v-pre>Bar</code> object. Now you can test the <code class="hljs inline no-lang" v-pre>Foo</code> object in isolation from the <code class="hljs inline no-lang" v-pre>Bar</code> object.</p>

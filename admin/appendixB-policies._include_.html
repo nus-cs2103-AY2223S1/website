@@ -42,7 +42,7 @@
 <div class="indented">
 <div>
 <p>As most of the work is graded individually, it is OK to do less or more than equal share in your project team.</p>
-<panel type class="embedding" minimized><template #header><p>Admin <span><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></span> tP → Expectations: from each student <span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span></p></template>
+<panel type class="embedding algolia-no-index" minimized><template #header><p>Admin <span><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></span> tP → Expectations: from each student <span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-star"></span></span></p></template>
 <div>
 
 <h2 class="text-white bg-info p-1" id="individual-expectations"><span id="individual-expectations" class="anchor"></span><span><span aria-hidden="true" class="fas fa-user"></span></span> Individual Expectations<a class="fa fa-anchor" href="#individual-expectations" onclick="event.stopPropagation()"></a></h2>
@@ -54,7 +54,7 @@
 <li><strong>The enhancement(s) should fit with the rest of the software</strong> (and the target user profile) and should have the consent of the team members. <span class="dimmed">You will lose marks if you go 'rogue' and add things that don't fit with the product.</span></li></ul></li></ul>
 <div tags="m--cs2103 m--tic4002" class="indented-level4">
 <p>Some examples:</p>
-<panel type="seamless" minimized><template #header><p>Example enhancements</p></template>
+<panel type="seamless" minimized class="algolia-no-index"><template #header><p>Example enhancements</p></template>
 <ul>
 <li>Add a new feature <span class="dimmed">e.g. add the ability to view statistics</span></li>
 <li>Enhance an existing features in a major way <span class="dimmed">e.g. make the command syntax more user friendly and closer to natural language</span></li>
@@ -92,7 +92,7 @@ There is no requirement for a minimum test coverage level. Note that in a high-e
 <div id="team-tasks" class="indented-level2">
 <box>
 <p><em>Team-tasks</em> are the tasks that <em>someone</em> in the team has to do.</p>
-<panel type="seamless"><template #header><p><span><span aria-hidden="true" class="fas fa-cube"></span></span> Examples of team-tasks</p></template>
+<panel type="seamless" class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="fas fa-cube"></span></span> Examples of team-tasks</p></template>
 <span id="example-team-tasks">
 <p>Here is a non-exhaustive list of team-tasks:</p>
 <ol>
@@ -113,7 +113,7 @@ There is no requirement for a minimum test coverage level. Note that in a high-e
 <box>
 <span id="roles">
 <p><em>Roles</em> indicate aspects you are in charge of and responsible for. <span class="dimmed">E.g., if you are in charge of documentation, you are the person who should allocate which parts of the documentation is to be done by who, ensure the document is in right format, ensure consistency etc.</span></p>
-<panel type="seamless"><template #header><p><span><span aria-hidden="true" class="fas fa-cube"></span></span> Recommended roles and responsibilities</p></template>
+<panel type="seamless" class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="fas fa-cube"></span></span> Recommended roles and responsibilities</p></template>
 <p>This is a non-exhaustive list; you may define additional roles.</p>
 <ul>
 <li><em>Team lead</em>: Responsible for overall project coordination.</li>
@@ -154,7 +154,7 @@ Only if you fail to earn full marks for participation we will consider giving an
 <p><strong>It is ok to ask for help from classmates even for assignments</strong>, even from other teams, as long as you don't copy from others and submit as your own. The preferred way for this is to ask in the <a href="https://github.com/nus-cs2103-AY2223S1/forum/issues">forum</a> rather than privately, as 1. it gives others an opportunity to benefit as well 2. the teaching team can confirm the accuracy of the help you are receiving.</p>
 <p><strong>We encourage you to give tech help to each other</strong>, but do it in a way that the other person learns from it.</p>
 <p><span class="flat"><span class="dimmed">Related: [<a href="#admin-appendixD-help-anchor">Admin: Appendix D: Getting Help</a>]</span></span>
-<panel src="/website/admin/appendixD-help._include_.html#main" class="embedding" minimized fragment="main"><template #header><p>Admin <span><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></span> Appendix D: How to get Help in CS2103/T</p></template></panel></p></div></div></div>
+<panel src="/website/admin/appendixD-help._include_.html#main" class="embedding algolia-no-index" minimized fragment="main"><template #header><p>Admin <span><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></span> Appendix D: How to get Help in CS2103/T</p></template></panel></p></div></div></div>
 <div id="policy-publishingSubmissions">
 <h3 id="policy-on-publishing-submissions-optional"><span id="policy-on-publishing-submissions-optional" class="anchor"></span>Policy on publishing submissions <small><small><span class="badge rounded-pill bg-success"><span class="glyphicon glyphicon-star" aria-hidden="true"></span><span class="glyphicon glyphicon-star" aria-hidden="true"></span><span class="glyphicon glyphicon-star" aria-hidden="true"></span><span class="glyphicon glyphicon-star" aria-hidden="true"></span>: OPTIONAL</span></small></small><a class="fa fa-anchor" href="#policy-on-publishing-submissions-optional" onclick="event.stopPropagation()"></a></h3>
 <div class="indented">
@@ -235,7 +235,7 @@ Format:<pre><code class="hljs java" v-pre><span><span class="hljs-comment">//@@a
 <p><strong>Giving credit to AB3 code</strong>: If your project started with the AB3 code and your new code follows a design similar to AB3, that doesn't mean you need to credit AB3 -- this is because a brownfield project is <em>expected</em> to follow existing code where possible, in the interest of consistency. However, don't take credit for existing AB3 code (i.e., ensure such code doesn't appear under your name in the tP code dashboard) unless you have modified that code substantially.</p></div>
 <p><strong>Reuse within the team</strong> <span class="dimmed">(e.g., reusing code written by a team member)</span> need not be mentioned explicitly. However, you should factor in such reuse when you estimate effort contributed by each team member.</p>
 <p><strong>Reuse of documentation</strong> <span class="dimmed">(e.g., reusing a UG/DG section)</span> is no different from code reuse. Such reuse should be credited as well.</p></box>
-<modal large id="modal:reusePolicy-authorTags"><template #header>Admin <span><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></span> Project mid-v1.3 (extract) →</template>
+<modal large id="modal:reusePolicy-authorTags" class="algolia-no-index"><template #header>Admin <span><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></span> Project mid-v1.3 (extract) →</template>
   <div><h4 id="adding-author-tags-indicate-authorship"><span id="adding-author-tags-indicate-authorship" class="anchor"></span>Adding <code class="hljs inline no-lang" v-pre>@@author</code> tags indicate authorship<a class="fa fa-anchor" href="#adding-author-tags-indicate-authorship" onclick="event.stopPropagation()"></a></h4>
 <ul>
 <li>
@@ -324,7 +324,7 @@ e.g.</p>
 <p><strong>Code generated by the IDE/framework,</strong> should not be annotated as your own.</p></li>
 <li>
 <p><strong>Code you modified in minor ways</strong> e.g. adding a parameter. These should not be claimed as yours but you can mention these additional contributions in the Project Portfolio page if you want to claim credit for them.</p></li></ul></li></ul></div></modal>
-<modal large id="modal:reusePolicy-ppp"><template #header>Admin <span><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></span> Project → Deliverables → Project Portfolio Page</template>
+<modal large id="modal:reusePolicy-ppp" class="algolia-no-index"><template #header>Admin <span><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></span> Project → Deliverables → Project Portfolio Page</template>
   <div>
 <div><p>At the end of the project each student is required to submit a <em>Project Portfolio Page</em>.</p>
 <h4 id="ppp-objectives"><span id="ppp-objectives" class="anchor"></span><span class="badge bg-info">PPP</span> <span class="text-info">Objectives</span><a class="fa fa-anchor" href="#ppp-objectives" onclick="event.stopPropagation()"></a></h4>
@@ -346,11 +346,11 @@ e.g.</p>
 <ul>
 <li>Evidence of helping others <span class="dimmed">e.g. responses you posted in our forum, bugs you reported in other team's products</span>,</li>
 <li>Evidence of technical leadership <span class="dimmed">e.g. sharing useful information in the forum</span></li></ul></li></ul></li></ul>
-<modal large id="modal:deliverablesPPP-teamTasks"><template #header>Team-Based Tasks</template>
+<modal large id="modal:deliverablesPPP-teamTasks" class="algolia-no-index"><template #header>Team-Based Tasks</template>
   <div>
 <box>
 <p><em>Team-tasks</em> are the tasks that <em>someone</em> in the team has to do.</p>
-<panel type="seamless"><template #header><p><span><span aria-hidden="true" class="fas fa-cube"></span></span> Examples of team-tasks</p></template>
+<panel type="seamless" class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="fas fa-cube"></span></span> Examples of team-tasks</p></template>
 <span id="example-team-tasks">
 <p>Here is a non-exhaustive list of team-tasks:</p>
 <ol>
