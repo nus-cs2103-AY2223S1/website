@@ -186,7 +186,7 @@
         "1-do-any-leftover-ip-tasks-from-the-previous-week": "1 Do any leftover iP tasks from the previous week",
         "2-create-a-pr-to-the-upstream-repo": "2 Create a PR to the upstream repo",
         "3-add-increments-as-parallel-branches-level-7-level-8": "3 Add Increments as parallel branches: Level-7, Level-8",
-        "4-add-increments-a-moreoop-a-packages-a-junit-a-jar": "4 Add Increments: A-MoreOOP, A-Packages, A-JUnit, A-Jar",
+        "4-add-increments-a-moreoop-a-packages-a-gradle-a-junit-a-jar": "4 Add Increments: A-MoreOOP, A-Packages, A-Gradle, A-JUnit, A-Jar",
         "5-add-increments-as-parallel-branches-a-javadoc-a-codingstandard-level-9": "5 Add Increments as parallel branches: A-JavaDoc, A-CodingStandard, Level-9"
       },
       "headingKeywords": {}
@@ -200,7 +200,7 @@
         "1-use-gfmd-in-the-pr-description": "1 Use GFMD in the PR description",
         "2-review-some-peer-prs-counted-for-participation": "2 Review some peer PRs  counted for participation",
         "3-learn-from-others-optional": "3 Learn from others (optional)",
-        "4-add-increments-as-branches-a-gradle-a-checkstyle-level-10-a-varargs": "4 Add Increments as branches: A-Gradle, A-CheckStyle, Level-10, A-Varargs"
+        "4-add-increments-as-branches-a-checkstyle-level-10-a-varargs": "4 Add Increments as branches: A-CheckStyle, Level-10, A-Varargs"
       },
       "headingKeywords": {}
     },
@@ -222,7 +222,7 @@
       "title": "Admin: iP: Week 6",
       "headings": {
         "ip-week-6": "iP: Week 6 ",
-        "1-add-increment-a-bettergui": "1 Add Increment: A-BetterGui",
+        "1-add-increments-a-bettergui-a-personality-a-moreerrorhandling-a-moretesting": "1 Add Increments: A-BetterGui, A-Personality, A-MoreErrorHandling, A-MoreTesting",
         "2-finalize-the-features": "2 Finalize the features",
         "3-set-up-a-product-website": "3 Set up a product website",
         "4-submit-the-final-version-fri-sep-16th-2359": "4 Submit the final version  Fri, Sep 16th 2359"
@@ -1678,6 +1678,9 @@
         "a-devguide": "A-DevGuide",
         "a-release": "A-Release",
         "a-bettergui": "A-BetterGui",
+        "a-personality": "A-Personality",
+        "a-moretesting": "A-MoreTesting",
+        "a-moreerrorhandling": "A-MoreErrorHandling",
         "extensions-category-b": "Extensions: Category B",
         "b-tentativescheduling": "B-TentativeScheduling",
         "b-snooze": "B-Snooze",
