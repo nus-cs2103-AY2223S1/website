@@ -35,7 +35,7 @@
       "headings": {
         "apdx-c-faq": "Apdx C: FAQ ",
         "where-is-everything": "Where is everything? ",
-        "what-are-the-differences-between-cs2103t-and-cs2103-optional": "What are the differences between CS2103T and CS2103? : OPTIONAL",
+        "what-are-the-differences-between-cs2113t-and-cs2113-optional": "What are the differences between CS2113T and CS2113? : OPTIONAL",
         "why-the-workload-is-so-high-optional": "Why the workload is so high? : OPTIONAL",
         "what-are-the-extra-requirements-to-get-an-a": "What are the extra requirements to get an A+? ",
         "why-so-much-bean-counting-optional": "Why so much bean counting? : OPTIONAL",
@@ -46,7 +46,7 @@
         "why-very-narrow-project-scope-optional": "Why very narrow project scope? : OPTIONAL",
         "why-can-t-i-use-my-favorite-tool-framework-language-etc-optional": "Why can't I use my favorite tool/framework/language etc.? : OPTIONAL",
         "why-so-many-submissions-optional": "Why so many submissions? : OPTIONAL",
-        "why-submission-requirements-differ-between-cs2103t-and-cs2101-optional": "Why submission requirements differ between CS2103T and CS2101? : OPTIONAL"
+        "why-submission-requirements-differ-between-cs2113t-and-cs2101-optional": "Why submission requirements differ between CS2113T and CS2101? : OPTIONAL"
       },
       "headingKeywords": {}
     },
@@ -86,10 +86,8 @@
     },
     {
       "src": "admin/appendixG-CS2103R.md",
-      "title": "Admin: Apdx G: CS2103R Info",
-      "headings": {
-        "apdx-g-cs2103r-info-optional": "Apdx G: CS2103R Info : OPTIONAL"
-      },
+      "title": "",
+      "headings": {},
       "headingKeywords": {}
     },
     {
@@ -108,12 +106,8 @@
       "title": "Admin: Exams",
       "headings": {
         "exams": "Exams ",
-        "sop-deviations-refinements": "SOP deviations/refinements",
-        "format": "Format",
-        "final-exam-part-1": "Final exam - part 1",
-        "final-exam-part-2": "Final exam - part 2",
-        "final-exam-part-3": "Final exam - part 3",
-        "exam-briefing-mock-exam-practice-exam-paper-2": "Exam briefing, mock exam, practice exam paper"
+        "exam-structure": "Exam structure",
+        "exam-briefing-mock-exam-practice-exam-paper": "Exam briefing, mock exam, practice exam paper"
       },
       "headingKeywords": {}
     },
@@ -127,9 +121,9 @@
     },
     {
       "src": "admin/index.md",
-      "title": "Admin: CS2103/T: Software Engineering",
+      "title": "Admin: CS2113/T: Software Engineering & Object-Oriented Programming",
       "headings": {
-        "cs2103-t-software-engineering": "CS2103/T: Software Engineering "
+        "cs2113-t-software-engineering-and-amp-object-oriented-programming": "CS2113/T: Software Engineering &amp; Object-Oriented Programming "
       },
       "headingKeywords": {}
     },
@@ -174,7 +168,7 @@
         "2-set-up-prerequisites": "2 Set up prerequisites",
         "3-set-up-the-project-in-your-computer": "3 Set up the project in your computer",
         "faq-about-ip-increments": "FAQ about iP increments",
-        "4-add-increments-while-committing-frequently-level-1-level-2-level-3-level-4-a-textuitesting-level-5-level-6-a-enums-thu-aug-18th-2359": "4 Add Increments while committing frequently: Level-1, Level-2, Level-3, Level-4, A-TextUiTesting, Level-5, Level-6, A-Enums  Thu, Aug 18th 2359"
+        "4-add-increment-level-0": "4 Add Increment: Level-0"
       },
       "headingKeywords": {}
     },
@@ -184,10 +178,7 @@
       "headings": {
         "ip-week-3": "iP: Week 3 ",
         "1-do-any-leftover-ip-tasks-from-the-previous-week": "1 Do any leftover iP tasks from the previous week",
-        "2-create-a-pr-to-the-upstream-repo": "2 Create a PR to the upstream repo",
-        "3-add-increments-as-parallel-branches-level-7-level-8": "3 Add Increments as parallel branches: Level-7, Level-8",
-        "4-add-increments-a-moreoop-a-packages-a-gradle-a-junit-a-jar": "4 Add Increments: A-MoreOOP, A-Packages, A-Gradle, A-JUnit, A-Jar",
-        "5-add-increments-as-parallel-branches-a-javadoc-a-codingstandard-level-9": "5 Add Increments as parallel branches: A-JavaDoc, A-CodingStandard, Level-9"
+        "2-add-increments-commit-tag-push-level-1-level-2-level-3-a-codingstandard": "2 Add Increments (+ commit, tag, push): Level-1, Level-2, Level-3, A-CodingStandard"
       },
       "headingKeywords": {}
     },
@@ -195,12 +186,11 @@
       "src": "admin/ip-w4.md",
       "title": "Admin: iP: Week 4",
       "headings": {
-        "dukepro": "DukePro",
         "ip-week-4": "iP: Week 4 ",
-        "1-use-gfmd-in-the-pr-description": "1 Use GFMD in the PR description",
-        "2-review-some-peer-prs-counted-for-participation": "2 Review some peer PRs  counted for participation",
-        "3-learn-from-others-optional": "3 Learn from others (optional)",
-        "4-add-increments-as-branches-a-checkstyle-level-10-a-varargs": "4 Add Increments as branches: A-CheckStyle, Level-10, A-Varargs"
+        "1-create-a-pr-to-the-upstream-repo-mon-aug-29th-2359": "1 Create a PR to the upstream repo  Mon, Aug 29th 2359",
+        "2-add-increments-level-4-a-textuitesting-a-codequality": "2 Add Increments: Level-4, A-TextUiTesting, A-CodeQuality",
+        "3-get-ready-to-review-prs-before-the-tutorial": "3 Get ready to review PRs  before the tutorial",
+        "4-review-some-peer-prs-during-the-tutorial-counted-for-participation": "4 Review some peer PRs  during the tutorial counted for participation"
       },
       "headingKeywords": {}
     },
@@ -209,11 +199,9 @@
       "title": "Admin: iP: Week 5",
       "headings": {
         "ip-week-5": "iP: Week 5 ",
-        "1-generate-a-new-jar-file": "1 Generate a new JAR file",
-        "2-write-some-full-commit-messages": "2 Write some full commit messages",
-        "3-add-increments-as-prs-a-assertions-a-codequality-a-streams": "3 Add Increments as PRs: A-Assertions, A-CodeQuality, A-Streams",
-        "4-add-increment-a-ci": "4 Add Increment: A-CI",
-        "5-add-an-extension": "5 Add an extension"
+        "1-learn-from-others-optional": "1 Learn from others (optional)",
+        "2-add-increment-as-a-branch-level-5": "2 Add Increment as a branch: Level-5",
+        "3-add-increment-a-packages": "3 Add Increment: A-Packages"
       },
       "headingKeywords": {}
     },
@@ -222,10 +210,8 @@
       "title": "Admin: iP: Week 6",
       "headings": {
         "ip-week-6": "iP: Week 6 ",
-        "1-add-increments-a-bettergui-a-personality-a-moreerrorhandling-a-moretesting": "1 Add Increments: A-BetterGui, A-Personality, A-MoreErrorHandling, A-MoreTesting",
-        "2-finalize-the-features": "2 Finalize the features",
-        "3-set-up-a-product-website": "3 Set up a product website",
-        "4-submit-the-final-version-fri-sep-16th-2359": "4 Submit the final version  Fri, Sep 16th 2359"
+        "1-add-increments-as-parallel-branches-level-6-level-7": "1 Add Increments as parallel branches: Level-6, Level-7",
+        "2-add-increment-a-jar": "2 Add Increment: A-Jar"
       },
       "headingKeywords": {}
     },
@@ -233,8 +219,11 @@
       "src": "admin/ip-w7.md",
       "title": "Admin: iP: Week 7",
       "headings": {
-        "ip-week-7-optional": "iP: Week 7 : OPTIONAL",
-        "1-optional-get-more-out-of-the-ip": "1 [Optional] Get more out of the iP"
+        "ip-week-7": "iP: Week 7 ",
+        "1-add-increment-a-moreoop": "1 Add Increment: A-MoreOOP",
+        "2-add-increments-as-prs-level-8-level-9-a-javadoc": "2 Add Increments as PRs: Level-8, Level-9, A-JavaDoc",
+        "3-set-up-a-product-website": "3 Set up a product website",
+        "4-submit-the-final-version-fri-sep-30th-2359": "4 Submit the final version  Fri, Sep 30th 2359"
       },
       "headingKeywords": {}
     },
@@ -243,7 +232,7 @@
       "title": "Admin: iP: Week 8",
       "headings": {
         "ip-week-8": "iP: Week 8 ",
-        "1-evaluate-two-peer-ips-sat-oct-8th-2359-counted-for-participation": "1 Evaluate two peer iPs  Sat, Oct 8th 2359 counted for participation"
+        "1-evaluate-two-peer-ips-before-next-week-lecture-counted-for-participation": "1 Evaluate two peer iPs  before next week lecture counted for participation"
       },
       "headingKeywords": {}
     },
@@ -267,18 +256,16 @@
       "title": "Admin: Module Expectations",
       "headings": {
         "module-expectations": "Module Expectations ",
-        "prior-knowledge-java-and-oop": "Prior Knowledge: Java and OOP",
         "workload": "Workload",
-        "star-rating-system": "Star Rating System",
-        "rewards-for-exceeding-expectations": "Rewards for exceeding expectations"
+        "star-rating-system": "Star Rating System"
       },
       "headingKeywords": {}
     },
     {
       "src": "admin/moduleOverview.md",
-      "title": "Admin: CS2103/T: Software Engineering",
+      "title": "Admin: CS2113/T: Software Engineering & Object-Oriented Programming",
       "headings": {
-        "cs2103-t-software-engineering": "CS2103/T: Software Engineering "
+        "cs2113-t-software-engineering-and-amp-object-oriented-programming": "CS2113/T: Software Engineering &amp; Object-Oriented Programming "
       },
       "headingKeywords": {}
     },
@@ -331,7 +318,7 @@
       "title": "Admin: Standards/Conventions",
       "headings": {
         "standards-conventions": "Standards/Conventions ",
-        "java": "Java",
+        "java-2": "Java",
         "git": "Git",
         "markdown": "Markdown",
         "documentation": "Documentation"
@@ -363,6 +350,7 @@
         "tool-zoom-for-lectures": "Tool: Zoom (for Lectures)",
         "tool-github-for-code-hosting": "Tool: GitHub (for code hosting)",
         "tool-git-for-revision-control": "Tool: Git (for revision control)",
+        "tool-coursemology-for-coding-exercises": "Tool: Coursemology (for coding exercises)",
         "tools-for-communication": "Tools: for communication",
         "forum-for-longer-running-discussions": " Forum (for longer-running discussions)",
         "ms-teams-for-quick-chats-in-lecture-consultations": " MS Teams (for quick chats, in-lecture consultations)",
@@ -377,7 +365,6 @@
       "title": "Admin: tP: Constraints",
       "headings": {
         "tp-constraints": "tP: Constraints ",
-        "constraint-brownfield": " Constraint-Brownfield",
         "constraint-typing-preferred": " Constraint-Typing-Preferred",
         "constraint-single-user": " Constraint-Single-User",
         "constraint-incremental": " Constraint-Incremental",
@@ -389,12 +376,12 @@
         "constraint-portable": " Constraint-Portable",
         "constraint-no-remote-server": " Constraint-No-Remote-Server",
         "constraint-external-software": " Constraint-External-Software",
-        "constraint-screen-resolution": " Constraint-Screen-Resolution",
         "constraint-single-file": " Constraint-Single-File",
         "constraint-file-size": " Constraint-File-Size",
         "constraint-pdf-friendly": " Constraint-PDF-Friendly",
         "recommendation-minimal-network": " Recommendation-Minimal-Network",
         "recommendation-testability": " Recommendation-Testability",
+        "recommendation-no-gui": " Recommendation-No-GUI",
         "recommendation-cli-first": " Recommendation-CLI-First"
       },
       "headingKeywords": {}
@@ -457,7 +444,7 @@
       "headings": {
         "tp-grading": "tP: Grading ",
         "1-project-grading-product-design-5-marks": "1. Project Grading: Product Design [ 5 marks]",
-        "2-project-grading-implementation-15-marks": "2. Project Grading: Implementation [ 15 marks]",
+        "2-project-grading-implementation-10-marks": "2. Project Grading: Implementation [ 10 marks]",
         "3-project-grading-qa-10-marks": "3. Project Grading: QA [ 10 marks]",
         "grading-bugs-found-in-the-pe": "Grading bugs found in the PE",
         "4-project-grading-documentation-10-marks": "4. Project Grading: Documentation [ 10 marks]",
@@ -527,68 +514,61 @@
         "week-5-gather-requirements": "Week 5 Gather requirements",
         "week-6-conceptualize-the-product": "Week 6 Conceptualize the product",
         "week-7-get-ready-for-iterations": "Week 7 Get ready for iterations",
-        "w8-w9-iteration-1-v1-2": " W8   W9  Iteration 1 → v1.2",
-        "w10-w11-iteration-2-v1-3": "W10 W11 Iteration 2 → v1.3",
-        "w12-iteration-3-v1-4": "W12  Iteration 3 → v1.4",
+        "w8-w9-iteration-1-v1-0": " W8   W9  Iteration 1 → v1.0",
+        "w10-w11-iteration-2-v2-0": "W10 W11 Iteration 2 → v2.0",
+        "w12-iteration-3-v2-1": "W12  Iteration 3 → v2.1",
         "w13-evaluation": "W13 Evaluation"
       },
       "headingKeywords": {}
     },
     {
       "src": "admin/tp-w10.md",
-      "title": "Admin: tP week 10: mid-v1.3",
+      "title": "Admin: tP week 10: mid-v2.0",
       "headings": {
         "admin-tp-deliverables-dg-tips": "  Admin  tP Deliverables → DG → Tips",
-        "tp-week-10-mid-v1-3": "tP week 10: mid-v1.3 ",
-        "1-do-a-postmortem-of-the-previous-iteration": "1  Do a postmortem of the previous iteration",
-        "2-adjust-process-rigor-if-necessary": "2  Adjust process rigor if necessary",
-        "3-start-the-next-iteration": "3  Start the next iteration",
-        "4-update-the-dg-with-design-details": "4  Update the DG with design details",
-        "5-smoke-test-catcher-compulsory-counted-for-participation": "5  Smoke-test CATcher  COMPULSORY counted for participation",
-        "6-do-a-trial-jar-release": "6  Do a trial JAR release"
+        "tp-week-10-mid-v2-0": "tP week 10: mid-v2.0 ",
+        "1-start-the-next-iteration": "1  Start the next iteration",
+        "2-update-the-dg-with-design-details-important": "2  Update the DG with design details  IMPORTANT",
+        "3-smoke-test-catcher-important-counted-for-participation": "3  Smoke-test CATcher  IMPORTANT counted for participation",
+        "4-ensure-the-code-is-reposense-compatible": "4  Ensure the code is RepoSense-compatible"
       },
       "headingKeywords": {}
     },
     {
       "src": "admin/tp-w11.md",
-      "title": "Admin: tP week 11: v1.3",
+      "title": "Admin: tP week 11: v2.0",
       "headings": {
-        "tp-week-11-v1-3": "tP week 11: v1.3 ",
-        "1-deliver-v1-3": "1  Deliver v1.3",
-        "2-update-user-docs": "2  Update user docs",
-        "3-release-as-a-jar-file": "3  Release as a jar file",
-        "4-wrap-up-v1-3": "4  Wrap up v1.3",
-        "5-demo-v1-3-before-the-tutorial": "5  Demo v1.3  before the tutorial"
+        "tp-week-11-v2-0": "tP week 11: v2.0 ",
+        "1-update-user-docs": "1  Update user docs",
+        "2-add-sequence-diagrams-to-the-developer-guide-recommended-before-wednesday": "2  Add sequence diagrams to the developer guide  recommended: before Wednesday",
+        "3-deliver-v2-0-midnight-before-the-tutorial": "3  Deliver v2.0  midnight before the tutorial",
+        "4-review-others-dg-during-the-tutorial-counted-for-participation": "4  Review others' DG  during the tutorial counted for participation",
+        "dg-possible-bugs": "DG - Possible Bugs"
       },
       "headingKeywords": {}
     },
     {
       "src": "admin/tp-w12.md",
-      "title": "Admin: tP week 12: mid-v1.4",
+      "title": "Admin: tP week 12: mid-v2.1",
       "headings": {
-        "tp-week-12-mid-v1-4": "tP week 12: mid-v1.4 ",
+        "tp-week-12-mid-v2-1": "tP week 12: mid-v2.1 ",
         "1-attend-the-practical-exam-dry-run-during-the-lecture-on-fri-oct-28th-counted-for-participation": "1  Attend the practical exam dry run  During the lecture on Fri, Oct 28th  counted for participation",
         "2-start-fixing-ped-bugs-before-the-tutorial": "2  Start fixing PED bugs  Before the tutorial",
         "3-polish-the-deliverables": "3  Polish the deliverables",
         "4-draft-the-ppp": "4  Draft the PPP",
-        "5-prepare-for-the-demo-rehearsal": "5  Prepare for the demo rehearsal",
-        "6-try-pdf-conversions-early": "6  Try PDF conversions early",
-        "7-ensure-the-code-is-reposense-compatible": "7  Ensure the code is RepoSense-compatible"
+        "5-double-check-reposense-compatibility": "5  Double-check RepoSense compatibility"
       },
       "headingKeywords": {}
     },
     {
       "src": "admin/tp-w13.md",
-      "title": "Admin: tP week 13: v1.4",
+      "title": "Admin: tP week 13: v2.1",
       "headings": {
-        "tp-week-13-v1-4": "tP week 13: v1.4 ",
-        "1-do-final-polish-ups": "1  Do final polish-ups",
-        "2-submit-deliverables-mon-nov-7th-2359": "2  Submit deliverables  Mon, Nov 7th 2359",
-        "3-wrap-up-the-milestone-wed-nov-9th-2359": "3  Wrap up the milestone  Wed, Nov 9th 2359",
-        "4-submit-the-demo-video-wed-nov-9th-2359": "4  Submit the demo video  Wed, Nov 9th 2359",
-        "5-prepare-for-the-practical-exam": "5  Prepare for the practical exam",
-        "6-attend-the-practical-exam-fri-nov-11th-1600-1800": "6  Attend the practical exam  Fri, Nov 11th 1600-1800",
-        "7-if-needed-attend-the-makeup-practical-exam-sat-nov-12th-1600-1800": "7  [if needed] Attend the makeup practical exam  Sat, Nov 12th 1600-1800"
+        "tp-week-13-v2-1": "tP week 13: v2.1 ",
+        "1-submit-deliverables-mon-nov-7th-2359": "1  Submit deliverables  Mon, Nov 7th 2359",
+        "2-submit-the-demo-video-wed-nov-9th-2359": "2  Submit the demo video  Wed, Nov 9th 2359",
+        "3-prepare-for-the-practical-exam": "3  Prepare for the practical exam",
+        "4-attend-the-practical-exam-during-the-lecture-on-fri-nov-11th": "4  Attend the practical exam  during the lecture on Fri, Nov 11th "
       },
       "headingKeywords": {}
     },
@@ -603,8 +583,7 @@
       "title": "Admin: tP week 3: Kickoff",
       "headings": {
         "tp-week-3-kickoff": "tP week 3: Kickoff ",
-        "1-get-familiar-with-ab3-features": "1  Get familiar with AB3 features",
-        "2-set-up-a-project-meeting-time-by-the-end-of-the-tutorial": "2  Set up a project meeting time  by the end of the tutorial"
+        "1-set-up-a-project-meeting-time-by-the-end-of-the-tutorial": "1  Set up a project meeting time  by the end of the tutorial"
       },
       "headingKeywords": {}
     },
@@ -629,7 +608,7 @@
       "headings": {
         "tp-week-5-gather-requirements": "tP week 5: Gather requirements ",
         "1-brainstorm-user-stories-before-the-tutorial": "1  Brainstorm user stories  before the tutorial",
-        "2-choose-user-stories-for-v1-2-before-during-the-tutorial": "2  Choose user stories for v1.2  before/during the tutorial",
+        "2-choose-user-stories-for-v1-0-during-the-tutorial": "2  Choose user stories for v1.0  during the tutorial",
         "project-planning-with-a-twist": "Project planning, with a twist"
       },
       "headingKeywords": {}
@@ -639,11 +618,9 @@
       "title": "Admin: tP week 6: Conceptualize the product",
       "headings": {
         "tp-week-6-conceptualize-the-product": "tP week 6: Conceptualize the product ",
-        "1-conceptualize-v1-2": "1  Conceptualize v1.2",
-        "2-draft-the-ug": "2  Draft the UG",
-        "3-refine-the-product-design": "3  Refine the product design",
-        "4-set-up-the-project-repo": "4  Set up the project repo",
-        "5-get-familiar-with-the-code-base": "5  Get familiar with the code base"
+        "1-conceptualize-v1-0": "1  Conceptualize v1.0",
+        "2-draft-the-ug-midnight-before-the-tutorial": "2  Draft the UG  midnight before the tutorial",
+        "3-refine-the-product-design": "3  Refine the product design"
       },
       "headingKeywords": {}
     },
@@ -652,36 +629,31 @@
       "title": "Admin: tP week 7: Get ready for iterations",
       "headings": {
         "tp-week-7-get-ready-for-iterations": "tP week 7: Get ready for iterations ",
-        "1-do-a-practice-iteration-midnight-before-the-tutorial": "1  Do a practice iteration  midnight before the tutorial",
-        "2-update-project-website-aboutus-readme": "2  Update project website: AboutUs, README",
-        "3-update-the-ug": "3  Update the UG",
-        "4-add-a-skeletal-ppp": "4  Add a skeletal PPP",
-        "5-update-the-dg-user-stories-glossary-nfrs-use-cases": "5  Update the DG: user stories, glossary, NFRs, use cases",
-        "6-plan-the-next-iteration": "6  Plan the next iteration",
-        "7-start-implementing-the-next-version": "7  Start implementing the next version"
+        "1-set-up-the-project-repo-during-the-tutorial": "1  Set up the project repo  during the tutorial",
+        "2-plan-the-next-iteration": "2  Plan the next iteration"
       },
       "headingKeywords": {}
     },
     {
       "src": "admin/tp-w8.md",
-      "title": "Admin: tP week 8: mid-v1.2",
+      "title": "Admin: tP week 8: mid-v1.0",
       "headings": {
-        "tp-week-8-mid-v1-2": "tP week 8: mid-v1.2 ",
+        "tp-week-8-mid-v1-0": "tP week 8: mid-v1.0 ",
         "1-ensure-you-know-tp-expectations": "1  Ensure you know tP expectations",
-        "2-start-proper-milestone-management": "2  Start proper milestone management",
-        "3-add-the-first-functionality-increment": "3  Add the first functionality increment"
+        "2-start-implementing-v1-0": "2  Start implementing v1.0",
+        "3-use-github-to-manage-milestones": "3  Use GitHub to manage milestones",
+        "4-add-some-junit-tests": "4  Add some JUnit Tests"
       },
       "headingKeywords": {}
     },
     {
       "src": "admin/tp-w9.md",
-      "title": "Admin: tP week 9: v1.2",
+      "title": "Admin: tP week 9: v1.0",
       "headings": {
-        "tp-week-9-v1-2": "tP week 9: v1.2 ",
-        "how-to-define-version-numbers": "How to define version numbers?",
-        "1-deliver-v1-2": "1  Deliver v1.2",
-        "2-wrap-up-v1-2": "2  Wrap up v1.2",
-        "3-do-an-informal-demo-of-v1-2-before-the-tutorial": "3  Do an informal demo of v1.2  before the tutorial"
+        "tp-week-9-v1-0": "tP week 9: v1.0 ",
+        "1-make-the-code-more-defensive": "1  Make the code more defensive",
+        "2-deliver-v1-0-midnight-before-the-tutorial": "2  Deliver v1.0  midnight before the tutorial",
+        "3-do-an-informal-demo-of-v1-0-before-the-tutorial": "3  Do an informal demo of v1.0  before the tutorial"
       },
       "headingKeywords": {}
     },
@@ -717,7 +689,7 @@
       "title": "Admin: Weekly Schedule",
       "headings": {
         "weekly-schedule": "Weekly Schedule ",
-        "cs2103-t-week-vs-normal-academic-week": "CS2103/T week vs normal academic week",
+        "cs2113-t-week-vs-normal-academic-week": "CS2113/T week vs normal academic week",
         "deadline-for-weekly-tasks": "Deadline for weekly tasks",
         "the-typical-weekly-cycle": "The typical weekly cycle"
       },
@@ -739,7 +711,7 @@
       "src": "se-book-adapted/index.md",
       "title": "Textbook",
       "headings": {
-        "software-engineering-for-self-directed-learners-cs2103-t-edition-2022-aug-nov": "Software Engineering for Self-Directed Learners CS2103/T edition - 2022 Aug-Nov"
+        "software-engineering-for-self-directed-learners-cs2113-t-edition-2022-aug-nov": "Software Engineering for Self-Directed Learners CS2113/T edition - 2022 Aug-Nov"
       },
       "headingKeywords": {}
     },
@@ -799,28 +771,26 @@
         "slap-hard": "SLAP Hard",
         "make-the-happy-path-prominent": "Make the Happy Path Prominent",
         "introduction-3": "Introduction",
+        "introduction-4": "Introduction",
         "basic-3": "Basic",
         "intermediate-2": "Intermediate",
-        "introduction-4": "Introduction",
-        "basic-4": "Basic",
-        "intermediate-3": "Intermediate",
         "use-nouns-for-things-and-verbs-for-actions": "Use Nouns for Things and Verbs for Actions",
         "use-standard-words": "Use Standard Words",
         "use-name-to-explain": "Use Name to Explain",
         "not-too-long-not-too-short": "Not Too Long, Not Too Short",
         "avoid-misleading-names": "Avoid Misleading Names",
         "introduction-5": "Introduction",
-        "basic-5": "Basic",
-        "intermediate-4": "Intermediate",
+        "basic-4": "Basic",
+        "intermediate-3": "Intermediate",
         "use-the-default-branch": "Use the Default Branch",
         "don-t-recycle-variables-or-parameters": "Don't Recycle Variables or Parameters",
         "avoid-empty-catch-blocks": "Avoid Empty Catch Blocks",
         "delete-dead-code": "Delete Dead Code",
-        "minimize-scope-of-variables": "Minimize Scope of Variables",
-        "minimize-code-duplication": "Minimize Code Duplication",
+        "minimise-scope-of-variables": "Minimise Scope of Variables",
+        "minimise-code-duplication": "Minimise Code Duplication",
         "introduction-6": "Introduction",
-        "basic-6": "Basic",
-        "intermediate-5": "Intermediate",
+        "basic-5": "Basic",
+        "intermediate-4": "Intermediate",
         "do-not-repeat-the-obvious": "Do Not Repeat the Obvious",
         "write-to-the-reader": "Write to the Reader",
         "explain-what-and-why-not-how": "Explain WHAT and WHY, not HOW",
@@ -972,11 +942,7 @@
       "title": "Design Approaches",
       "headings": {
         "multi-level-design": "Multi-level design",
-        "top-down-and-bottom-up-design": "Top-down and bottom-up design",
-        "agile-design": "Agile design",
         "what": "What",
-        "what-2": "What",
-        "what-3": "What",
         "design-approaches": "Design approaches"
       },
       "headingKeywords": {}
@@ -1004,27 +970,13 @@
       "headings": {
         "introduction": "Introduction",
         "singleton-pattern": "Singleton pattern",
-        "abstraction-occurrence-pattern": "Abstraction occurrence pattern",
         "facade-pattern": "Facade pattern",
-        "command-pattern": "Command pattern",
-        "model-view-controller-mvc-pattern": "Model view controller (MVC) pattern",
-        "observer-pattern": "Observer pattern",
-        "more": "More",
         "what": "What",
         "format": "Format",
         "what-2": "What",
         "implementation": "Implementation",
         "evaluation": "Evaluation",
         "what-3": "What",
-        "what-4": "What",
-        "what-5": "What",
-        "what-6": "What",
-        "what-7": "What",
-        "combining-design-patterns": "Combining Design Patterns",
-        "other-design-patterns": "Other Design Patterns",
-        "using-design-patterns": "Using Design Patterns",
-        "other-types-of-patterns": "Other Types of Patterns",
-        "design-patterns-vs-design-principles": "Design Patterns vs Design Principles",
         "software-design-patterns": "Software design patterns"
       },
       "headingKeywords": {}
@@ -1034,22 +986,11 @@
       "title": "Documentation",
       "headings": {
         "introduction": "Introduction",
-        "guidelines": "Guidelines",
         "tools": "Tools",
         "what": "What",
-        "guideline-go-top-down-not-bottom-up": "Guideline: Go top-down, not bottom-up",
-        "guideline-aim-for-comprehensibility": "Guideline: Aim for comprehensibility",
-        "guideline-document-minimally-but-sufficiently": "Guideline: Document minimally, but sufficiently",
-        "what-2": "What",
-        "why": "Why",
-        "how": "How",
-        "what-3": "What",
-        "how-2": "How",
-        "what-4": "What",
-        "how-3": "How",
         "javadoc": "JavaDoc",
-        "what-5": "What",
-        "how-4": "How",
+        "what-2": "What",
+        "how": "How",
         "documentation": "Documentation"
       },
       "headingKeywords": {}
@@ -1062,8 +1003,6 @@
         "exceptions": "Exceptions",
         "assertions": "Assertions",
         "logging": "Logging",
-        "defensive-programming": "Defensive programming",
-        "design-by-contract-approach": "Design-by-contract approach",
         "what": "What",
         "what-2": "What",
         "how": "How",
@@ -1073,12 +1012,6 @@
         "when-2": "When",
         "what-4": "What",
         "how-3": "How",
-        "what-5": "What",
-        "enforcing-compulsory-associations": "Enforcing Compulsory Associations",
-        "enforcing-1-to-1-associations": "Enforcing 1-to-1 Associations",
-        "enforcing-referential-integrity": "Enforcing Referential Integrity",
-        "when-3": "When",
-        "design-by-contract": "Design by Contract",
         "error-handling": "Error handling"
       },
       "headingKeywords": {}
@@ -1143,12 +1076,8 @@
       "title": "Integration",
       "headings": {
         "introduction": "Introduction",
-        "approaches": "Approaches",
         "build-automation": "Build Automation",
         "what": "What",
-        "late-and-one-time-vs-early-and-frequent": "'Late and One Time' vs 'Early and Frequent'",
-        "big-bang-vs-incremental-integration": "Big-Bang vs Incremental Integration",
-        "top-down-vs-bottom-up-integration": "Top-Down vs Bottom-Up Integration",
         "what-2": "What",
         "continuous-integration-and-continuous-deployment": "Continuous Integration and Continuous Deployment",
         "integration": "Integration"
@@ -1176,7 +1105,6 @@
         "introduction": "Introduction",
         "modeling-structures": "Modeling structures",
         "modeling-behaviors": "Modeling behaviors",
-        "modeling-a-solution": "Modeling a solution",
         "what": "What",
         "how": "How",
         "uml-models": "UML Models",
@@ -1208,9 +1136,6 @@
         "interaction-overview-diagrams": "Interaction Overview Diagrams",
         "communication-diagrams": "Communication Diagrams",
         "state-machine-diagrams": "State Machine Diagrams",
-        "introduction-2": "Introduction",
-        "basic": "Basic",
-        "intermediate": "Intermediate",
         "modeling": "Modeling"
       },
       "headingKeywords": {}
@@ -1265,16 +1190,8 @@
       "title": "Principles",
       "headings": {
         "single-responsibility-principle": "Single Responsibility Principle",
-        "open-closed-principle": "Open-Closed Principle",
         "liskov-substitution-principle": "Liskov Substitution Principle",
-        "interface-segregation-principle": "Interface Segregation Principle",
-        "dependency-inversion-principle": "Dependency Inversion Principle",
-        "solid-principles": "SOLID Principles",
         "separation-of-concerns-principle": "Separation of Concerns Principle",
-        "law-of-demeter": "Law of Demeter",
-        "yagni-principle": "YAGNI Principle",
-        "dry-principle": "DRY Principle",
-        "brooks-law": "Brooks' Law",
         "principles": "Principles"
       },
       "headingKeywords": {}
@@ -1285,17 +1202,12 @@
       "headings": {
         "introduction": "Introduction",
         "example-process-models": "Example process models",
-        "more": "More",
-        "summary": "Summary",
         "what": "What",
         "sequential-models": "Sequential Models",
         "iterative-models": "Iterative Models",
         "agile-models": "Agile Models",
         "xp": "XP",
         "scrum": "Scrum",
-        "unified-process": "Unified Process",
-        "cmmi": "CMMI",
-        "recap": "Recap",
         "sdlc-process-models": "SDLC process models"
       },
       "headingKeywords": {}
@@ -1348,8 +1260,8 @@
       "headings": {
         "introduction": "Introduction",
         "non-functional-requirements": "Non-Functional Requirements",
-        "quality-of-requirements": "Quality of Requirements",
         "prioritizing-requirements": "Prioritizing Requirements",
+        "quality-of-requirements": "Quality of Requirements",
         "requirements": "Requirements"
       },
       "headingKeywords": {}
@@ -1363,18 +1275,14 @@
         "libraries": "Libraries",
         "frameworks": "Frameworks",
         "platforms": "Platforms",
-        "cloud-computing": "Cloud computing",
         "what": "What",
         "when": "When",
         "what-2": "What",
-        "designing-apis": "Designing APIs",
         "what-3": "What",
         "how": "How",
         "what-4": "What",
         "frameworks-vs-libraries": "Frameworks vs Libraries",
         "what-5": "What",
-        "what-6": "What",
-        "iaas-paas-and-saas": "Iaas, PaaS, and SaaS",
         "reuse": "Reuse"
       },
       "headingKeywords": {}
@@ -1459,7 +1367,6 @@
         "boundary-value-analysis": "Boundary value analysis",
         "combining-test-inputs": "Combining test inputs",
         "more": "More",
-        "recap": "Recap",
         "what": "What",
         "positive-vs-negative-test-cases": "Positive vs Negative Test Cases",
         "black-box-vs-glass-box": "Black Box vs Glass Box",
@@ -1472,9 +1379,7 @@
         "test-input-combination-strategies": "Test Input Combination Strategies",
         "heuristic-each-valid-input-at-least-once-in-a-positive-test-case": "Heuristic: Each Valid Input at Least Once in a Positive Test Case",
         "heuristic-no-more-than-one-invalid-input-in-a-test-case": "Heuristic: No More Than One Invalid Input In A Test Case",
-        "mix": "Mix",
         "testing-based-on-use-cases": "Testing Based on Use Cases",
-        "exercises": "Exercises",
         "test-case-design": "Test case design"
       },
       "headingKeywords": {}
@@ -1491,29 +1396,29 @@
         "tdd": "TDD",
         "what": "What",
         "testability": "Testability",
-        "regression-testing": "Regression testing",
-        "developer-testing": "Developer testing",
         "unit-testing": "Unit testing",
         "integration-testing": "Integration testing",
         "system-testing": "System testing",
         "alpha-and-beta-testing": "Alpha and beta testing",
         "dogfooding": "Dogfooding",
+        "developer-testing": "Developer testing",
         "exploratory-versus-scripted-testing": "Exploratory versus scripted testing",
         "acceptance-testing": "Acceptance testing",
+        "regression-testing": "Regression testing",
         "what-2": "What",
-        "what-3": "What",
-        "why": "Why",
-        "what-4": "What",
         "stubs": "Stubs",
-        "what-5": "What",
+        "what-3": "What",
         "how": "How",
+        "what-4": "What",
+        "what-5": "What",
         "what-6": "What",
         "what-7": "What",
+        "why": "Why",
         "what-8": "What",
-        "what-9": "What",
         "when": "When",
-        "what-10": "What",
+        "what-9": "What",
         "acceptance-vs-system-testing": "Acceptance vs System Testing",
+        "what-10": "What",
         "what-11": "What",
         "automated-testing-of-cli-apps": "Automated Testing of CLI Apps",
         "test-automation-using-test-drivers": "Test Automation Using Test Drivers",
@@ -1524,7 +1429,6 @@
         "what-13": "What",
         "how-3": "How",
         "what-14": "What",
-        "how-4": "How",
         "testing": "Testing"
       },
       "headingKeywords": {}
@@ -1595,7 +1499,6 @@
         "rakes": "Rakes",
         "swimlanes": "Swimlanes",
         "notes-2": "Notes",
-        "constraints": "Constraints",
         "object-vs-class-diagrams": "Object vs Class Diagrams",
         "uml": "UML"
       },
