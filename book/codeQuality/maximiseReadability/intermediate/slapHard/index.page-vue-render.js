@@ -26,6 +26,6 @@ with(this){return _c('strong',[_c('em',[_v("Single Level of Abstraction Principl
 with(this){return _c('span',{staticClass:"dimmed"},[_v("while the book "),_c('em',[_v("Clean Code")]),_v(" (by Robert C. Martin) calls this "),_c('em',[_v("One Level of Abstraction per Function")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Sat, 30 Jul 2022, 1:17:00 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Sat, 30 Jul 2022, 2:01:56 GMT+8]")])])])}
 }];
   

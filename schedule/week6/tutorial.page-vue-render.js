@@ -26,6 +26,6 @@ with(this){return _c('div',[_c('ul',[_c('li',[_v("Copy your iP jar file to an em
 with(this){return _c('ul',[_c('li',[_v("The tutor will give feedback based on the UG draft that you uploaded to LumiNUS.")]),_v(" "),_c('li',[_v("The feedback will be limited to the scope of v1.0 i.e., caution you if you seem to overambitious in you v1.0 plan.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Sat, 30 Jul 2022, 1:17:00 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Sat, 30 Jul 2022, 2:01:56 GMT+8]")])])])}
 }];
   

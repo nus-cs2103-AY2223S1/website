@@ -47,6 +47,6 @@ with(this){return _c('ul',[_c('li',[_c('span',{staticClass:"badge bg-dark"},[_v(
 with(this){return _c('div',[_c('div',{staticClass:"border border-success pt-0 ps-1 pe-1 border-top-0 rounded-bottom",staticStyle:{"background-color":"#e6fff2"}},[_c('p',[_c('span',{staticClass:"text-success"},[_c('small',[_c('strong',[_c('span',{staticClass:"far fa-hand-point-up",attrs:{"aria-hidden":"true"}})]),_v(" Follow up notes for the item(s) above:")])]),_c('br')]),_v(" "),_c('div',{staticClass:"indented"},[_c('p',[_v("The workflow you followed above is very safe but has a high-overhead. You may simplify your workflow (at your own risk) after following the above workflow for a while.")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Sat, 30 Jul 2022, 1:17:00 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Sat, 30 Jul 2022, 2:01:56 GMT+8]")])])])}
 }];
   
