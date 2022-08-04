@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_m(0),_v(" "),_c('header',{attr
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-white text-center",attrs:{"id":"top-banner"}},[_c('span',[_v("This module will be delivered in "),_c('em',[_v("blended learning")]),_v(" mode (i.e., a mix of online and F2F activities) this semester.")])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-white text-center d-print-none"},[_c('span',[_v("This module will be delivered in "),_c('em',[_v("blended learning")]),_v(" mode (i.e., a mix of online and F2F activities) this semester.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge bg-light text-dark"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can explain test coverage")])])])])])}
@@ -26,6 +26,6 @@ with(this){return _c('ul',[_c('li',[_c('strong',[_v("Function/method coverage")]
 with(this){return _c('ul',[_c('li',[_c('strong',[_v("Path coverage")]),_v(" measures coverage in terms of possible paths through a given part of the code executed. 100% path coverage means all possible paths have been executed. A commonly used notation for path analysis is called the "),_c('em',[_v("Control Flow Graph (CFG)")]),_v(".")]),_v(" "),_c('li',[_c('strong',[_v("Entry/exit coverage")]),_v(" measures coverage in terms of possible "),_c('em',[_v("calls to")]),_v(" and "),_c('em',[_v("exits")]),_v(" from the operations in the SUT.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Thu, 4 Aug 2022, 20:38:24 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Thu, 4 Aug 2022, 21:25:20 GMT+8]")])])])}
 }];
   

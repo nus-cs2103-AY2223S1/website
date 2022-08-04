@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_m(0),_v(" "),_c('header',{attr
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-white text-center",attrs:{"id":"top-banner"}},[_c('span',[_v("This module will be delivered in "),_c('em',[_v("blended learning")]),_v(" mode (i.e., a mix of online and F2F activities) this semester.")])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-white text-center d-print-none"},[_c('span',[_v("This module will be delivered in "),_c('em',[_v("blended learning")]),_v(" mode (i.e., a mix of online and F2F activities) this semester.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge bg-light text-dark"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can explain the need for strategies to combine test inputs")])])])])])}
@@ -23,6 +23,6 @@ with(this){return _c('p',[_c('strong',[_v("An SUT can take multiple inputs.")]),
 with(this){return _c('p',[_c('strong',[_v("Testing all possible combinations is effective but not efficient.")]),_v(" If you test all possible combinations for the above example, you need to test 6x5x2x6=360 cases. Doing so has a higher chance of discovering bugs (i.e. effective) but the number of test cases will be too high (i.e. not efficient). Therefore, "),_c('strong',[_v("you need smarter ways to combine test inputs that are both effective and efficient.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Thu, 4 Aug 2022, 20:38:24 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Thu, 4 Aug 2022, 21:25:20 GMT+8]")])])])}
 }];
   

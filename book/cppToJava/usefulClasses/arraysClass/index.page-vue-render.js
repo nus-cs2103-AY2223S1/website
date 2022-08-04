@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_m(0),_v(" "),_c('header',{attr
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-white text-center",attrs:{"id":"top-banner"}},[_c('span',[_v("This module will be delivered in "),_c('em',[_v("blended learning")]),_v(" mode (i.e., a mix of online and F2F activities) this semester.")])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-white text-center d-print-none"},[_c('span',[_v("This module will be delivered in "),_c('em',[_v("blended learning")]),_v(" mode (i.e., a mix of online and F2F activities) this semester.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge bg-light text-dark"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can use the Arrays class")])])])])])}
@@ -20,6 +20,6 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"the-arrays-class"}},[_c('span'
 with(this){return _c('p',[_c('strong',[_c('a',{attrs:{"href":"https://docs.oracle.com/javase/9/docs/api/java/util/Arrays.html"}},[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("java.util.Arrays")])]),_v(" provides methods for working with arrays.")]),_v(" One of them, "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("toString")]),_v(", returns a string representation of an array. It also provides a "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("copyOf")]),_v(" that copies an array.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Thu, 4 Aug 2022, 20:38:24 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Thu, 4 Aug 2022, 21:25:20 GMT+8]")])])])}
 }];
   

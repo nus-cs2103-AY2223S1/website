@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_m(0),_v(" "),_c('header',{attr
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-white text-center",attrs:{"id":"top-banner"}},[_c('span',[_v("This module will be delivered in "),_c('em',[_v("blended learning")]),_v(" mode (i.e., a mix of online and F2F activities) this semester.")])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-white text-center d-print-none"},[_c('span',[_v("This module will be delivered in "),_c('em',[_v("blended learning")]),_v(" mode (i.e., a mix of online and F2F activities) this semester.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge bg-light text-dark"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can improve code quality using technique: use the default branch ")])])])])])}
@@ -23,6 +23,6 @@ with(this){return _c('p',[_v("Always include a default branch in "),_c('code',{p
 with(this){return _c('p',[_v("Furthermore, use it for the intended default action and not just to execute the last option. If there is no default action, you can use the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("default")]),_v(" branch to detect errors (i.e. if execution reached the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("default")]),_v(" branch, raise a suitable error). This also applies to the final "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("else")]),_v(" of an "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("if-else")]),_v(" construct. That is, the final "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("else")]),_v(" should mean 'everything else', and not the final option. Do not use "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("else")]),_v(" when an "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("if")]),_v(" condition can be explicitly specified, unless there is absolutely no other possibility.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Thu, 4 Aug 2022, 20:38:24 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Thu, 4 Aug 2022, 21:25:20 GMT+8]")])])])}
 }];
   

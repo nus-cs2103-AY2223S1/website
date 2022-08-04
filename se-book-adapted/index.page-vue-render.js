@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_m(0),_v(" "),_c('header',{attr
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-white text-center",attrs:{"id":"top-banner"}},[_c('span',[_v("This module will be delivered in "),_c('em',[_v("blended learning")]),_v(" mode (i.e., a mix of online and F2F activities) this semester.")])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-white text-center d-print-none"},[_c('span',[_v("This module will be delivered in "),_c('em',[_v("blended learning")]),_v(" mode (i.e., a mix of online and F2F activities) this semester.")])])}
 },function anonymous(
 ) {
 with(this){return _c('h2',{attrs:{"id":"software-engineering-for-self-directed-learners-cs2103-t-edition-2022-aug-nov"}},[_c('span',{staticClass:"anchor",attrs:{"id":"software-engineering-for-self-directed-learners-cs2103-t-edition-2022-aug-nov"}}),_v("Software Engineering for Self-Directed Learners "),_c('small',[_c('small',[_c('small',[_c('span',{staticClass:"badge rounded-pill bg-success"},[_v("CS2103/T edition - 2022 Aug-Nov")])])])]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#software-engineering-for-self-directed-learners-cs2103-t-edition-2022-aug-nov","onclick":"event.stopPropagation()"}})])}
@@ -44,6 +44,6 @@ with(this){return _c('ul',[_c('li',[_c('p',[_c('a',{attrs:{"href":"/website/se-b
 with(this){return _c('ul',[_c('li',[_c('p',[_c('a',{attrs:{"href":"/website/se-book-adapted/chapters/cppToJava.html"}},[_v("C++ to Java")]),_v(" "),_c('a',{attrs:{"href":"/website/se-book-adapted/chapters-printable/cppToJava-printable.html"}},[_c('span',[_c('span',{staticClass:"glyphicon glyphicon-print",attrs:{"aria-hidden":"true"}})])])])]),_v(" "),_c('li',[_c('p',[_c('a',{attrs:{"href":"/website/se-book-adapted/projectDuke/index.html"}},[_v("Project Duke")])])]),_v(" "),_c('li',[_c('p',[_c('a',{attrs:{"href":"/website/se-book-adapted/common/exercises.html"}},[_v("Combined Exercises")])])]),_v(" "),_c('li',[_c('p',[_c('a',{attrs:{"href":"/website/se-book-adapted/common/definitions.html"}},[_v("List of Definitions")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Thu, 4 Aug 2022, 20:38:24 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Thu, 4 Aug 2022, 21:25:20 GMT+8]")])])])}
 }];
   

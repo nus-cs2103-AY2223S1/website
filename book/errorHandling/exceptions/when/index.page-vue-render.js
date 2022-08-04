@@ -5,12 +5,12 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_m(0),_v(" "),_c('header',{attr
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-white text-center",attrs:{"id":"top-banner"}},[_c('span',[_v("This module will be delivered in "),_c('em',[_v("blended learning")]),_v(" mode (i.e., a mix of online and F2F activities) this semester.")])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-white text-center d-print-none"},[_c('span',[_v("This module will be delivered in "),_c('em',[_v("blended learning")]),_v(" mode (i.e., a mix of online and F2F activities) this semester.")])])}
 },function anonymous(
 ) {
 with(this){return _c('div',{staticClass:"fixed-header-padding",attrs:{"id":"content-wrapper"}},[_c('div',[_c('link',{attrs:{"rel":"stylesheet","href":"/website/book/css/textbook.css"}}),_v(" "),_c('div',{staticClass:"website-content"},[_c('p',[_c('span',{staticClass:"badge bg-light text-dark"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can avoid using exceptions to control normal workflow")])])])])]),_c('p'),_c('p'),_v(" "),_c('p'),_v(" "),_c('div',[_c('div'),_c('p'),_v(" "),_c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Implementation → Error Handling → Exceptions →\n")])])])]),_v(" "),_c('div',{attrs:{"id":"title-and-body"}},[_c('div',[_c('h4',{attrs:{"id":"when"}},[_c('span',{staticClass:"anchor",attrs:{"id":"when"}}),_c('span',[_v("When")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#when","onclick":"event.stopPropagation()"}})])]),_v(" "),_c('div',{attrs:{"id":"main"}},[_c('div',[_c('p',[_v("In general, use exceptions only for 'unusual' conditions. Use normal "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("return")]),_v(" statements to pass control to the caller for conditions that are 'normal'.")])]),_v(" "),_c('div')])])])])]),_v(" "),_c('i',{staticClass:"fa fa-arrow-circle-up fa-lg d-print-none",attrs:{"id":"scroll-top-button","onclick":"handleScrollTop()","aria-hidden":"true"}})])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Thu, 4 Aug 2022, 20:38:24 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Thu, 4 Aug 2022, 21:25:20 GMT+8]")])])])}
 }];
   

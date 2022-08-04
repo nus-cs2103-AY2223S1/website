@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_m(0),_v(" "),_c('header',{attr
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-white text-center",attrs:{"id":"top-banner"}},[_c('span',[_v("This module will be delivered in "),_c('em',[_v("blended learning")]),_v(" mode (i.e., a mix of online and F2F activities) this semester.")])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-white text-center d-print-none"},[_c('span',[_v("This module will be delivered in "),_c('em',[_v("blended learning")]),_v(" mode (i.e., a mix of online and F2F activities) this semester.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge bg-light text-dark"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can explain design patterns format")])])])])])}
@@ -20,6 +20,6 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"format"}},[_c('span',{staticCl
 with(this){return _c('div',[_c('p',[_v("The common format to describe a pattern consists of the following components:")]),_v(" "),_c('ul',[_c('li',[_c('strong',[_v("Context")]),_v(": The situation or scenario where the design problem is encountered.")]),_v(" "),_c('li',[_c('strong',[_v("Problem")]),_v(": The main difficulty to be resolved.")]),_v(" "),_c('li',[_c('strong',[_v("Solution")]),_v(": The core of the solution. It is important to note that the solution presented only includes the most general details, which may need further refinement for a specific context.")]),_v(" "),_c('li',[_c('strong',[_v("Anti-patterns")]),_v(" (optional): Commonly used solutions, which are usually incorrect and/or inferior to the Design Pattern.")]),_v(" "),_c('li',[_c('strong',[_v("Consequences")]),_v(" (optional): Identifying the pros and cons of applying the pattern.")]),_v(" "),_c('li',[_c('strong',[_v("Other useful information")]),_v(" (optional): Code examples, known uses, other related patterns, etc.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Thu, 4 Aug 2022, 20:38:24 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Thu, 4 Aug 2022, 21:25:20 GMT+8]")])])])}
 }];
   

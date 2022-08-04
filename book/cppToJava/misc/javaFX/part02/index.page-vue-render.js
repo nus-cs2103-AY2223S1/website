@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_m(0),_v(" "),_c('header',{attr
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-white text-center",attrs:{"id":"top-banner"}},[_c('span',[_v("This module will be delivered in "),_c('em',[_v("blended learning")]),_v(" mode (i.e., a mix of online and F2F activities) this semester.")])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-white text-center d-print-none"},[_c('span',[_v("This module will be delivered in "),_c('em',[_v("blended learning")]),_v(" mode (i.e., a mix of online and F2F activities) this semester.")])])}
 },function anonymous(
 ) {
 with(this){return _c('h1',{attrs:{"id":"javafx-9-tutorial-part-2-model-and-tableview"}},[_c('span',{staticClass:"anchor",attrs:{"id":"javafx-9-tutorial-part-2-model-and-tableview"}}),_v("JavaFx 9 tutorial - Part 2: Model and TableView"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#javafx-9-tutorial-part-2-model-and-tableview","onclick":"event.stopPropagation()"}})])}
@@ -149,6 +149,6 @@ with(this){return _c('p',[_v("Congratulations! The application now shows the lis
 with(this){return _c('p',[_v("You may notice that selecting a person in the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("TableView")]),_v(" does nothing to the labels at the right side. That is because the user interaction portion has not been programmed yet, which we will cover in the next part of the tutorial.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Thu, 4 Aug 2022, 20:38:24 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Thu, 4 Aug 2022, 21:25:20 GMT+8]")])])])}
 }];
   

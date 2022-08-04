@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_m(0),_v(" "),_c('header',{attr
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-white text-center",attrs:{"id":"top-banner"}},[_c('span',[_v("This module will be delivered in "),_c('em',[_v("blended learning")]),_v(" mode (i.e., a mix of online and F2F activities) this semester.")])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-white text-center d-print-none"},[_c('span',[_v("This module will be delivered in "),_c('em',[_v("blended learning")]),_v(" mode (i.e., a mix of online and F2F activities) this semester.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge bg-light text-dark"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can explain the Java HelloWorld program")])])])])])}
@@ -62,6 +62,6 @@ with(this){return _c('p',[_c('span',{staticStyle:{"opacity":"0.5"}},[_c('span',{
 with(this){return _c('ul',[_c('li',[_v("Java use the term "),_c('em',[_v("method")]),_v(" instead of "),_c('em',[_v("function")]),_v(". In particular, Java doesn’t have  stand-alone functions. Every method should belong to a class. The "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("main")]),_v(" method will not work unless it is inside the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("HelloWorld")]),_v(" class.")]),_v(" "),_c('li',[_v("A Java class definition does not end with a semicolon, but most Java statements do.")]),_v(" "),_c('li',[_v("In "),_c('em',[_v("most")]),_v(" cases (i.e., there are exceptions), the name of the class has to match the name of the file it is in, so this class has to be in a file named "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("HelloWorld.java")]),_v(".")]),_v(" "),_c('li',[_v("There is no need for the HelloWorld code to have something like "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("#include <iostream>")]),_v(". The library files needed by the HelloWorld code is available by default without having to \"include\" them explicitly.")]),_v(" "),_c('li',[_v("There is no need to "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("return 0")]),_v(" at the end of the main method to indicate the execution was successful. It is considered as a successful execution unless an error is signalled specifically.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Thu, 4 Aug 2022, 20:38:24 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Thu, 4 Aug 2022, 21:25:20 GMT+8]")])])])}
 }];
   

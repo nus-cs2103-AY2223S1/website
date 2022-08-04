@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_m(0),_v(" "),_c('header',{attr
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-white text-center",attrs:{"id":"top-banner"}},[_c('span',[_v("This module will be delivered in "),_c('em',[_v("blended learning")]),_v(" mode (i.e., a mix of online and F2F activities) this semester.")])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-white text-center d-print-none"},[_c('span',[_v("This module will be delivered in "),_c('em',[_v("blended learning")]),_v(" mode (i.e., a mix of online and F2F activities) this semester.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge bg-light text-dark"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can differentiate between frameworks and libraries")])])])])])}
@@ -20,6 +20,6 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"frameworks-versus-libraries"}}
 with(this){return _c('div',[_c('p',[_v("Although both frameworks and libraries are reuse mechanisms, there are notable differences:")]),_v(" "),_c('ul',[_c('li',[_c('p',[_c('strong',[_v("Libraries are meant to be used ‘as is’ while frameworks are meant to be customized/extended.")]),_v(" "),_c('span',{staticClass:"dimmed"},[_v("e.g., writing plugins for Eclipse so that it can be used as an IDE for different languages (C++, PHP, etc.), adding modules and themes to Drupal, and adding test cases to JUnit")]),_v(".")])]),_v(" "),_c('li',[_c('p',[_c('strong',[_v("Your code calls the library code while the framework code calls your code.")]),_v(" "),_c('strong',[_v("Frameworks use a technique called "),_c('em',[_v("inversion of control")]),_v(", aka the “Hollywood principle”")]),_v(" (i.e. don’t call us, we’ll call you!). That is, you write code that will be called by the framework, "),_c('span',{staticClass:"dimmed"},[_v("e.g. writing test methods that will be called by the JUnit framework.")]),_v(" In the case of libraries, your code calls libraries.")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Thu, 4 Aug 2022, 20:38:24 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Thu, 4 Aug 2022, 21:25:20 GMT+8]")])])])}
 }];
   
