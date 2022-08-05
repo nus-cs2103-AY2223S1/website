@@ -23,6 +23,6 @@ with(this){return _c('p',[_c('strong',[_v("The Open-Closed Principle aims to mak
 with(this){return _c('p',[_v("In object-oriented programming, OCP can be achieved in various ways. This often requires separating the "),_c('em',[_v("specification (i.e. interface)")]),_v(" of a module from its "),_c('em',[_v("implementation")]),_v(".")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Fri, 5 Aug 2022, 21:43:29 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Fri, 5 Aug 2022, 22:18:37 GMT+8]")])])])}
 }];
   

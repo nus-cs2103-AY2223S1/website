@@ -560,3 +560,78 @@
 2022-08-05T13:41:54.289Z - info: Assets built
 2022-08-05T13:43:06.542Z - info: Website generation started at 9:43:05 pm
 2022-08-05T13:43:20.489Z - info: Building assets...
+2022-08-05T13:43:29.335Z - info: Assets built
+2022-08-05T13:43:29.336Z - info: Generating pages...
+2022-08-05T13:43:40.132Z - debug:  
+2022-08-05T13:43:40.185Z - debug:  
+2022-08-05T13:43:43.364Z - debug:  
+2022-08-05T13:43:43.365Z - debug:  
+2022-08-05T13:43:43.365Z - debug:  
+2022-08-05T13:43:43.365Z - debug:  
+2022-08-05T13:43:43.365Z - debug:  
+2022-08-05T13:43:43.365Z - debug:  
+2022-08-05T13:43:43.366Z - debug:  
+2022-08-05T13:43:43.366Z - debug:  
+2022-08-05T13:43:43.366Z - debug:  
+2022-08-05T13:43:43.366Z - debug:  
+2022-08-05T13:45:37.938Z - debug:  
+2022-08-05T13:45:50.032Z - debug:  
+2022-08-05T13:45:50.092Z - debug:  
+2022-08-05T13:45:54.926Z - info: Pages built
+2022-08-05T13:45:55.820Z - info: Site data built
+2022-08-05T13:45:55.820Z - info: Website generation complete! Total build time: 170.432s
+2022-08-05T13:45:55.820Z - info: Build success!
+2022-08-05T13:50:29.010Z - info: The website has been deployed at: https://nus-cs2103-ay2223s1.github.io/website
+2022-08-05T14:09:23.600Z - info: Website generation (lazy) started at 10:09:21 pm
+2022-08-05T14:09:31.004Z - info: Building assets...
+2022-08-05T14:09:36.800Z - info: Assets built
+2022-08-05T14:09:36.800Z - info: Generating landing page...
+2022-08-05T14:09:37.339Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-08-05T14:09:38.023Z - info: Site data built
+2022-08-05T14:09:38.023Z - info: Website generation (lazy) complete! Total build time: 16.597s
+2022-08-05T14:09:38.758Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-08-05T14:09:38.759Z - info: Press CTRL+C to stop ...
+2022-08-05T14:11:05.298Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\print as some of its dependencies were changed since the last visit
+2022-08-05T14:11:13.228Z - debug:  
+2022-08-05T14:11:13.247Z - debug:  
+2022-08-05T14:11:13.264Z - debug:  
+2022-08-05T14:11:15.804Z - debug:  
+2022-08-05T14:11:15.805Z - debug:  
+2022-08-05T14:11:15.805Z - debug:  
+2022-08-05T14:11:15.806Z - debug:  
+2022-08-05T14:11:15.807Z - debug:  
+2022-08-05T14:11:15.807Z - debug:  
+2022-08-05T14:11:15.807Z - debug:  
+2022-08-05T14:11:15.808Z - debug:  
+2022-08-05T14:11:15.808Z - debug:  
+2022-08-05T14:11:16.167Z - info: Site data built
+2022-08-05T14:11:16.167Z - info: Lazy website regeneration complete! Total build time: 10.871s
+2022-08-05T14:14:28.448Z - info: [10:14:28 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\css\main.css
+2022-08-05T14:14:28.448Z - info: Synchronizing opened pages list before reload
+2022-08-05T14:14:28.448Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T14:14:28.449Z - info: 1. se-book-adapted/print
+2022-08-05T14:14:28.449Z - info: 2. index
+2022-08-05T14:14:29.476Z - info: Assets built
+2022-08-05T14:14:38.069Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\index as some of its dependencies were changed since the last visit
+2022-08-05T14:14:38.349Z - info: Site data built
+2022-08-05T14:14:38.349Z - info: Lazy website regeneration complete! Total build time: 0.282s
+2022-08-05T14:14:43.799Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters-printable\softwareEngineering-printable as some of its dependencies were changed since the last visit
+2022-08-05T14:14:44.032Z - info: Site data built
+2022-08-05T14:14:44.032Z - info: Lazy website regeneration complete! Total build time: 0.233s
+2022-08-05T14:15:38.105Z - info: [10:15:38 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\css\main.css
+2022-08-05T14:15:38.105Z - info: Synchronizing opened pages list before reload
+2022-08-05T14:15:38.105Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T14:15:38.105Z - info: 1. se-book-adapted/chapters-printable/softwareEngineering-printable
+2022-08-05T14:15:38.106Z - info: 2. index
+2022-08-05T14:15:39.132Z - info: Assets built
+2022-08-05T14:17:19.090Z - info: [10:17:19 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\css\main.css
+2022-08-05T14:17:19.090Z - info: Synchronizing opened pages list before reload
+2022-08-05T14:17:19.091Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T14:17:19.091Z - info: 1. se-book-adapted/chapters-printable/softwareEngineering-printable
+2022-08-05T14:17:19.091Z - info: 2. index
+2022-08-05T14:17:20.108Z - info: Assets built
+2022-08-05T14:17:35.376Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\gitAndGithub as some of its dependencies were changed since the last visit
+2022-08-05T14:17:36.116Z - info: Site data built
+2022-08-05T14:17:36.117Z - info: Lazy website regeneration complete! Total build time: 0.74s
+2022-08-05T14:18:20.333Z - info: Website generation started at 10:18:19 pm
+2022-08-05T14:18:30.643Z - info: Building assets...
