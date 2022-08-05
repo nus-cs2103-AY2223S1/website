@@ -136,6 +136,10 @@ mark {
         display: none;
     }
 
+    footer {
+        display: none;
+    }
+
     /* Reduce font size when printing */
     h1 {
         font-size: 1.2rem !important;

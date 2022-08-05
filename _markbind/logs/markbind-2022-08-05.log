@@ -635,3 +635,41 @@
 2022-08-05T14:17:36.117Z - info: Lazy website regeneration complete! Total build time: 0.74s
 2022-08-05T14:18:20.333Z - info: Website generation started at 10:18:19 pm
 2022-08-05T14:18:30.643Z - info: Building assets...
+2022-08-05T14:18:37.715Z - info: Assets built
+2022-08-05T14:18:37.716Z - info: Generating pages...
+2022-08-05T14:18:49.734Z - debug:  
+2022-08-05T14:18:49.735Z - debug:  
+2022-08-05T14:18:49.737Z - debug:  
+2022-08-05T14:18:53.585Z - debug:  
+2022-08-05T14:18:53.585Z - debug:  
+2022-08-05T14:18:53.585Z - debug:  
+2022-08-05T14:18:53.585Z - debug:  
+2022-08-05T14:18:53.586Z - debug:  
+2022-08-05T14:18:53.586Z - debug:  
+2022-08-05T14:18:53.586Z - debug:  
+2022-08-05T14:18:53.586Z - debug:  
+2022-08-05T14:18:53.586Z - debug:  
+2022-08-05T14:21:03.415Z - debug:  
+2022-08-05T14:21:18.218Z - debug:  
+2022-08-05T14:21:18.218Z - debug:  
+2022-08-05T14:21:23.932Z - info: Pages built
+2022-08-05T14:21:24.812Z - info: Site data built
+2022-08-05T14:21:24.813Z - info: Website generation complete! Total build time: 185.659s
+2022-08-05T14:21:24.813Z - info: Build success!
+2022-08-05T14:23:11.897Z - info: The website has been deployed at: https://nus-cs2103-ay2223s1.github.io/website
+2022-08-05T14:43:11.458Z - info: Website generation (lazy) started at 10:43:09 pm
+2022-08-05T14:43:19.081Z - info: Building assets...
+2022-08-05T14:43:24.954Z - info: Assets built
+2022-08-05T14:43:24.954Z - info: Generating landing page...
+2022-08-05T14:43:25.537Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-08-05T14:43:26.267Z - info: Site data built
+2022-08-05T14:43:26.267Z - info: Website generation (lazy) complete! Total build time: 17.031s
+2022-08-05T14:43:27.055Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-08-05T14:43:27.056Z - info: Press CTRL+C to stop ...
+2022-08-05T14:44:15.771Z - info: [10:44:15 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\css\main.css
+2022-08-05T14:44:15.773Z - info: Synchronizing opened pages list before reload
+2022-08-05T14:44:15.773Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T14:44:15.773Z - info: 1. index
+2022-08-05T14:44:16.820Z - info: Assets built
+2022-08-05T14:44:40.811Z - info: Website generation started at 10:44:39 pm
+2022-08-05T14:44:48.567Z - info: Building assets...
