@@ -673,3 +673,305 @@
 2022-08-05T14:44:16.820Z - info: Assets built
 2022-08-05T14:44:40.811Z - info: Website generation started at 10:44:39 pm
 2022-08-05T14:44:48.567Z - info: Building assets...
+2022-08-05T14:44:53.453Z - info: Assets built
+2022-08-05T14:44:53.454Z - info: Generating pages...
+2022-08-05T14:45:02.911Z - debug:  
+2022-08-05T14:45:02.915Z - debug:  
+2022-08-05T14:45:02.987Z - debug:  
+2022-08-05T14:45:06.428Z - debug:  
+2022-08-05T14:45:06.428Z - debug:  
+2022-08-05T14:45:06.428Z - debug:  
+2022-08-05T14:45:06.429Z - debug:  
+2022-08-05T14:45:06.429Z - debug:  
+2022-08-05T14:45:06.429Z - debug:  
+2022-08-05T14:45:06.429Z - debug:  
+2022-08-05T14:45:06.429Z - debug:  
+2022-08-05T14:45:06.430Z - debug:  
+2022-08-05T14:47:02.469Z - debug:  
+2022-08-05T14:47:16.490Z - debug:  
+2022-08-05T14:47:16.583Z - debug:  
+2022-08-05T14:47:22.135Z - info: Pages built
+2022-08-05T14:47:23.147Z - info: Site data built
+2022-08-05T14:47:23.148Z - info: Website generation complete! Total build time: 163.221s
+2022-08-05T14:47:23.148Z - info: Build success!
+2022-08-05T14:49:26.403Z - info: The website has been deployed at: https://nus-cs2103-ay2223s1.github.io/website
+2022-08-05T15:37:45.398Z - info: Website generation (lazy) started at 11:37:43 pm
+2022-08-05T15:37:52.860Z - info: Building assets...
+2022-08-05T15:37:58.528Z - info: Assets built
+2022-08-05T15:37:58.529Z - info: Generating landing page...
+2022-08-05T15:37:59.092Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-08-05T15:37:59.782Z - info: Site data built
+2022-08-05T15:37:59.783Z - info: Website generation (lazy) complete! Total build time: 16.549s
+2022-08-05T15:38:00.515Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-08-05T15:38:00.515Z - info: Press CTRL+C to stop ...
+2022-08-05T15:38:37.248Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\index as some of its dependencies were changed since the last visit
+2022-08-05T15:38:37.564Z - info: Site data built
+2022-08-05T15:38:37.564Z - info: Lazy website regeneration complete! Total build time: 0.318s
+2022-08-05T15:38:40.697Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\print as some of its dependencies were changed since the last visit
+2022-08-05T15:38:49.717Z - debug:  
+2022-08-05T15:38:49.738Z - debug:  
+2022-08-05T15:38:49.804Z - debug:  
+2022-08-05T15:38:52.732Z - debug:  
+2022-08-05T15:38:52.733Z - debug:  
+2022-08-05T15:38:52.733Z - debug:  
+2022-08-05T15:38:52.734Z - debug:  
+2022-08-05T15:38:52.735Z - debug:  
+2022-08-05T15:38:52.735Z - debug:  
+2022-08-05T15:38:52.736Z - debug:  
+2022-08-05T15:38:52.736Z - debug:  
+2022-08-05T15:38:52.736Z - debug:  
+2022-08-05T15:38:53.176Z - info: Site data built
+2022-08-05T15:38:53.176Z - info: Lazy website regeneration complete! Total build time: 12.479s
+2022-08-05T15:39:16.530Z - info: [11:39:16 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\softwareEngineering\introduction\prosAndCons\text.md
+2022-08-05T15:39:16.531Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:39:16.531Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:39:16.532Z - info: 1. se-book-adapted/print
+2022-08-05T15:39:16.532Z - info: 2. se-book-adapted/index
+2022-08-05T15:39:17.551Z - info: Rebuilding 1 pages
+2022-08-05T15:39:26.819Z - debug:  
+2022-08-05T15:39:26.819Z - debug:  
+2022-08-05T15:39:26.820Z - debug:  
+2022-08-05T15:39:26.820Z - debug:  
+2022-08-05T15:39:26.820Z - debug:  
+2022-08-05T15:39:26.823Z - debug:  
+2022-08-05T15:39:26.825Z - debug:  
+2022-08-05T15:39:27.295Z - debug:  
+2022-08-05T15:39:27.295Z - debug:  
+2022-08-05T15:39:27.295Z - debug:  
+2022-08-05T15:39:27.295Z - debug:  
+2022-08-05T15:39:27.295Z - debug:  
+2022-08-05T15:39:27.355Z - info: Site data built
+2022-08-05T15:39:27.356Z - info: Pages rebuilt
+2022-08-05T15:39:27.356Z - info: Website regeneration complete! Total build time: 9.807s
+2022-08-05T15:40:59.925Z - info: [11:40:59 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\errorHandling\exceptions\what\text.md
+2022-08-05T15:40:59.926Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:40:59.926Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:40:59.926Z - info: 1. se-book-adapted/print
+2022-08-05T15:40:59.927Z - info: 2. se-book-adapted/index
+2022-08-05T15:41:00.945Z - info: Rebuilding 1 pages
+2022-08-05T15:41:12.113Z - debug:  
+2022-08-05T15:41:12.113Z - debug:  
+2022-08-05T15:41:12.113Z - debug:  
+2022-08-05T15:41:12.113Z - debug:  
+2022-08-05T15:41:12.113Z - debug:  
+2022-08-05T15:41:12.116Z - debug:  
+2022-08-05T15:41:12.116Z - debug:  
+2022-08-05T15:41:12.119Z - debug:  
+2022-08-05T15:41:12.119Z - debug:  
+2022-08-05T15:41:12.502Z - debug:  
+2022-08-05T15:41:12.502Z - debug:  
+2022-08-05T15:41:12.502Z - debug:  
+2022-08-05T15:41:12.568Z - info: Site data built
+2022-08-05T15:41:12.568Z - info: Pages rebuilt
+2022-08-05T15:41:12.568Z - info: Website regeneration complete! Total build time: 11.624s
+2022-08-05T15:45:51.744Z - info: [11:45:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\requirements\introduction\text.md
+2022-08-05T15:45:51.744Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:51.745Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:51.745Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:51.745Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:51.762Z - info: [11:45:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\revisionControl\what\text.md
+2022-08-05T15:45:51.762Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:51.763Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:51.763Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:51.763Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:51.776Z - info: [11:45:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\specifyingRequirements\featureList\what\text.md
+2022-08-05T15:45:51.776Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:51.776Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:51.776Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:51.776Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:51.788Z - info: [11:45:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\principles\liskovSubstitutionPrinciple\text.md
+2022-08-05T15:45:51.788Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:51.789Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:51.789Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:51.790Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:51.802Z - info: [11:45:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\qualityAssurance\codeReviews\what\text.md
+2022-08-05T15:45:51.803Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:51.803Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:51.803Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:51.803Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:51.818Z - info: [11:45:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\principles\interfaceSegregationPrinciple\text.md
+2022-08-05T15:45:51.818Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:51.818Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:51.818Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:51.818Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:51.831Z - info: [11:45:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\qualityAssurance\staticAnalysis\what\text.md
+2022-08-05T15:45:51.831Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:51.831Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:51.831Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:51.831Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:51.843Z - info: [11:45:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\revisionControl\repositories\text.md
+2022-08-05T15:45:51.843Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:51.844Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:51.844Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:51.844Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:51.862Z - info: [11:45:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testing\testingTypes\unitTesting\stubs\text.md
+2022-08-05T15:45:51.863Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:51.863Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:51.863Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:51.864Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:51.878Z - info: [11:45:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\principles\separationOfConcernsPrinciple\text.md
+2022-08-05T15:45:51.879Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:51.879Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:51.879Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:51.879Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:51.895Z - info: [11:45:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\principles\dependencyInversionPrinciple\text.md
+2022-08-05T15:45:51.895Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:51.896Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:51.896Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:51.896Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:51.910Z - info: [11:45:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\inheritance\overloading\text.md
+2022-08-05T15:45:51.910Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:51.910Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:51.910Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:51.911Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:51.927Z - info: [11:45:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\designFundamentals\abstraction\what\text.md
+2022-08-05T15:45:51.927Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:51.927Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:51.927Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:51.927Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:51.938Z - info: [11:45:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\specifyingRequirements\userStories\introduction\text.md
+2022-08-05T15:45:51.938Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:51.938Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:51.938Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:51.939Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:51.956Z - info: [11:45:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\projectDuke\text.md
+2022-08-05T15:45:51.956Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:51.956Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:51.956Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:51.956Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:51.976Z - info: [11:45:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testing\introduction\what\text.md
+2022-08-05T15:45:51.976Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:51.976Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:51.976Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:51.976Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:51.992Z - info: [11:45:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testing\testingTypes\systemTesting\what\text.md
+2022-08-05T15:45:51.992Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:51.992Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:51.992Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:51.992Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:52.007Z - info: [11:45:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\polymorphism\what\text.md
+2022-08-05T15:45:52.008Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:52.008Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:52.008Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:52.008Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:52.018Z - info: [11:45:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\text.md
+2022-08-05T15:45:52.018Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:52.018Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:52.018Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:52.018Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:52.035Z - info: [11:45:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\principles\lawOfDemeter\text.md
+2022-08-05T15:45:52.036Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:52.036Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:52.036Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:52.036Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:52.048Z - info: [11:45:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\specifyingRequirements\useCases\identifying\text.md
+2022-08-05T15:45:52.049Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:52.049Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:52.049Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:52.049Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:52.053Z - info: [11:45:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\principles\yagniPrinciple\text.md
+2022-08-05T15:45:52.053Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:52.053Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:52.053Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:52.053Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:52.069Z - info: [11:45:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gatheringRequirements\brainstorming\text.md
+2022-08-05T15:45:52.070Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:52.070Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:52.070Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:52.070Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:52.089Z - info: [11:45:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\inheritance\dynamicAndStaticBinding\text.md
+2022-08-05T15:45:52.089Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:52.089Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:52.089Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:52.089Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:52.104Z - info: [11:45:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\designPatterns\introduction\what\text.md
+2022-08-05T15:45:52.104Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:52.104Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:52.105Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:52.105Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:52.114Z - info: [11:45:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\principles\openClosedPrinciple\text.md
+2022-08-05T15:45:52.114Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:52.114Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:52.114Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:52.114Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:52.127Z - info: [11:45:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\principles\brooksLaw\text.md
+2022-08-05T15:45:52.127Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:52.127Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:52.127Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:52.127Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:52.142Z - info: [11:45:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\principles\singleResponsibilityPrinciple\text.md
+2022-08-05T15:45:52.142Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:52.142Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:52.143Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:52.143Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:52.155Z - info: [11:45:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\inheritance\abstractClasses\text.md
+2022-08-05T15:45:52.155Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:52.155Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:52.155Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:52.155Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:52.164Z - info: [11:45:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\principles\dryPrinciple\text.md
+2022-08-05T15:45:52.164Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:52.164Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:52.165Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:52.165Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:52.178Z - info: [11:45:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gatheringRequirements\prototyping\text.md
+2022-08-05T15:45:52.178Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:52.178Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:52.178Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:52.178Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:52.192Z - info: [11:45:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\equivalencePartitions\what\text.md
+2022-08-05T15:45:52.192Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:52.192Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:52.192Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:52.193Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:52.203Z - info: [11:45:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testing\testingTypes\acceptanceTesting\what\text.md
+2022-08-05T15:45:52.203Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:52.203Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:52.204Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:52.204Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:52.218Z - info: [11:45:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testing\testingTypes\unitTesting\what\text.md
+2022-08-05T15:45:52.218Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:52.218Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:52.218Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:52.219Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:52.231Z - info: [11:45:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\specifyingRequirements\glossary\what\text.md
+2022-08-05T15:45:52.231Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:52.231Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:52.231Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:52.231Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:52.242Z - info: [11:45:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\specifyingRequirements\useCases\introduction\text.md
+2022-08-05T15:45:52.242Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:45:52.242Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:45:52.242Z - info: 1. se-book-adapted/print
+2022-08-05T15:45:52.242Z - info: 2. se-book-adapted/index
+2022-08-05T15:45:52.758Z - info: Rebuilding 1 pages
+2022-08-05T15:46:02.508Z - info: Assets built
+2022-08-05T15:46:08.726Z - debug:  
+2022-08-05T15:46:08.740Z - debug:  
+2022-08-05T15:46:08.741Z - debug:  
+2022-08-05T15:46:09.023Z - debug:  
+2022-08-05T15:46:09.023Z - debug:  
+2022-08-05T15:46:09.028Z - debug:  
+2022-08-05T15:46:09.028Z - debug:  
+2022-08-05T15:46:11.570Z - debug:  
+2022-08-05T15:46:11.570Z - debug:  
+2022-08-05T15:46:11.570Z - debug:  
+2022-08-05T15:46:11.571Z - debug:  
+2022-08-05T15:46:11.571Z - debug:  
+2022-08-05T15:46:12.174Z - info: Site data built
+2022-08-05T15:46:12.174Z - info: Pages rebuilt
+2022-08-05T15:46:12.175Z - info: Website regeneration complete! Total build time: 19.42s
+2022-08-05T15:46:52.623Z - info: [11:46:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\projectDuke\text.md
+2022-08-05T15:46:52.623Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:46:52.624Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:46:52.624Z - info: 1. se-book-adapted/print
+2022-08-05T15:46:52.624Z - info: 2. se-book-adapted/index
+2022-08-05T15:46:53.640Z - info: Assets built
+2022-08-05T15:47:05.155Z - info: [11:47:05 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\projectDuke\text.md
+2022-08-05T15:47:05.155Z - info: Synchronizing opened pages list before reload
+2022-08-05T15:47:05.155Z - info: Current opened pages, from most-to-least recent:
+2022-08-05T15:47:05.155Z - info: 1. se-book-adapted/print
+2022-08-05T15:47:05.155Z - info: 2. se-book-adapted/index
+2022-08-05T15:47:06.162Z - info: Assets built
+2022-08-05T15:56:07.150Z - info: Website generation started at 11:56:05 pm
+2022-08-05T15:56:17.523Z - info: Building assets...

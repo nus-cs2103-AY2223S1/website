@@ -29,6 +29,6 @@ with(this){return _c('p',[_c('span',{staticClass:"badge rounded-pill bg-warning 
 with(this){return _c('p',[_c('span',[_c('span',{staticClass:"fas fa-info-circle",attrs:{"aria-hidden":"true"}})]),_v(" "),_c('strong',[_v("Java "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("assert")]),_v(" vs JUnit assertions: They are similar in purpose but JUnit assertions are more powerful and customized for testing.")]),_v(" In addition, JUnit assertions are not disabled by default. We recommend you use JUnit assertions in test code and Java "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("assert")]),_v(" in functional code.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Fri, 5 Aug 2022, 22:44:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Fri, 5 Aug 2022, 23:56:24 GMT+8]")])])])}
 }];
   
