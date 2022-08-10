@@ -56,6 +56,6 @@ with(this){return _c('p',[_v("Unchecked exceptions are not required to follow to
 with(this){return _c('p',[_c('strong',[_v("Java comes with a collection of "),_c('a',{attrs:{"href":"https://www.geeksforgeeks.org/built-exceptions-java-examples/"}},[_v("built-in exception classes")])]),_v(" that you can use. When they are not enough, "),_c('strong',[_v("it is possible to "),_c('a',{attrs:{"href":"https://www.javatpoint.com/custom-exception"}},[_v("create your own exception classes")])]),_v(".")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Sun, 7 Aug 2022, 23:46:29 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Wed, 10 Aug 2022, 21:11:42 GMT+8]")])])])}
 }];
   
