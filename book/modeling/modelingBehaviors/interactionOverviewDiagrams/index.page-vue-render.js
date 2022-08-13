@@ -20,6 +20,6 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"interaction-overview-diagrams"
 with(this){return _c('p',[_c('strong',[_c('em',[_v("Interaction overview")]),_v(" diagrams are a combination of activity diagrams and sequence diagrams")]),_v(".")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Wed, 10 Aug 2022, 21:11:42 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Sun, 14 Aug 2022, 0:24:35 GMT+8]")])])])}
 }];
   
