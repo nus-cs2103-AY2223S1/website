@@ -26,6 +26,6 @@ with(this){return _c('p',[_c('span',[_c('span',{staticClass:"fas fa-info-circle"
 with(this){return _c('p',[_c('strong',[_v("When an abstract class is subclassed, the subclass should provide implementations for all of the abstract methods in its superclass or else the subclass must also be declared abstract.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Mon, 15 Aug 2022, 12:16:21 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Tue, 16 Aug 2022, 1:18:29 GMT+8]")])])])}
 }];
   
