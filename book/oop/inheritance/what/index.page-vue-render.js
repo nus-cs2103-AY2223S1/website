@@ -38,6 +38,6 @@ with(this){return _c('p',[_c('strong',[_v("Inheritance relationships through a c
 with(this){return _c('p',[_c('strong',[_c('em',[_v("Multiple Inheritance")]),_v(" is when a class inherits "),_c('em',[_v("directly")]),_v(" from multiple classes.")]),_v(" Multiple inheritance among classes is allowed in some languages (e.g., Python, C++) but not in other languages (e.g., Java, C#).")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Tue, 16 Aug 2022, 1:18:29 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Thu, 18 Aug 2022, 14:06:07 GMT+8]")])])])}
 }];
   

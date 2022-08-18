@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="generator" content="MarkBind 4.0.0">
+    <meta name="generator" content="MarkBind 4.0.1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>CS2103/T - JUnit: Basic</title>
     <link rel="stylesheet" href="../../../../markbind/css/bootstrap.min.css">
@@ -15,7 +15,7 @@
     <script src="../../../../markbind/js/vue.min.js"></script>
     <script src="../../../../markbind/js/markbind.min.js"></script>
     <script src="index.page-vue-render.js"></script>
-    <script src="../../../../markbind/js/jquery.min.js"></script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3.0.0-alpha.42/dist/style.css"><link rel="stylesheet" href="/website/plugins/markbind-plugin-anchors/markbind-plugin-anchors.css"><link rel="stylesheet" href="/website/plugins/markbind-plugin-tree/markbind-plugin-tree.css">
+    <script src="../../../../markbind/js/jquery.min.js"></script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3.2.0/dist/style.css"><link rel="stylesheet" href="/website/plugins/markbind-plugin-anchors/markbind-plugin-anchors.css"><link rel="stylesheet" href="/website/plugins/markbind-plugin-tree/markbind-plugin-tree.css">
     
 <link rel="stylesheet" href="/website/css/main.css">
 <link rel="icon" href="/website/favicon.ico"></head>
@@ -77,7 +77,7 @@
 </span><span data-v-7d17494f>}
 </span></code></pre></div> <!----></div></div></div> <p>Notes:</p> <ul><li>Each test method is marked with a <code class="hljs inline no-lang">@Test</code> annotation.</li> <li>Tests use <code class="hljs inline no-lang">Assert.assertEquals(expected, actual)</code> methods to compare the expected output with the actual output. If they do not match, the test will fail. JUnit comes with other similar methods such as <code class="hljs inline no-lang">Assert.assertNull</code> and <code class="hljs inline no-lang">Assert.assertTrue</code>.</li> <li>Java code normally use camelCase for method names e.g., <code class="hljs inline no-lang">testStringConversion</code> but when writing test methods, sometimes another convention is used: <code class="hljs inline no-lang">whatIsBeingTested_descriptionOfTestInputs_expectedOutcome</code> e.g., <code class="hljs inline no-lang">intDivision_zeroDivisor_exceptionThrown</code></li> <li>There are <a href="https://howtodoinjava.com/junit5/expected-exception-example/">several ways to verify the code throws the correct exception</a>. The third test method in the example above shows one of the simpler methods. If the exception is thrown, it will be caught and further verified inside the <code class="hljs inline no-lang">catch</code> block. But if it is not thrown as expected, the test will reach <code class="hljs inline no-lang">Assert.fail()</code> line and will fail as a result.</li> <li>The easiest way to run JUnit tests is to do it via the IDE. For example, in Intellij you can right-click the folder containing test classes and choose 'Run all tests...'</li></ul> <div alt="Junit tutorial video" class="non-printable"><div class="alert box-container alert-default" data-v-7d17494f><!----> <div class="header-and-body" data-v-7d17494f><!----> <div class="box-body-wrapper" data-v-7d17494f><!----> <!----> <div class="contents" data-v-7d17494f><p data-v-7d17494f><strong data-v-7d17494f><span data-v-7d17494f><span aria-hidden="true" class="glyphicon glyphicon-facetime-video" data-v-7d17494f></span></span> Adding JUnit 5 to your IntelliJ Project</strong> <sub data-v-7d17494f>-- by Kevintroko@YouTube</sub></p> <div class="block-embed block-embed-service-youtube" style="position:relative;padding-bottom:60.9375%;" data-v-7d17494f><iframe type="text/html" src="//www.youtube.com/embed/Z8V7rnvDeB4" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="allowfullscreen" data-v-7d17494f></iframe></div></div> <!----></div></div></div></div></div> <div><div><div expanded="" class="card-container" data-v-5681bde8><!----> <div class="card expandable-card" data-v-5681bde8><div class="card-header header-toggle bg-light" data-v-5681bde8><div class="caret-wrapper" data-v-5681bde8><!----></div> <div class="header-wrapper card-title bg-light" data-v-5681bde8><p data-v-5681bde8><span data-v-5681bde8><span aria-hidden="true" class="fas fa-paperclip" data-v-5681bde8></span></span> Resources</p></div> <div class="button-wrapper" data-v-5681bde8><button type="button" class="collapse-button btn btn-outline-secondary" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down opened"></span></button> <button type="button" class="close-button btn btn-outline-secondary" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-remove" data-v-5681bde8></span></button> <button type="button" class="popup-button btn btn-outline-secondary" style="display:none;" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-new-window" data-v-5681bde8></span></button></div></div> <div class="card-collapse" data-v-5681bde8><div class="card-body" data-v-5681bde8> <ul data-v-5681bde8><li data-v-5681bde8><a href="https://junit.org/junit5/docs/current/user-guide/" data-v-5681bde8>JUnit Official User Guide</a></li> <li data-v-5681bde8><a href="https://devqa.io/junit-5-annotations/" data-v-5681bde8>JUnit 5 Tutorial – Common Annotations With Examples</a> - a short tutorial</li> <li data-v-5681bde8>How to test private methods in Java?
 [ <a href="http://stackoverflow.com/questions/34571/whats-the-proper-way-to-test-a-class-with-private-methods-using-junit" data-v-5681bde8>short answer</a> ]
-[ <a href="http://www.artima.com/suiterunner/private.html" data-v-5681bde8>long answer</a> ]</li></ul> <!----> <button type="button" class="collapse-button btn btn-outline-secondary" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down opened"></span></button></div> <hr style="display:none;" data-v-5681bde8></div> <!----></div></div></div></div></div></div></div></div></div> <i id="scroll-top-button" onclick="handleScrollTop()" aria-hidden="true" class="fa fa-arrow-circle-up fa-lg d-print-none"></i></div> <nav id="page-nav" class="fixed-header-padding" data-v-e8c82f88><div class="nav-component slim-scroll" data-v-e8c82f88></div> <!----></nav></div> <footer><div class="text-center"><small>[<span><strong>Powered by</strong></span> <img src="https://markbind.org/favicon.ico" width="30"> <a href="https://markbind.org/">MarkBind 4.0.0</a>, generated on Tue, 16 Aug 2022, 1:18:29 GMT+8]</small></div></footer></div>
+[ <a href="http://www.artima.com/suiterunner/private.html" data-v-5681bde8>long answer</a> ]</li></ul> <!----> <button type="button" class="collapse-button btn btn-outline-secondary" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down opened"></span></button></div> <hr style="display:none;" data-v-5681bde8></div> <!----></div></div></div></div></div></div></div></div></div> <i id="scroll-top-button" onclick="handleScrollTop()" aria-hidden="true" class="fa fa-arrow-circle-up fa-lg d-print-none"></i></div> <nav id="page-nav" class="fixed-header-padding" data-v-e8c82f88><div class="nav-component slim-scroll" data-v-e8c82f88></div> <!----></nav></div> <footer><div class="text-center"><small>[<span><strong>Powered by</strong></span> <img src="https://markbind.org/favicon.ico" width="30"> <a href="https://markbind.org/">MarkBind 4.0.1</a>, generated on Thu, 18 Aug 2022, 14:06:07 GMT+8]</small></div></footer></div>
 </body><script src="../../../../markbind/js/bootstrap-utility.min.js"></script>
 <script>
   MarkBind.setupWithSearch()
@@ -92,7 +92,7 @@
     
       gtag('config', 'UA-122519234-1');
     </script>
-    <script src="https://cdn.jsdelivr.net/npm/@docsearch/js@3.0.0-alpha.42/dist/umd/index.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@docsearch/js@3.2.0/dist/umd/index.js"></script>
     <script>
     docsearch({
       container: "#algolia-search-input",
@@ -104,7 +104,7 @@
   </script>
     <script>
     const style = document.createElement('style');
-    style.innerHTML = ".DocSearch-Container { z-index: 1002; }";
+    style.innerHTML = ".DocSearch-Container { z-index: 1002; position: fixed; }";
     document.getElementsByTagName('head')[0].appendChild(style);
   </script>
   

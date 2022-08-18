@@ -17,6 +17,6 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"clone-copying-a-repo"}},[_c('s
 with(this){return _c('p',[_v("Suppose you want to clone the sample repo "),_c('a',{attrs:{"href":"https://github.com/se-edu/samplerepo-things"}},[_v("samplerepo-things")]),_v(" to your computer.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Tue, 16 Aug 2022, 1:18:29 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Thu, 18 Aug 2022, 14:06:07 GMT+8]")])])])}
 }];
   

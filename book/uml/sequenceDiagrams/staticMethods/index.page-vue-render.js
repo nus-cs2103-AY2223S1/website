@@ -17,6 +17,6 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"calls-to-static-methods"}},[_c
 with(this){return _c('p',[_v("Method calls to "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("static")]),_v(" (i.e., class-level) methods are received by the class itself, not an instance of that class. You can use "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("<<class>>")]),_v(" to show that a participant is the class itself.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.0")]),_v(", generated on Tue, 16 Aug 2022, 1:18:29 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Thu, 18 Aug 2022, 14:06:07 GMT+8]")])])])}
 }];
   
