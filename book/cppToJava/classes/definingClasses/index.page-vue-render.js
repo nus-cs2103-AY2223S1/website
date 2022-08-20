@@ -47,6 +47,6 @@ with(this){return _c('h5',{attrs:{"id":"instance-methods"}},[_c('span',{staticCl
 with(this){return _c('p',[_c('strong',[_v("You can add methods to a class which can then be used from the objects of that class.")]),_v(" These "),_c('em',[_v("instance")]),_v(" methods do not have the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("static")]),_v(" keyword in the method signature. Instance methods can access attributes of the class.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Fri, 19 Aug 2022, 23:12:21 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Sat, 20 Aug 2022, 12:57:10 GMT+8]")])])])}
 }];
   
