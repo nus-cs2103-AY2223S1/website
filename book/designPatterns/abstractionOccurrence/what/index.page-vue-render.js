@@ -29,6 +29,6 @@ with(this){return _c('p',[_c('strong',[_v("Solution")])])}
 with(this){return _c('p',[_v("The "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("<<Abstraction>>")]),_v(" class should hold all common information, and the unique information should be kept by the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("<<Occurrence>>")]),_v(" class. Note that ‘Abstraction’ and ‘Occurrence’ are not class names, but roles played by each class. Think of this diagram as a "),_c('em',[_v("meta-model")]),_v(" (i.e. a ‘model of a model’) of the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("BookTitle-BookCopy")]),_v(" class diagram given above.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Sat, 20 Aug 2022, 12:57:10 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Sun, 21 Aug 2022, 1:38:48 GMT+8]")])])])}
 }];
   
