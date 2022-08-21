@@ -23,7 +23,7 @@ with(this){return _c('span',{staticClass:"badge bg-danger  font-weight-normal"},
 with(this){return _c('mark',[_c('em',[_v("freehand-draw")])])}
 },function anonymous(
 ) {
-with(this){return _c('span',{staticClass:"badge rounded-pill bg-warning text-dark"},[_c('span',{staticClass:"fas fa-lightbulb",attrs:{"aria-hidden":"true"}})])}
+with(this){return _c('span',{staticClass:"badge rounded-pill bg-success text-white"},[_c('span',{staticClass:"fas fa-lightbulb",attrs:{"aria-hidden":"true"}})])}
 },function anonymous(
 ) {
 with(this){return _c('ol',{attrs:{"start":"2"}},[_c('li',[_c('span',{staticClass:"badge bg-info  font-weight-normal"},[_c('span',[_c('span',{staticClass:"far fa-clock",attrs:{"aria-hidden":"true"}}),_v(" during the tutorial")])]),_v(" "),_c('ul',[_c('li',[_v("Paste a screenshot/scan/photo of your answer in the online document.")]),_v(" "),_c('li',[_v("Discuss a sample answer, as guided by the tutor.")])])])])}
@@ -35,6 +35,6 @@ with(this){return _c('ol',[_c('li',[_c('span',{staticClass:"badge bg-danger  fon
 with(this){return _c('ol',{attrs:{"start":"2"}},[_c('li',[_c('span',{staticClass:"badge bg-info  font-weight-normal"},[_c('span',[_c('span',{staticClass:"far fa-clock",attrs:{"aria-hidden":"true"}}),_v(" during the tutorial")])]),_v(" Post your answer and discuss, similar to the previous question.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Sun, 21 Aug 2022, 1:38:48 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Sun, 21 Aug 2022, 13:50:08 GMT+8]")])])])}
 }];
   

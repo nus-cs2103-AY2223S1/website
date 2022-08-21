@@ -38,12 +38,12 @@ with(this){return _c('div',[_c('ul',[_c('li',[_v("We recommend that "),_c('mark'
 with(this){return _c('ul',[_c('li',[_v("Add at least one extension of your choice, selected from "),_c('a',{attrs:{"href":"/website/se-book-adapted/projectDuke/index.html#extensions-category-b"}},[_v("category B, C, or D")]),_v(" i.e., pick just one item from one category e.g., "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("B-DoWithinPeriodTasks")]),_v(" or "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("C-Sort")]),_v(" or "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("D-Places")])]),_v(" "),_c('li',[_v("Recommended to add the extension via a branch (branch name is up to you). Optional to add it via a PR.")]),_v(" "),_c('li',[_v("Add a "),_c('mark',[_v("tag named "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("BCD-Extension")])]),_v(" to the corresponding commit.")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('span',{staticClass:"badge rounded-pill bg-warning text-dark"},[_c('span',{staticClass:"fas fa-lightbulb",attrs:{"aria-hidden":"true"}})]),_v(" You may want to pick an extension that is potentially relevant to your tP so that the code can be reused in the tP later, if possible.")])}
+with(this){return _c('p',[_c('span',{staticClass:"badge rounded-pill bg-success text-white"},[_c('span',{staticClass:"fas fa-lightbulb",attrs:{"aria-hidden":"true"}})]),_v(" You may want to pick an extension that is potentially relevant to your tP so that the code can be reused in the tP later, if possible.")])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"float-start algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/ip-w4.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" iP: Week 4")])])]),_c('span',{staticClass:"float-end algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/ip-w6.html"}},[_c('span',[_v("iP: Week 6 "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Sun, 21 Aug 2022, 1:38:48 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Sun, 21 Aug 2022, 13:50:08 GMT+8]")])])])}
 }];
   

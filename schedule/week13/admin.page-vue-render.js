@@ -23,7 +23,7 @@ with(this){return _c('span',{staticClass:"badge bg-danger  font-weight-normal"},
 with(this){return _c('span',{staticClass:"badge bg-secondary  font-weight-normal"},[_c('span',[_c('span',{staticClass:"far fa-clock",attrs:{"aria-hidden":"true"}}),_v(" Thu, Nov 10th 2359")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("Submission will open on the day after the final submission (Tue, Nov 8th)."),_c('br'),_c('span',[_c('span',{staticClass:"badge rounded-pill bg-warning text-dark"},[_c('span',{staticClass:"fas fa-lightbulb",attrs:{"aria-hidden":"true"}})]),_v(" If you did not receive the submission link, you can get TEAMMATES to resend the link by going to "),_c('a',{attrs:{"href":"https://teammatesv4.appspot.com/web/front/help/session-links-recovery"}},[_v("TEAMMATES link recovery page")]),_v("\nand entering your NUSNET email address. Remember to check your spam folder as well.")])])])}
+with(this){return _c('ul',[_c('li',[_v("Submission will open on the day after the final submission (Tue, Nov 8th)."),_c('br'),_c('span',[_c('span',{staticClass:"badge rounded-pill bg-success text-white"},[_c('span',{staticClass:"fas fa-lightbulb",attrs:{"aria-hidden":"true"}})]),_v(" If you did not receive the submission link, you can get TEAMMATES to resend the link by going to "),_c('a',{attrs:{"href":"https://teammatesv4.appspot.com/web/front/help/session-links-recovery"}},[_v("TEAMMATES link recovery page")]),_v("\nand entering your NUSNET email address. Remember to check your spam folder as well.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('span',[_v("Submit the "),_c('em',[_v("PE-Readiness Quiz")])])}
@@ -35,6 +35,6 @@ with(this){return _c('span',{staticClass:"badge bg-secondary  font-weight-normal
 with(this){return _c('div',[_c('ul',[_c('li',[_v("Submit this quiz (on LumiNUS) to confirm that you know important details about the PE.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Sun, 21 Aug 2022, 1:38:48 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Sun, 21 Aug 2022, 13:50:08 GMT+8]")])])])}
 }];
   

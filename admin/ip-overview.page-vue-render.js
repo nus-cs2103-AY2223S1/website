@@ -14,7 +14,7 @@ with(this){return _c('h1',{attrs:{"id":"ip-individual-project-overview"}},[_c('s
 with(this){return _c('div',{attrs:{"tags":"m--cs2103 m--cs2113 m--tic4001"}},[_c('p',[_c('strong',[_v("The objectives of the individual project (iP)")]),_v(" is to learn/refresh the basics of,")]),_v(" "),_c('ul',[_c('li',[_v("Java")]),_v(" "),_c('li',[_v("OOP")]),_v(" "),_c('li',[_v("IDEs")]),_v(" "),_c('li',[_v("Git and GitHub")]),_v(" "),_c('li',[_v("Project automation tools")]),_v(" "),_c('li',[_v("Code quality")])])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("All skills you will learn in the iP will be useful in the team project (tP)")]),_v(". Some of the iP code can even be adapted for the tP."),_c('br'),_v(" "),_c('span',{staticClass:"badge rounded-pill bg-warning text-dark"},[_c('span',{staticClass:"fas fa-lightbulb",attrs:{"aria-hidden":"true"}})]),_v(" The more you do in the iP and farther you push beyond the minimal expectations, the easier it will be in your tP.")])}
+with(this){return _c('p',[_c('strong',[_v("All skills you will learn in the iP will be useful in the team project (tP)")]),_v(". Some of the iP code can even be adapted for the tP."),_c('br'),_v(" "),_c('span',{staticClass:"badge rounded-pill bg-success text-white"},[_c('span',{staticClass:"fas fa-lightbulb",attrs:{"aria-hidden":"true"}})]),_v(" The more you do in the iP and farther you push beyond the minimal expectations, the easier it will be in your tP.")])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("The iP is based on the generic project called "),_c('a',{attrs:{"href":"/website/se-book-adapted/projectDuke/index.html"}},[_c('em',[_v("Project Duke")])])]),_v(", the overview of which is given below.")])}
@@ -26,6 +26,6 @@ with(this){return _c('p',[_c('strong',[_v("The iP is to be done over the first h
 with(this){return _c('p',[_c('span',{staticClass:"float-start algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/standardsAndConventions.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" Standards/Conventions")])])]),_c('span',{staticClass:"float-end algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/ip-w2.html"}},[_c('span',[_v("iP: Week 2 "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Sun, 21 Aug 2022, 1:38:48 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Sun, 21 Aug 2022, 13:50:08 GMT+8]")])])])}
 }];
   

@@ -23,7 +23,7 @@ with(this){return _c('div',[_c('ul',[_c('li',[_v("Remember to do any leftover in
 with(this){return _c('ul',[_c('li',[_v("Create the PR from the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("master")]),_v(" branch of your fork to the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("master")]),_v(" branch of the upstream repo ("),_c('a',{attrs:{"href":"https://github.com/nus-cs2103-AY2223S1/ip"}},[_v("https://github.com/nus-cs2103-AY2223S1/ip")]),_v(")")]),_v(" "),_c('li',[_v("Set the PR name as "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("[{Your name}] iP")]),_v(" e.g., "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("[John Doe] iP")]),_v(" "),_c('span',{staticClass:"dimmed"},[_v("If you are reluctant to give full name, you may give the first half of your name only")]),_v("."),_c('br'),_v("\nYou may leave the description as empty.")]),_v(" "),_c('li',[_v("If you created the PR correctly, it should appear in the list of PRs "),_c('a',{attrs:{"href":"https://github.com/nus-cs2103-AY2223S1/ip/pulls"}},[_v("here")]),_v(".")]),_v(" "),_c('li',[_v("Steps for creating a PR is given in this textbook topic ("),_c('mark',[_v("steps 5 onwards")]),_v("):")])])}
 },function anonymous(
 ) {
-with(this){return _c('span',{staticClass:"badge rounded-pill bg-warning text-dark"},[_c('span',{staticClass:"fas fa-lightbulb",attrs:{"aria-hidden":"true"}})])}
+with(this){return _c('span',{staticClass:"badge rounded-pill bg-success text-white"},[_c('span',{staticClass:"fas fa-lightbulb",attrs:{"aria-hidden":"true"}})])}
 },function anonymous(
 ) {
 with(this){return _c('li',[_v("As in the previous week, commit, tag, and push, as you do the following increments in the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("master")]),_v(" branch (no need to use separate branches).")])}
@@ -38,6 +38,6 @@ with(this){return _c('li',[_v("After finishing, assuming you encountered merge c
 with(this){return _c('p',[_c('span',{staticClass:"float-start algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/ip-w2.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" iP: Week 2")])])]),_c('span',{staticClass:"float-end algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/ip-w4.html"}},[_c('span',[_v("iP: Week 4 "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Sun, 21 Aug 2022, 1:38:48 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Sun, 21 Aug 2022, 13:50:08 GMT+8]")])])])}
 }];
   
