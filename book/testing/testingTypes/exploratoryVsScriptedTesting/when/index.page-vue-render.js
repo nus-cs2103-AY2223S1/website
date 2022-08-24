@@ -23,6 +23,6 @@ with(this){return _c('p',[_c('strong',[_v("The success of exploratory testing de
 with(this){return _c('p',[_c('strong',[_v("Scripted testing is more systematic, and hence, likely to discover more bugs given sufficient time")]),_v(", while exploratory testing would aid in quick error discovery, especially if the tester has a lot of experience in testing similar systems.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Sun, 21 Aug 2022, 22:01:33 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Wed, 24 Aug 2022, 15:22:42 GMT+8]")])])])}
 }];
   

@@ -1,0 +1,27 @@
+2022-08-24T07:12:48.601Z - info: Website generation (lazy) started at 3:12:42 pm
+2022-08-24T07:13:03.010Z - info: Building assets...
+2022-08-24T07:13:11.782Z - info: Assets built
+2022-08-24T07:13:11.783Z - info: Generating landing page...
+2022-08-24T07:13:13.164Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-08-24T07:13:14.628Z - info: Site data built
+2022-08-24T07:13:14.628Z - info: Website generation (lazy) complete! Total build time: 31.898s
+2022-08-24T07:13:15.693Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-08-24T07:13:15.693Z - info: Press CTRL+C to stop ...
+2022-08-24T07:13:53.551Z - info: [3:13:53 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\timetables-fragment.md
+2022-08-24T07:13:53.553Z - info: Synchronizing opened pages list before reload
+2022-08-24T07:13:53.553Z - info: Current opened pages, from most-to-least recent:
+2022-08-24T07:13:53.554Z - info: 1. index
+2022-08-24T07:13:54.564Z - info: Assets built
+2022-08-24T07:13:57.933Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tutorials as some of its dependencies were changed since the last visit
+2022-08-24T07:13:58.643Z - info: Site data built
+2022-08-24T07:13:58.643Z - info: Lazy website regeneration complete! Total build time: 0.71s
+2022-08-24T07:21:46.310Z - info: [3:21:46 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\timetables-fragment.md
+2022-08-24T07:21:46.311Z - info: Synchronizing opened pages list before reload
+2022-08-24T07:21:46.311Z - info: Current opened pages, from most-to-least recent:
+2022-08-24T07:21:46.311Z - info: 1. admin/tutorials
+2022-08-24T07:21:47.320Z - info: Rebuilding 1 pages
+2022-08-24T07:21:47.689Z - info: Site data built
+2022-08-24T07:21:47.689Z - info: Pages rebuilt
+2022-08-24T07:21:47.690Z - info: Website regeneration complete! Total build time: 0.371s
+2022-08-24T07:22:22.270Z - info: Website generation started at 3:22:19 pm
+2022-08-24T07:22:34.743Z - info: Building assets...

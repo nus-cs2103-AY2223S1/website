@@ -428,3 +428,25 @@
 2022-08-21T05:55:27.358Z - info: The website has been deployed at: https://nus-cs2103-ay2223s1.github.io/website
 2022-08-21T14:00:56.874Z - info: Website generation started at 10:00:48 pm
 2022-08-21T14:01:16.721Z - info: Building assets...
+2022-08-21T14:01:33.399Z - info: Assets built
+2022-08-21T14:01:33.401Z - info: Generating pages...
+2022-08-21T14:01:55.957Z - debug:  
+2022-08-21T14:01:55.971Z - debug:  
+2022-08-21T14:02:01.818Z - debug:  
+2022-08-21T14:02:01.940Z - debug:  
+2022-08-21T14:02:01.941Z - debug:  
+2022-08-21T14:02:01.942Z - debug:  
+2022-08-21T14:02:01.942Z - debug:  
+2022-08-21T14:02:01.942Z - debug:  
+2022-08-21T14:02:01.943Z - debug:  
+2022-08-21T14:02:01.943Z - debug:  
+2022-08-21T14:02:01.944Z - debug:  
+2022-08-21T14:02:01.944Z - debug:  
+2022-08-21T14:07:16.709Z - debug:  
+2022-08-21T14:07:44.734Z - debug:  
+2022-08-21T14:07:44.734Z - debug:  
+2022-08-21T14:07:53.299Z - info: Pages built
+2022-08-21T14:07:55.293Z - info: Site data built
+2022-08-21T14:07:55.293Z - info: Website generation complete! Total build time: 426.615s
+2022-08-21T14:07:55.293Z - info: Build success!
+2022-08-21T14:11:38.362Z - info: The website has been deployed at: https://nus-cs2103-ay2223s1.github.io/website
