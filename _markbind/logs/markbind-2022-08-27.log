@@ -1,0 +1,36 @@
+2022-08-27T06:22:42.369Z - info: Website generation (lazy) started at 2:22:37 pm
+2022-08-27T06:22:53.797Z - info: Building assets...
+2022-08-27T06:23:02.051Z - info: Assets built
+2022-08-27T06:23:02.052Z - info: Generating landing page...
+2022-08-27T06:23:03.542Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-08-27T06:23:05.036Z - info: Site data built
+2022-08-27T06:23:05.036Z - info: Website generation (lazy) complete! Total build time: 27.419s
+2022-08-27T06:23:06.022Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-08-27T06:23:06.022Z - info: Press CTRL+C to stop ...
+2022-08-27T07:14:06.785Z - info: [3:14:06 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\studentData-fragment.md
+2022-08-27T07:14:06.789Z - info: Synchronizing opened pages list before reload
+2022-08-27T07:14:06.793Z - info: Current opened pages, from most-to-least recent:
+2022-08-27T07:14:06.794Z - info: 1. index
+2022-08-27T07:14:07.821Z - info: Rebuilding 1 pages
+2022-08-27T07:14:08.998Z - info: Site data built
+2022-08-27T07:14:08.998Z - info: Pages rebuilt
+2022-08-27T07:14:08.998Z - info: Website regeneration complete! Total build time: 1.18s
+2022-08-27T07:14:30.214Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\ip-showcase as some of its dependencies were changed since the last visit
+2022-08-27T07:14:32.273Z - info: Site data built
+2022-08-27T07:14:32.274Z - info: Lazy website regeneration complete! Total build time: 2.059s
+2022-08-27T07:24:33.043Z - info: [3:24:33 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\studentData-fragment.md
+2022-08-27T07:24:33.043Z - info: Synchronizing opened pages list before reload
+2022-08-27T07:24:33.044Z - info: Current opened pages, from most-to-least recent:
+2022-08-27T07:24:33.044Z - info: 1. admin/ip-showcase
+2022-08-27T07:24:34.058Z - info: Rebuilding 1 pages
+2022-08-27T07:24:35.599Z - info: Site data built
+2022-08-27T07:24:35.599Z - info: Pages rebuilt
+2022-08-27T07:24:35.599Z - info: Website regeneration complete! Total build time: 1.542s
+2022-08-27T07:24:39.589Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\index as some of its dependencies were changed since the last visit
+2022-08-27T07:24:40.857Z - info: Site data built
+2022-08-27T07:24:40.858Z - info: Lazy website regeneration complete! Total build time: 1.27s
+2022-08-27T07:24:44.611Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\project as some of its dependencies were changed since the last visit
+2022-08-27T07:24:47.449Z - info: Site data built
+2022-08-27T07:24:47.449Z - info: Lazy website regeneration complete! Total build time: 2.838s
+2022-08-27T07:44:10.973Z - info: Website generation started at 3:44:09 pm
+2022-08-27T07:44:22.617Z - info: Building assets...
