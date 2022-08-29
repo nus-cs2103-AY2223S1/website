@@ -11,9 +11,9 @@ with(this){return _c('nav',[_c('ul',{staticClass:"pagination mt-2"},[_c('li',{st
 with(this){return _c('h1',{attrs:{"id":"week-1-mon-aug-8th-tutorial"}},[_c('span',{staticClass:"anchor",attrs:{"id":"week-1-mon-aug-8th-tutorial"}}),_v("Week 1 "),_c('small',[_c('small',[_c('span',{staticClass:"dimmed"},[_v("[Mon, Aug 8th]")]),_v(" - Tutorial")])]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-1-mon-aug-8th-tutorial","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('p',[_c('span',[_c('span',{staticClass:"fas fa-info-circle",attrs:{"aria-hidden":"true"}})]),_v(" We use "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("tutorial N")]),_v(" to mean "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("the tutorial in week N")]),_v("."),_c('br')]),_v(" "),_c('p',[_c('strong',[_v("There is no tutorial in week 1.")])])])}
+with(this){return _c('div',[_c('p',[_c('span',[_c('span',{staticClass:"fas fa-info-circle",attrs:{"aria-hidden":"true"}})]),_v(" We use "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("tutorial N")]),_v(" to mean "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("the tutorial in week N")]),_v("."),_c('br')]),_v(" "),_c('p',[_c('strong',[_v("There is no tutorial in week 1.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Sat, 27 Aug 2022, 15:44:31 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Mon, 29 Aug 2022, 15:30:49 GMT+8]")])])])}
 }];
   

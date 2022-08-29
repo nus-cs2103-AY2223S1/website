@@ -14,12 +14,12 @@ with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('spa
 with(this){return _c('div',[_c('h4',{attrs:{"id":"heuristic-no-more-than-one-invalid-input-in-a-test-case"}},[_c('span',{staticClass:"anchor",attrs:{"id":"heuristic-no-more-than-one-invalid-input-in-a-test-case"}}),_c('span',[_v("Heuristic: No more than one invalid input in a test case")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#heuristic-no-more-than-one-invalid-input-in-a-test-case","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("Answer: No.")]),_v(" "),_c('li',[_v("Reason: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("-1")]),_v(" -- the only input that is a negative price -– is in a test case that produces the error message “invalid fruit”.")])])}
+with(this){return _c('ul',[_c('li',[_v("Answer: No.")]),_v(" "),_c('li',[_v("Reason: "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("-1")]),_v(" -- the only input that is a negative price -– is in a test case that produces the error message “invalid fruit”.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("In this case, a useful heuristic to apply is "),_c('strong',[_v("no more than one invalid input in a test case")]),_v(". After applying that, you get the following test cases.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Sat, 27 Aug 2022, 15:44:31 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Mon, 29 Aug 2022, 15:30:49 GMT+8]")])])])}
 }];
   

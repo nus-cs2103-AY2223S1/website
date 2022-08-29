@@ -29,8 +29,8 @@ Pay attention to the error message you encounter. Sometimes it also contains hin
 <p><strong>Give full details of the problem</strong> Conversations via online forums take time. If you post everything that is relevant to your problem, your chances of getting an answer in the first try is higher. If others have to ask you more questions before they can help you, it will take longer. But this doesn't mean you dump too much information into the thread either.</p>
 <ul>
 <li>Give a meaningful title to the post. Be as specific as you can.<br>
-<span style="color: red"><span><strong><span aria-hidden="true" class="fas fa-thumbs-down"></span> Bad</strong></span></span> <code class="hljs inline no-lang" v-pre>testing problem</code><br>
-<span style="color: green"><span><strong><span aria-hidden="true" class="fas fa-thumbs-up"></span> Good</strong></span></span> <code class="hljs inline no-lang" v-pre>runtest.bat fails with ClassNotFound error</code></li>
+<span style="color: red"><span><strong><span aria-hidden="true" class="fas fa-thumbs-down"></span> Bad</strong></span></span> <code class="line-numbers hljs inline no-lang" v-pre>testing problem</code><br>
+<span style="color: green"><span><strong><span aria-hidden="true" class="fas fa-thumbs-up"></span> Good</strong></span></span> <code class="line-numbers hljs inline no-lang" v-pre>runtest.bat fails with ClassNotFound error</code></li>
 <li>Include full error message, screenshots, screen recordings, code snippets, stack traces, etc.<br>
 <span class="badge rounded-pill bg-success text-white"><span aria-hidden="true" class="fas fa-lightbulb"></span></span> Use <a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">GFMD (GitHub-Flavored Markdown)</a> syntax writing a post in the GitHub issue tracker (which we use for the forum) to format the text appropriately.</li>
 <li>If the problem is code-related, share the full code if possible (e.g., push the current state of the code to a branch in your fork and give the link to the branch). That gives a chance for someone to reproduce the state of your project in their computer. Sharing just a snippet of your choosing might not be enough as the problem may not be where you think it is.</li></ul></li>
@@ -46,13 +46,45 @@ Remember to use <a href="https://docs.github.com/en/github/writing-on-github/wor
 </span><span>    logger.info(&quot;Starting AddressBook &quot; + MainApp.VERSION);
 </span><span>    ui.start(primaryStage);
 </span><span>}
-</span></code></pre></li>
+</span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn">
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 "/>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre></li>
 <li><strong class="text-success">better</strong> (it has syntax highlighting too!)<pre><code class="no-line-numbers hljs java" v-pre><span><span class="hljs-meta">@Override</span>
 </span><span><span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title">start</span><span class="hljs-params">(Stage primaryStage)</span> </span>{
 </span><span>    logger.info(<span class="hljs-string">&quot;Starting AddressBook &quot;</span> + MainApp.VERSION);
 </span><span>    ui.start(primaryStage);
 </span><span>}
-</span></code></pre></li></ul></li>
+</span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn">
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 "/>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre></li></ul></li>
 <li>
 <p><strong>Avoid directing the question to one person</strong> (e.g., the prof), unless really necessary. Doing so will discourage others from answering that question.</p></li>
 <li>
@@ -64,7 +96,7 @@ Remember to use <a href="https://docs.github.com/en/github/writing-on-github/wor
 <li>
 <p><strong>Remember to thank those you try to help, and close the issue</strong> after the issue has been resolved.</p></li>
 <li>
-<p><strong>Share the solution</strong>. If you eventually managed to solve the problem on your own, share the solution in the thread for the benefit of others, and give closure to those who tried to help you. Don't leave the thread hanging or close it with something like <code class="hljs inline no-lang" v-pre>Never mind. I figured it out</code>.</p></li>
+<p><strong>Share the solution</strong>. If you eventually managed to solve the problem on your own, share the solution in the thread for the benefit of others, and give closure to those who tried to help you. Don't leave the thread hanging or close it with something like <code class="line-numbers hljs inline no-lang" v-pre>Never mind. I figured it out</code>.</p></li>
 <li>
 <p><strong>Don't <em>hijack</em> other threads</strong>: It is OK to chime in if you have the same problem as the <tooltip><template #content>Original Poster</template>OP</tooltip> but don't ask a different (even if somewhat related) question in someone else's thread. That prevents the OP from closing the thread after the original question has been resolved. Instead, post your question as a separate thread.</p></li></ul></li></ul>
 <modal large id="modal:appendixHelp-rubberDuckDebugging" class="algolia-no-index"><template #header>Rubber Duck Debugging</template>
@@ -90,7 +122,7 @@ What kind of questions are suitable to discuss with the tutor? Consider these tw
 <box type="warning" seamless>
 <p><span class="badge rounded-pill bg-success text-white"><span aria-hidden="true" class="fas fa-lightbulb"></span></span> <strong>Some technical problems can take a long time to resolve.</strong> Therefore, plan ahead and schedule your work much earlier than the deadline.</p>
 <p><span class="badge rounded-pill bg-success text-white"><span aria-hidden="true" class="fas fa-lightbulb"></span></span> <strong>Some problems might not get resolved at all</strong>; while waiting for a solution, explore alternatives and workarounds.</p>
-<p><span class="badge rounded-pill bg-success text-white"><span aria-hidden="true" class="fas fa-lightbulb"></span></span> <strong><mark>If your problem remains unsolved 24 hours after posting in the forum</mark></strong>, please alert <code class="hljs inline no-lang" v-pre>cs2103@comp.nus.edu.sg</code> so that the teaching team can look into it.</p></box>
+<p><span class="badge rounded-pill bg-success text-white"><span aria-hidden="true" class="fas fa-lightbulb"></span></span> <strong><mark>If your problem remains unsolved 24 hours after posting in the forum</mark></strong>, please alert <code class="line-numbers hljs inline no-lang" v-pre>cs2103@comp.nus.edu.sg</code> so that the teaching team can look into it.</p></box>
 <box>
 <p><span><span aria-hidden="true" class="fas fa-paperclip"></span></span> Resources</p>
 <ul>

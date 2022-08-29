@@ -11,12 +11,12 @@ with(this){return _c('p',[_c('span',{staticClass:"badge bg-light text-dark"},[_c
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Tools → Git and GitHub →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"stash-shelving-changes-temporarily"}},[_c('span',{staticClass:"anchor",attrs:{"id":"stash-shelving-changes-temporarily"}}),_c('span',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("stash")]),_v(": Shelving changes temporarily")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#stash-shelving-changes-temporarily","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"stash-shelving-changes-temporarily"}},[_c('span',{staticClass:"anchor",attrs:{"id":"stash-shelving-changes-temporarily"}}),_c('span',[_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("stash")]),_v(": Shelving changes temporarily")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#stash-shelving-changes-temporarily","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("You can use Git's "),_c('mark',[_c('em',[_v("stash")])]),_v(" feature to temporarily shelve (or stash) changes you've made to your working copy")]),_v(" so that you can work on something else, and then come back and re-apply the stashed changes later on. "),_c('sub',[_v("-- adapted from "),_c('a',{attrs:{"href":"https://www.atlassian.com/git/tutorials/git-stash"}},[_v("Atlassian")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Sat, 27 Aug 2022, 15:44:31 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Mon, 29 Aug 2022, 15:30:49 GMT+8]")])])])}
 }];
   

@@ -14,10 +14,10 @@ with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('spa
 with(this){return _c('div',[_c('h4',{attrs:{"id":"using-history"}},[_c('span',{staticClass:"anchor",attrs:{"id":"using-history"}}),_c('span',[_v("Using history")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#using-history","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("Each commit in a repo is a recorded point in the history of the project that is uniquely identified by an auto-generated "),_c('mark',[_v("hash")])]),_v(" e.g. "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("a16043703f28e5b3dab95915f5c5e5bf4fdc5fc1")]),_v(".")])}
+with(this){return _c('p',[_c('strong',[_v("Each commit in a repo is a recorded point in the history of the project that is uniquely identified by an auto-generated "),_c('mark',[_v("hash")])]),_v(" e.g. "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("a16043703f28e5b3dab95915f5c5e5bf4fdc5fc1")]),_v(".")])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("You can "),_c('mark',[_v("tag")]),_v(" a specific commit with a more easily identifiable name")]),_v(" e.g. "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("v1.0.2")]),_v(".")])}
+with(this){return _c('p',[_c('strong',[_v("You can "),_c('mark',[_v("tag")]),_v(" a specific commit with a more easily identifiable name")]),_v(" e.g. "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("v1.0.2")]),_v(".")])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("To see what changed between two points of the history, you can ask the RCS tool to  "),_c('mark',[_c('em',[_v("diff")])]),_v(" the two commits in concern.")])])}
@@ -26,6 +26,6 @@ with(this){return _c('p',[_c('strong',[_v("To see what changed between two point
 with(this){return _c('p',[_c('strong',[_v("To restore the state of the working directory at a point in the past, you can "),_c('mark',[_c('em',[_v("checkout")])]),_v(" the commit in concern.")]),_v(" i.e., you can traverse the history of the working directory simply by checking out the commits you are interested in.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Sat, 27 Aug 2022, 15:44:31 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Mon, 29 Aug 2022, 15:30:49 GMT+8]")])])])}
 }];
   

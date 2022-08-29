@@ -17,12 +17,12 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"state-machine-diagrams"}},[_c(
 with(this){return _c('p',[_c('strong',[_v("A "),_c('em',[_v("State Machine Diagram")]),_v(" models state-dependent behavior.")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("Often, state-dependent behavior displayed by an object in a system is simple enough that it needs no extra attention; such a behavior can be as simple as a "),_c('em',[_v("conditional")]),_v(" behavior like "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("if x > y, then x = x - y")]),_v(".")])}
+with(this){return _c('p',[_v("Often, state-dependent behavior displayed by an object in a system is simple enough that it needs no extra attention; such a behavior can be as simple as a "),_c('em',[_v("conditional")]),_v(" behavior like "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("if x > y, then x = x - y")]),_v(".")])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("Occasionally, objects may exhibit state-dependent behavior that is complex enough such that it needs to be captured in a separate model. Such state-dependent behavior can be modeled using UML "),_c('em',[_v("state machine diagrams")]),_v(" (SMD for short, sometimes also called ‘state charts’, ‘state diagrams’ or ‘state machines’).")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Sat, 27 Aug 2022, 15:44:31 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Mon, 29 Aug 2022, 15:30:49 GMT+8]")])])])}
 }];
   

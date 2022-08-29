@@ -38,36 +38,68 @@
 <img src="/website/book/modeling/modelingStructures/classDiagramsIntermediate/images/mismatch.png" height="290">
 <p></p>
 <ul class="contains-task-list">
-<li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> a. A <code class="hljs inline no-lang" v-pre>Snake</code> must belong to at least one <code class="hljs inline no-lang" v-pre>Board</code>.</li>
-<li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> b. A <code class="hljs inline no-lang" v-pre>SnakeHeadSquare</code> can contain only one <code class="hljs inline no-lang" v-pre>Snake</code> head.</li>
-<li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> c. A <code class="hljs inline no-lang" v-pre>Snake</code> head can be in a <code class="hljs inline no-lang" v-pre>Square</code></li>
-<li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> d. A <code class="hljs inline no-lang" v-pre>Snake</code> head can be in more than one <code class="hljs inline no-lang" v-pre>SnakeHeadSquare</code>.</li>
-<li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> e. The <code class="hljs inline no-lang" v-pre>Board</code> has exactly 5 <code class="hljs inline no-lang" v-pre>Snake</code>s.</li></ul>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> a. A <code class="line-numbers hljs inline no-lang" v-pre>Snake</code> must belong to at least one <code class="line-numbers hljs inline no-lang" v-pre>Board</code>.</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> b. A <code class="line-numbers hljs inline no-lang" v-pre>SnakeHeadSquare</code> can contain only one <code class="line-numbers hljs inline no-lang" v-pre>Snake</code> head.</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> c. A <code class="line-numbers hljs inline no-lang" v-pre>Snake</code> head can be in a <code class="line-numbers hljs inline no-lang" v-pre>Square</code></li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> d. A <code class="line-numbers hljs inline no-lang" v-pre>Snake</code> head can be in more than one <code class="line-numbers hljs inline no-lang" v-pre>SnakeHeadSquare</code>.</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> e. The <code class="line-numbers hljs inline no-lang" v-pre>Board</code> has exactly 5 <code class="line-numbers hljs inline no-lang" v-pre>Snake</code>s.</li></ul>
 <template #answer><div class="algolia-no-index">
 <p><s>(a)</s>(b)(c)(d)(e)</p>
 <p>Explanation:</p>
-<p>(a) does not match because a <code class="hljs inline no-lang" v-pre>Snake</code> may or may not belong to a <code class="hljs inline no-lang" v-pre>Board</code> (multiplicity is <code class="hljs inline no-lang" v-pre>0..1</code>)<br>
-(b) matches the diagram because the multiplicity given is <code class="hljs inline no-lang" v-pre>1</code><br>
-(c) matches the diagram because <code class="hljs inline no-lang" v-pre>SnakeHeadSquare</code> is a <code class="hljs inline no-lang" v-pre>Square</code> (due to inheritance)<br>
-(d) matches the diagram because the multiplicity given is <code class="hljs inline no-lang" v-pre>*</code><br>
-(e) matches the diagram because the multiplicity given is <code class="hljs inline no-lang" v-pre>5</code><br></p></div></template></question></panel></div>
+<p>(a) does not match because a <code class="line-numbers hljs inline no-lang" v-pre>Snake</code> may or may not belong to a <code class="line-numbers hljs inline no-lang" v-pre>Board</code> (multiplicity is <code class="line-numbers hljs inline no-lang" v-pre>0..1</code>)<br>
+(b) matches the diagram because the multiplicity given is <code class="line-numbers hljs inline no-lang" v-pre>1</code><br>
+(c) matches the diagram because <code class="line-numbers hljs inline no-lang" v-pre>SnakeHeadSquare</code> is a <code class="line-numbers hljs inline no-lang" v-pre>Square</code> (due to inheritance)<br>
+(d) matches the diagram because the multiplicity given is <code class="line-numbers hljs inline no-lang" v-pre>*</code><br>
+(e) matches the diagram because the multiplicity given is <code class="line-numbers hljs inline no-lang" v-pre>5</code><br></p></div></template></question></panel></div>
 <div><panel class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span> Explain notations in the class diagram</p></template>
 <question>
 <p>Explain the meaning of various class diagram notations in the following class diagram:</p>
 <pic src="/website/book/uml/classDiagrams/introduction/what/images/classDiagramExample1.png" width="750"></pic></question></panel></div>
-<div><panel class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span> Draw a Class Diagram for the code (<code class="hljs inline no-lang" v-pre>StockItem</code>, <code class="hljs inline no-lang" v-pre>Inventory</code>, <code class="hljs inline no-lang" v-pre>Review</code>, etc.)</p></template>
+<div><panel class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span> Draw a Class Diagram for the code (<code class="line-numbers hljs inline no-lang" v-pre>StockItem</code>, <code class="line-numbers hljs inline no-lang" v-pre>Inventory</code>, <code class="line-numbers hljs inline no-lang" v-pre>Review</code>, etc.)</p></template>
 <question>
 <p>Consider the code below:</p>
 <div class="row">
   <div class="col-sm-6">
-<pre><code class="hljs java" v-pre><span><span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">interface</span> <span class="hljs-title">Billable</span> </span>{
+<pre><code class="line-numbers hljs java" v-pre><span><span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">interface</span> <span class="hljs-title">Billable</span> </span>{
 </span><span>    <span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">bill</span><span class="hljs-params">()</span></span>;
 </span><span>}
-</span></code></pre><pre><code class="hljs java" v-pre><span><span class="hljs-keyword">public</span> <span class="hljs-keyword">abstract</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Item</span></span>
+</span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn">
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 "/>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre><pre><code class="line-numbers hljs java" v-pre><span><span class="hljs-keyword">public</span> <span class="hljs-keyword">abstract</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Item</span></span>
 </span><span><span class="hljs-class">         <span class="hljs-keyword">implements</span> <span class="hljs-title">Billable</span> </span>{
 </span><span>    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">abstract</span> <span class="hljs-keyword">void</span> <span class="hljs-title">print</span><span class="hljs-params">()</span></span>;
 </span><span>}
-</span></code></pre><pre><code class="hljs java" v-pre><span><span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">StockItem</span> <span class="hljs-keyword">extends</span> <span class="hljs-title">Item</span> </span>{
+</span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn">
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 "/>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre><pre><code class="line-numbers hljs java" v-pre><span><span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">StockItem</span> <span class="hljs-keyword">extends</span> <span class="hljs-title">Item</span> </span>{
 </span><span>    <span class="hljs-keyword">private</span> Review review;
 </span><span>    <span class="hljs-keyword">private</span> String name;
 </span><span>
@@ -88,19 +120,67 @@
 </span><span>        <span class="hljs-comment">//...</span>
 </span><span>    }
 </span><span>}
-</span></code></pre></div>
+</span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn">
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 "/>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre></div>
   <div class="col-sm-6">
-<pre><code class="hljs java" v-pre><span><span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">enum</span> <span class="hljs-title">Rating</span> </span>{
+<pre><code class="line-numbers hljs java" v-pre><span><span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">enum</span> <span class="hljs-title">Rating</span> </span>{
 </span><span>    GOOD, OK, POOR
 </span><span>}
-</span></code></pre><pre><code class="hljs java" v-pre><span><span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Review</span> </span>{
+</span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn">
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 "/>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre><pre><code class="line-numbers hljs java" v-pre><span><span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Review</span> </span>{
 </span><span>    <span class="hljs-keyword">private</span> <span class="hljs-keyword">final</span> Rating rating;
 </span><span>
 </span><span>    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-title">Review</span><span class="hljs-params">(Rating rating)</span> </span>{
 </span><span>        <span class="hljs-keyword">this</span>.rating = rating;
 </span><span>    }
 </span><span>}
-</span></code></pre><pre><code class="hljs java" v-pre><span><span class="hljs-keyword">import</span> java.util.List;
+</span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn">
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 "/>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre><pre><code class="line-numbers hljs java" v-pre><span><span class="hljs-keyword">import</span> java.util.List;
 </span><span>
 </span><span><span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Inventory</span> </span>{
 </span><span>    <span class="hljs-keyword">private</span> List&lt;Item&gt; items;
@@ -117,7 +197,23 @@
 </span><span>        items.add(s);
 </span><span>    }
 </span><span>}
-</span></code></pre></div></div>
+</span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn">
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 "/>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre></div></div>
 <p>(a) Draw a class diagram to represent the code. Show all attributes, methods, associations, navigabilities, visibilities, known multiplicities, and association roles. Show associations as lines.<br>
-(b) Draw an object diagram to represent the situation where the inventory has one item named <code class="hljs inline no-lang" v-pre>spanner</code> and a review of <code class="hljs inline no-lang" v-pre>POOR</code> rating<br>
-i.e., <code class="hljs inline java" v-pre><span class="hljs-keyword">new</span> Inventory().add(<span class="hljs-keyword">new</span> StockItem(<span class="hljs-string">&quot;spanner&quot;</span>, Rating.POOR))</code>.</p></question></panel></div></div></panel></div></div></div></div>
+(b) Draw an object diagram to represent the situation where the inventory has one item named <code class="line-numbers hljs inline no-lang" v-pre>spanner</code> and a review of <code class="line-numbers hljs inline no-lang" v-pre>POOR</code> rating<br>
+i.e., <code class="line-numbers hljs inline java" v-pre><span class="hljs-keyword">new</span> Inventory().add(<span class="hljs-keyword">new</span> StockItem(<span class="hljs-string">&quot;spanner&quot;</span>, Rating.POOR))</code>.</p></question></panel></div></div></panel></div></div></div></div>

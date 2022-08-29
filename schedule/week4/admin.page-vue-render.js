@@ -11,12 +11,12 @@ with(this){return _c('nav',[_c('ul',{staticClass:"pagination mt-2"},[_c('li',{st
 with(this){return _c('h1',{attrs:{"id":"week-4-fri-aug-26th-admin"}},[_c('span',{staticClass:"anchor",attrs:{"id":"week-4-fri-aug-26th-admin"}}),_v("Week 4 "),_c('small',[_c('small',[_c('span',{staticClass:"dimmed"},[_v("[Fri, Aug 26th]")]),_v(" - Admin")])]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-4-fri-aug-26th-admin","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('ul',[_c('li',[_v("We will be adding you all to cs2103-AY2223S1 github org. "),_c('strong',[_v("Please accept the invitation sent by GitHub")]),_v(" as you need to be a member of the org for some of the future module activities. If you did not receive the invitation link, you can use the link "),_c('a',{attrs:{"href":"https://github.com/orgs/nus-cs2103-AY2223S1/invitation"}},[_v("https://github.com/orgs/nus-cs2103-AY2223S1/invitation")]),_v(".")]),_v(" "),_c('li',[_v("Worth "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("2")]),_v(" participation points")])])])}
+with(this){return _c('div',[_c('ul',[_c('li',[_v("We will be adding you all to cs2103-AY2223S1 github org. "),_c('strong',[_v("Please accept the invitation sent by GitHub")]),_v(" as you need to be a member of the org for some of the future module activities. If you did not receive the invitation link, you can use the link "),_c('a',{attrs:{"href":"https://github.com/orgs/nus-cs2103-AY2223S1/invitation"}},[_v("https://github.com/orgs/nus-cs2103-AY2223S1/invitation")]),_v(".")]),_v(" "),_c('li',[_v("Worth "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("2")]),_v(" participation points")])])])}
 },function anonymous(
 ) {
 with(this){return _c('div',[_c('ul',[_c('li',[_c('strong',[_v("Post-lecture quiz")]),_v(": Read weekly topics allocated for this week and submit the post-lecture quiz before the quiz deadline "),_c('span',{staticClass:"dimmed"},[_v("(i.e., before the following lecture)")]),_v(".")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Sat, 27 Aug 2022, 15:44:31 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Mon, 29 Aug 2022, 15:30:49 GMT+8]")])])])}
 }];
   

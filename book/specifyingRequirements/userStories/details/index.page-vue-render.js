@@ -14,13 +14,13 @@ with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('spa
 with(this){return _c('div',[_c('h4',{attrs:{"id":"details"}},[_c('span',{staticClass:"anchor",attrs:{"id":"details"}}),_c('span',[_v("Details")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#details","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("The "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("{benefit}")]),_v(" can be omitted")]),_v(" if it is obvious.")])}
+with(this){return _c('p',[_c('strong',[_v("The "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("{benefit}")]),_v(" can be omitted")]),_v(" if it is obvious.")])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge rounded-pill bg-warning text-dark"},[_c('span',{staticClass:"fas fa-lightbulb",attrs:{"aria-hidden":"true"}})]),_v(" It is recommended to confirm there is a concrete benefit even if you omit it from the user story. If not, you could end up adding features that have no real benefit.")])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("You can add more characteristics to the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("{user role}")]),_v(" to provide more context to the user story.")])}
+with(this){return _c('p',[_v("You can add more characteristics to the "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("{user role}")]),_v(" to provide more context to the user story.")])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("You can write user stories at various levels")]),_v(". High-level user stories, called "),_c('mark',[_c('em',[_v("epics")])]),_v(" (or "),_c('em',[_v("themes")]),_v(") cover bigger functionality. You can then break down these epics to multiple user stories of normal size.")])}
@@ -35,6 +35,6 @@ with(this){return _c('p',[_c('strong',[_v("Other useful info that can be added t
 with(this){return _c('ul',[_c('li',[_v("Priority: how important the user story is")]),_v(" "),_c('li',[_v("Size: the estimated effort to implement the user story")]),_v(" "),_c('li',[_v("Urgency: how soon the feature is needed")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Sat, 27 Aug 2022, 15:44:31 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Mon, 29 Aug 2022, 15:30:49 GMT+8]")])])])}
 }];
   

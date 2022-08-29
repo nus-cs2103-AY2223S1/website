@@ -20,12 +20,12 @@ with(this){return _c('p',[_c('strong',[_v("Measuring coverage is often done usin
 with(this){return _c('p',[_c('strong',[_v("Coverage analysis can be useful in improving the quality of testing")]),_v(" "),_c('span',{staticClass:"dimmed"},[_v("e.g., if a set of test cases does not achieve 100% branch coverage, more test cases can be added to cover missed branches")]),_v(".")])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('span',[_c('span',{staticClass:"glyphicon glyphicon-facetime-video",attrs:{"aria-hidden":"true"}})]),_v(" Measuring code coverage in Intellij IDEA ("),_c('mark',[_v("watch from "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("4 minutes 50 seconds")]),_v(" mark")]),_v(")")])}
+with(this){return _c('p',[_c('span',[_c('span',{staticClass:"glyphicon glyphicon-facetime-video",attrs:{"aria-hidden":"true"}})]),_v(" Measuring code coverage in Intellij IDEA ("),_c('mark',[_v("watch from "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("4 minutes 50 seconds")]),_v(" mark")]),_v(")")])}
 },function anonymous(
 ) {
 with(this){return _c('div',{staticClass:"block-embed block-embed-service-youtube",staticStyle:{"position":"relative","padding-bottom":"60.9375%"}},[_c('iframe',{attrs:{"type":"text/html","src":"//www.youtube.com/embed/QDFI19lj4OM","frameborder":"0","webkitallowfullscreen":"","mozallowfullscreen":"","allowfullscreen":""}})])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Sat, 27 Aug 2022, 15:44:31 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Mon, 29 Aug 2022, 15:30:49 GMT+8]")])])])}
 }];
   
