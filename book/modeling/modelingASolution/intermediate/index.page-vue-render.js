@@ -50,6 +50,6 @@ with(this){return _c('p',[_v("It is now time to explore what happens inside the 
 with(this){return _c('p',[_v("Now let us assume that "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("Minesweeper")]),_v(" supports a ‘timing’ feature.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Sat, 3 Sept 2022, 2:06:56 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Sun, 4 Sept 2022, 13:33:14 GMT+8]")])])])}
 }];
   
