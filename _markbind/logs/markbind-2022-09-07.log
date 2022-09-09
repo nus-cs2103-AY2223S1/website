@@ -108,3 +108,52 @@
 2022-09-07T14:02:26.951Z - info: Lazy website regeneration complete! Total build time: 0.618s
 2022-09-07T14:03:25.840Z - info: Website generation started at 10:03:23 pm
 2022-09-07T14:03:40.173Z - info: Building assets...
+2022-09-07T14:03:49.367Z - info: Assets built
+2022-09-07T14:03:49.367Z - info: Generating pages...
+2022-09-07T14:04:07.569Z - debug:  
+2022-09-07T14:04:07.569Z - debug:  
+2022-09-07T14:04:07.682Z - debug:  
+2022-09-07T14:04:13.048Z - debug:  
+2022-09-07T14:04:13.049Z - debug:  
+2022-09-07T14:04:13.049Z - debug:  
+2022-09-07T14:04:13.050Z - debug:  
+2022-09-07T14:04:13.050Z - debug:  
+2022-09-07T14:04:13.050Z - debug:  
+2022-09-07T14:04:13.051Z - debug:  
+2022-09-07T14:04:13.051Z - debug:  
+2022-09-07T14:04:13.051Z - debug:  
+2022-09-07T14:06:42.427Z - debug:  
+2022-09-07T14:06:59.892Z - debug:  
+2022-09-07T14:06:59.892Z - debug:  
+2022-09-07T14:07:09.053Z - info: Pages built
+2022-09-07T14:07:10.294Z - info: Site data built
+2022-09-07T14:07:10.295Z - info: Website generation complete! Total build time: 226.975s
+2022-09-07T14:07:10.295Z - info: Build success!
+2022-09-07T14:09:18.768Z - info: The website has been deployed at: https://nus-cs2103-ay2223s1.github.io/website
+2022-09-07T14:13:04.604Z - info: Website generation (lazy) started at 10:12:58 pm
+2022-09-07T14:13:16.750Z - info: Building assets...
+2022-09-07T14:13:24.969Z - info: Assets built
+2022-09-07T14:13:24.970Z - info: Generating landing page...
+2022-09-07T14:13:26.342Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-09-07T14:13:27.711Z - info: Site data built
+2022-09-07T14:13:27.711Z - info: Website generation (lazy) complete! Total build time: 28.728s
+2022-09-07T14:13:28.903Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-09-07T14:13:28.903Z - info: Press CTRL+C to stop ...
+2022-09-07T14:16:10.678Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week5\tutorial as some of its dependencies were changed since the last visit
+2022-09-07T14:16:11.024Z - info: Site data built
+2022-09-07T14:16:11.026Z - info: Lazy website regeneration complete! Total build time: 0.348s
+2022-09-07T14:24:47.439Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week6\index as some of its dependencies were changed since the last visit
+2022-09-07T14:24:48.901Z - info: Site data built
+2022-09-07T14:24:48.902Z - info: Lazy website regeneration complete! Total build time: 1.462s
+2022-09-07T14:24:52.067Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week6\tutorial as some of its dependencies were changed since the last visit
+2022-09-07T14:24:52.290Z - info: Site data built
+2022-09-07T14:24:52.290Z - info: Lazy website regeneration complete! Total build time: 0.223s
+2022-09-07T14:24:55.593Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week6\topics as some of its dependencies were changed since the last visit
+2022-09-07T14:24:56.775Z - info: Site data built
+2022-09-07T14:24:56.776Z - info: Lazy website regeneration complete! Total build time: 1.183s
+2022-09-07T14:25:06.469Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week6\admin as some of its dependencies were changed since the last visit
+2022-09-07T14:25:06.761Z - info: Site data built
+2022-09-07T14:25:06.761Z - info: Lazy website regeneration complete! Total build time: 0.292s
+2022-09-07T14:25:10.075Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week6\project as some of its dependencies were changed since the last visit
+2022-09-07T14:25:11.680Z - info: Site data built
+2022-09-07T14:25:11.681Z - info: Lazy website regeneration complete! Total build time: 1.606s
