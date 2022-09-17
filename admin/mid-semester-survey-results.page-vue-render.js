@@ -155,6 +155,6 @@ with(this){return _c('div',[_c('p',[_v("I think some of the content required by 
 with(this){return _c('div',[_c('p',[_v("Had some troubles following the simple git tutorial on the module website. Had to look up for a lot other information to learn git. I also felt that the workload in week 3 was heavier than other weeks so far. Maybe could balance it out a bit. Overall the workload is manageable after 3 weeks to get used to it.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Fri, 16 Sept 2022, 19:03:46 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Sat, 17 Sept 2022, 12:30:19 GMT+8]")])])])}
 }];
   
