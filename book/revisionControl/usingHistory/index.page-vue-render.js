@@ -26,6 +26,6 @@ with(this){return _c('p',[_c('strong',[_v("To see what changed between two point
 with(this){return _c('p',[_c('strong',[_v("To restore the state of the working directory at a point in the past, you can "),_c('mark',[_c('em',[_v("checkout")])]),_v(" the commit in concern.")]),_v(" i.e., you can traverse the history of the working directory simply by checking out the commits you are interested in.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Sat, 17 Sept 2022, 12:30:19 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Tue, 20 Sept 2022, 1:42:11 GMT+8]")])])])}
 }];
   
