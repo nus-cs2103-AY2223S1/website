@@ -29,6 +29,6 @@ with(this){return _c('p',[_c('strong',[_v("The exception handler chosen is said 
 with(this){return _c('ul',[_c('li',[_v("The ability to propagate error information through the call stack.")]),_v(" "),_c('li',[_v("The separation of code that deals with 'unusual' situations from the code that does the 'usual' work.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Tue, 20 Sept 2022, 1:42:11 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Sun, 25 Sept 2022, 1:04:25 GMT+8]")])])])}
 }];
   

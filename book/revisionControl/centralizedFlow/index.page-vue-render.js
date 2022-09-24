@@ -17,6 +17,6 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"centralized-flow"}},[_c('span'
 with(this){return _c('div',[_c('p',[_c('strong',[_v("The "),_c('em',[_v("centralized workflow")]),_v(" is similar to the feature branch workflow except all changes are done in the "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("master")]),_v(" branch.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Tue, 20 Sept 2022, 1:42:11 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Sun, 25 Sept 2022, 1:04:25 GMT+8]")])])])}
 }];
   

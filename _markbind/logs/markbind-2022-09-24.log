@@ -1,0 +1,1574 @@
+2022-09-23T16:00:02.752Z - info: [12:00:02 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T16:00:02.770Z - info: Synchronizing opened pages list before reload
+2022-09-23T16:00:02.772Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T16:00:02.772Z - info: 1. admin/overview-for-teachers
+2022-09-23T16:00:02.773Z - info: 2. admin/ip-w2
+2022-09-23T16:00:03.793Z - info: Rebuilding 1 pages
+2022-09-23T16:00:03.913Z - info: Site data built
+2022-09-23T16:00:03.913Z - info: Pages rebuilt
+2022-09-23T16:00:03.913Z - info: Website regeneration complete! Total build time: 0.121s
+2022-09-23T16:01:42.210Z - info: [12:01:42 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T16:01:42.210Z - info: Synchronizing opened pages list before reload
+2022-09-23T16:01:42.210Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T16:01:42.210Z - info: 1. admin/overview-for-teachers
+2022-09-23T16:01:42.210Z - info: 2. admin/ip-w2
+2022-09-23T16:01:43.223Z - info: Rebuilding 1 pages
+2022-09-23T16:01:43.363Z - info: Site data built
+2022-09-23T16:01:43.363Z - info: Pages rebuilt
+2022-09-23T16:01:43.363Z - info: Website regeneration complete! Total build time: 0.141s
+2022-09-23T16:01:51.843Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\gradeBreakdown as some of its dependencies were changed since the last visit
+2022-09-23T16:01:53.564Z - info: Site data built
+2022-09-23T16:01:53.564Z - info: Lazy website regeneration complete! Total build time: 1.722s
+2022-09-23T16:01:55.454Z - debug:  
+2022-09-23T16:02:13.022Z - info: [12:02:13 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T16:02:13.023Z - info: Synchronizing opened pages list before reload
+2022-09-23T16:02:13.023Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T16:02:13.023Z - info: 1. admin/overview-for-teachers
+2022-09-23T16:02:13.023Z - info: 2. admin/ip-w2
+2022-09-23T16:02:14.034Z - info: Rebuilding 1 pages
+2022-09-23T16:02:14.155Z - info: Site data built
+2022-09-23T16:02:14.156Z - info: Pages rebuilt
+2022-09-23T16:02:14.156Z - info: Website regeneration complete! Total build time: 0.123s
+2022-09-23T16:04:08.942Z - info: [12:04:08 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T16:04:08.942Z - info: Synchronizing opened pages list before reload
+2022-09-23T16:04:08.943Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T16:04:08.943Z - info: 1. admin/overview-for-teachers
+2022-09-23T16:04:08.943Z - info: 2. admin/ip-w2
+2022-09-23T16:04:09.952Z - info: Rebuilding 1 pages
+2022-09-23T16:04:10.056Z - info: Site data built
+2022-09-23T16:04:10.056Z - info: Pages rebuilt
+2022-09-23T16:04:10.056Z - info: Website regeneration complete! Total build time: 0.104s
+2022-09-23T16:06:00.879Z - info: [12:06:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T16:06:00.879Z - info: Synchronizing opened pages list before reload
+2022-09-23T16:06:00.879Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T16:06:00.879Z - info: 1. admin/overview-for-teachers
+2022-09-23T16:06:00.880Z - info: 2. admin/ip-w2
+2022-09-23T16:06:01.886Z - info: Rebuilding 1 pages
+2022-09-23T16:06:02.010Z - info: Site data built
+2022-09-23T16:06:02.010Z - info: Pages rebuilt
+2022-09-23T16:06:02.011Z - info: Website regeneration complete! Total build time: 0.124s
+2022-09-23T16:08:46.343Z - info: [12:08:46 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T16:08:46.343Z - info: Synchronizing opened pages list before reload
+2022-09-23T16:08:46.344Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T16:08:46.344Z - info: 1. admin/overview-for-teachers
+2022-09-23T16:08:46.344Z - info: 2. admin/ip-w2
+2022-09-23T16:08:47.354Z - info: Rebuilding 1 pages
+2022-09-23T16:08:47.618Z - info: Site data built
+2022-09-23T16:08:47.618Z - info: Pages rebuilt
+2022-09-23T16:08:47.619Z - info: Website regeneration complete! Total build time: 0.266s
+2022-09-23T16:10:57.932Z - info: [12:10:57 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T16:10:57.932Z - info: Synchronizing opened pages list before reload
+2022-09-23T16:10:57.932Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T16:10:57.932Z - info: 1. admin/overview-for-teachers
+2022-09-23T16:10:57.933Z - info: 2. admin/ip-w2
+2022-09-23T16:10:58.951Z - info: Rebuilding 1 pages
+2022-09-23T16:10:59.134Z - info: Site data built
+2022-09-23T16:10:59.134Z - info: Pages rebuilt
+2022-09-23T16:10:59.135Z - info: Website regeneration complete! Total build time: 0.184s
+2022-09-23T16:11:21.965Z - info: [12:11:21 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T16:11:21.965Z - info: Synchronizing opened pages list before reload
+2022-09-23T16:11:21.966Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T16:11:21.966Z - info: 1. admin/overview-for-teachers
+2022-09-23T16:11:21.966Z - info: 2. admin/ip-w2
+2022-09-23T16:11:22.982Z - info: Rebuilding 1 pages
+2022-09-23T16:11:23.177Z - info: Site data built
+2022-09-23T16:11:23.178Z - info: Pages rebuilt
+2022-09-23T16:11:23.178Z - info: Website regeneration complete! Total build time: 0.197s
+2022-09-23T16:11:33.456Z - info: [12:11:33 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T16:11:33.456Z - info: Synchronizing opened pages list before reload
+2022-09-23T16:11:33.456Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T16:11:33.456Z - info: 1. admin/overview-for-teachers
+2022-09-23T16:11:33.456Z - info: 2. admin/ip-w2
+2022-09-23T16:11:34.475Z - info: Rebuilding 1 pages
+2022-09-23T16:11:34.610Z - info: Site data built
+2022-09-23T16:11:34.610Z - info: Pages rebuilt
+2022-09-23T16:11:34.610Z - info: Website regeneration complete! Total build time: 0.135s
+2022-09-23T16:12:06.496Z - info: [12:12:06 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T16:12:06.497Z - info: Synchronizing opened pages list before reload
+2022-09-23T16:12:06.497Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T16:12:06.497Z - info: 1. admin/overview-for-teachers
+2022-09-23T16:12:06.497Z - info: 2. admin/ip-w2
+2022-09-23T16:12:07.511Z - info: Rebuilding 1 pages
+2022-09-23T16:12:07.655Z - info: Site data built
+2022-09-23T16:12:07.655Z - info: Pages rebuilt
+2022-09-23T16:12:07.656Z - info: Website regeneration complete! Total build time: 0.146s
+2022-09-23T16:12:14.282Z - info: [12:12:14 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T16:12:14.282Z - info: Synchronizing opened pages list before reload
+2022-09-23T16:12:14.282Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T16:12:14.282Z - info: 1. admin/overview-for-teachers
+2022-09-23T16:12:14.282Z - info: 2. admin/ip-w2
+2022-09-23T16:12:15.300Z - info: Rebuilding 1 pages
+2022-09-23T16:12:15.420Z - info: Site data built
+2022-09-23T16:12:15.420Z - info: Pages rebuilt
+2022-09-23T16:12:15.420Z - info: Website regeneration complete! Total build time: 0.121s
+2022-09-23T16:12:31.360Z - info: [12:12:31 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T16:12:31.360Z - info: Synchronizing opened pages list before reload
+2022-09-23T16:12:31.360Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T16:12:31.360Z - info: 1. admin/overview-for-teachers
+2022-09-23T16:12:31.361Z - info: 2. admin/ip-w2
+2022-09-23T16:12:32.367Z - info: Rebuilding 1 pages
+2022-09-23T16:12:32.504Z - info: Site data built
+2022-09-23T16:12:32.505Z - info: Pages rebuilt
+2022-09-23T16:12:32.505Z - info: Website regeneration complete! Total build time: 0.138s
+2022-09-23T16:12:45.379Z - info: [12:12:45 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T16:12:45.379Z - info: Synchronizing opened pages list before reload
+2022-09-23T16:12:45.379Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T16:12:45.379Z - info: 1. admin/overview-for-teachers
+2022-09-23T16:12:45.380Z - info: 2. admin/ip-w2
+2022-09-23T16:12:46.397Z - info: Rebuilding 1 pages
+2022-09-23T16:12:46.504Z - info: Site data built
+2022-09-23T16:12:46.505Z - info: Pages rebuilt
+2022-09-23T16:12:46.505Z - info: Website regeneration complete! Total build time: 0.109s
+2022-09-23T16:13:09.707Z - info: [12:13:09 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T16:13:09.707Z - info: Synchronizing opened pages list before reload
+2022-09-23T16:13:09.707Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T16:13:09.708Z - info: 1. admin/overview-for-teachers
+2022-09-23T16:13:09.708Z - info: 2. admin/ip-w2
+2022-09-23T16:13:10.716Z - info: Rebuilding 1 pages
+2022-09-23T16:13:10.854Z - info: Site data built
+2022-09-23T16:13:10.854Z - info: Pages rebuilt
+2022-09-23T16:13:10.854Z - info: Website regeneration complete! Total build time: 0.139s
+2022-09-23T16:14:10.715Z - info: [12:14:10 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T16:14:10.715Z - info: Synchronizing opened pages list before reload
+2022-09-23T16:14:10.715Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T16:14:10.715Z - info: 1. admin/overview-for-teachers
+2022-09-23T16:14:10.715Z - info: 2. admin/ip-w2
+2022-09-23T16:14:11.729Z - info: Rebuilding 1 pages
+2022-09-23T16:14:11.870Z - info: Site data built
+2022-09-23T16:14:11.870Z - info: Pages rebuilt
+2022-09-23T16:14:11.870Z - info: Website regeneration complete! Total build time: 0.142s
+2022-09-23T16:14:25.896Z - info: [12:14:25 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T16:14:25.896Z - info: Synchronizing opened pages list before reload
+2022-09-23T16:14:25.896Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T16:14:25.896Z - info: 1. admin/overview-for-teachers
+2022-09-23T16:14:25.896Z - info: 2. admin/ip-w2
+2022-09-23T16:14:26.917Z - info: Rebuilding 1 pages
+2022-09-23T16:14:27.070Z - info: Site data built
+2022-09-23T16:14:27.071Z - info: Pages rebuilt
+2022-09-23T16:14:27.071Z - info: Website regeneration complete! Total build time: 0.154s
+2022-09-23T16:14:45.470Z - info: [12:14:45 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T16:14:45.470Z - info: Synchronizing opened pages list before reload
+2022-09-23T16:14:45.471Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T16:14:45.471Z - info: 1. admin/overview-for-teachers
+2022-09-23T16:14:45.471Z - info: 2. admin/ip-w2
+2022-09-23T16:14:46.503Z - info: Rebuilding 1 pages
+2022-09-23T16:14:46.759Z - info: Site data built
+2022-09-23T16:14:46.759Z - info: Pages rebuilt
+2022-09-23T16:14:46.759Z - info: Website regeneration complete! Total build time: 0.257s
+2022-09-23T16:15:07.873Z - info: [12:15:07 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T16:15:07.873Z - info: Synchronizing opened pages list before reload
+2022-09-23T16:15:07.873Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T16:15:07.873Z - info: 1. admin/overview-for-teachers
+2022-09-23T16:15:07.874Z - info: 2. admin/ip-w2
+2022-09-23T16:15:08.894Z - info: Rebuilding 1 pages
+2022-09-23T16:15:09.029Z - info: Site data built
+2022-09-23T16:15:09.029Z - info: Pages rebuilt
+2022-09-23T16:15:09.030Z - info: Website regeneration complete! Total build time: 0.136s
+2022-09-23T16:15:23.753Z - info: [12:15:23 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T16:15:23.753Z - info: Synchronizing opened pages list before reload
+2022-09-23T16:15:23.754Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T16:15:23.754Z - info: 1. admin/overview-for-teachers
+2022-09-23T16:15:23.754Z - info: 2. admin/ip-w2
+2022-09-23T16:15:24.765Z - info: Rebuilding 1 pages
+2022-09-23T16:15:24.927Z - info: Site data built
+2022-09-23T16:15:24.928Z - info: Pages rebuilt
+2022-09-23T16:15:24.928Z - info: Website regeneration complete! Total build time: 0.165s
+2022-09-23T16:17:47.301Z - info: [12:17:47 am] Reload for file add: C:\repos\nus-cs2103\cs2103-website-base\admin\images\sample-uml-drawing-question-answer.png
+2022-09-23T16:17:47.301Z - info: Synchronizing opened pages list before reload
+2022-09-23T16:17:47.302Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T16:17:47.302Z - info: 1. admin/overview-for-teachers
+2022-09-23T16:17:47.302Z - info: 2. admin/ip-w2
+2022-09-23T16:17:52.808Z - info: [12:17:52 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\images\sample-uml-drawing-question-answer.png
+2022-09-23T16:17:52.809Z - info: Synchronizing opened pages list before reload
+2022-09-23T16:17:52.809Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T16:17:52.809Z - info: 1. admin/overview-for-teachers
+2022-09-23T16:17:52.809Z - info: 2. admin/ip-w2
+2022-09-23T16:17:54.339Z - info: [12:17:54 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\images\sample-uml-drawing-question-answer.png
+2022-09-23T16:17:54.339Z - info: Synchronizing opened pages list before reload
+2022-09-23T16:17:54.339Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T16:17:54.339Z - info: 1. admin/overview-for-teachers
+2022-09-23T16:17:54.339Z - info: 2. admin/ip-w2
+2022-09-23T16:17:56.832Z - info: Assets built
+2022-09-23T16:17:56.862Z - info: Assets built
+2022-09-23T16:18:37.422Z - info: [12:18:37 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T16:18:37.422Z - info: Synchronizing opened pages list before reload
+2022-09-23T16:18:37.422Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T16:18:37.422Z - info: 1. admin/overview-for-teachers
+2022-09-23T16:18:37.422Z - info: 2. admin/ip-w2
+2022-09-23T16:18:38.437Z - info: Rebuilding 1 pages
+2022-09-23T16:18:38.773Z - info: Site data built
+2022-09-23T16:18:38.774Z - info: Pages rebuilt
+2022-09-23T16:18:38.774Z - info: Website regeneration complete! Total build time: 0.338s
+2022-09-23T16:19:25.804Z - info: [12:19:25 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T16:19:25.804Z - info: Synchronizing opened pages list before reload
+2022-09-23T16:19:25.804Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T16:19:25.805Z - info: 1. admin/overview-for-teachers
+2022-09-23T16:19:25.805Z - info: 2. admin/ip-w2
+2022-09-23T16:19:26.811Z - info: Rebuilding 1 pages
+2022-09-23T16:19:27.024Z - info: Site data built
+2022-09-23T16:19:27.024Z - info: Pages rebuilt
+2022-09-23T16:19:27.025Z - info: Website regeneration complete! Total build time: 0.215s
+2022-09-23T16:19:35.911Z - info: [12:19:35 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T16:19:35.911Z - info: Synchronizing opened pages list before reload
+2022-09-23T16:19:35.911Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T16:19:35.912Z - info: 1. admin/overview-for-teachers
+2022-09-23T16:19:35.912Z - info: 2. admin/ip-w2
+2022-09-23T16:19:36.919Z - info: Rebuilding 1 pages
+2022-09-23T16:19:37.088Z - info: Site data built
+2022-09-23T16:19:37.088Z - info: Pages rebuilt
+2022-09-23T16:19:37.088Z - info: Website regeneration complete! Total build time: 0.169s
+2022-09-23T16:20:09.373Z - info: [12:20:09 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T16:20:09.373Z - info: Synchronizing opened pages list before reload
+2022-09-23T16:20:09.373Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T16:20:09.374Z - info: 1. admin/overview-for-teachers
+2022-09-23T16:20:09.374Z - info: 2. admin/ip-w2
+2022-09-23T16:20:10.386Z - info: Rebuilding 1 pages
+2022-09-23T16:20:10.583Z - info: Site data built
+2022-09-23T16:20:10.583Z - info: Pages rebuilt
+2022-09-23T16:20:10.584Z - info: Website regeneration complete! Total build time: 0.197s
+2022-09-23T16:20:51.253Z - info: [12:20:51 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T16:20:51.254Z - info: Synchronizing opened pages list before reload
+2022-09-23T16:20:51.254Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T16:20:51.254Z - info: 1. admin/overview-for-teachers
+2022-09-23T16:20:51.254Z - info: 2. admin/ip-w2
+2022-09-23T16:20:52.263Z - info: Rebuilding 1 pages
+2022-09-23T16:20:52.455Z - info: Site data built
+2022-09-23T16:20:52.455Z - info: Pages rebuilt
+2022-09-23T16:20:52.455Z - info: Website regeneration complete! Total build time: 0.193s
+2022-09-23T17:07:18.022Z - info: [1:07:18 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:07:18.029Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:07:18.031Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:07:18.032Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:07:18.032Z - info: 2. admin/ip-w2
+2022-09-23T17:07:19.058Z - info: Rebuilding 1 pages
+2022-09-23T17:07:19.449Z - info: Site data built
+2022-09-23T17:07:19.449Z - info: Pages rebuilt
+2022-09-23T17:07:19.450Z - info: Website regeneration complete! Total build time: 0.397s
+2022-09-23T17:07:37.664Z - info: [1:07:37 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:07:37.664Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:07:37.664Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:07:37.664Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:07:37.664Z - info: 2. admin/ip-w2
+2022-09-23T17:07:38.681Z - info: Rebuilding 1 pages
+2022-09-23T17:07:38.877Z - info: Site data built
+2022-09-23T17:07:38.878Z - info: Pages rebuilt
+2022-09-23T17:07:38.878Z - info: Website regeneration complete! Total build time: 0.197s
+2022-09-23T17:07:58.262Z - info: [1:07:58 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:07:58.263Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:07:58.263Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:07:58.263Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:07:58.263Z - info: 2. admin/ip-w2
+2022-09-23T17:07:59.269Z - info: Rebuilding 1 pages
+2022-09-23T17:07:59.549Z - info: Site data built
+2022-09-23T17:07:59.549Z - info: Pages rebuilt
+2022-09-23T17:07:59.549Z - info: Website regeneration complete! Total build time: 0.281s
+2022-09-23T17:08:54.706Z - info: [1:08:54 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:08:54.706Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:08:54.707Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:08:54.707Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:08:54.707Z - info: 2. admin/ip-w2
+2022-09-23T17:08:55.721Z - info: Rebuilding 1 pages
+2022-09-23T17:08:55.917Z - info: Site data built
+2022-09-23T17:08:55.918Z - info: Pages rebuilt
+2022-09-23T17:08:55.918Z - info: Website regeneration complete! Total build time: 0.198s
+2022-09-23T17:09:41.072Z - info: [1:09:41 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:09:41.073Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:09:41.073Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:09:41.073Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:09:41.073Z - info: 2. admin/ip-w2
+2022-09-23T17:09:42.093Z - info: Rebuilding 1 pages
+2022-09-23T17:09:42.279Z - info: Site data built
+2022-09-23T17:09:42.279Z - info: Pages rebuilt
+2022-09-23T17:09:42.279Z - info: Website regeneration complete! Total build time: 0.187s
+2022-09-23T17:14:01.260Z - info: [1:14:01 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:14:01.260Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:14:01.260Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:14:01.261Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:14:01.261Z - info: 2. admin/ip-w2
+2022-09-23T17:14:02.270Z - info: Rebuilding 1 pages
+2022-09-23T17:14:02.493Z - info: Site data built
+2022-09-23T17:14:02.493Z - info: Pages rebuilt
+2022-09-23T17:14:02.494Z - info: Website regeneration complete! Total build time: 0.224s
+2022-09-23T17:17:41.747Z - info: [1:17:41 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:17:41.747Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:17:41.747Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:17:41.747Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:17:41.747Z - info: 2. admin/ip-w2
+2022-09-23T17:17:42.766Z - info: Rebuilding 1 pages
+2022-09-23T17:17:42.996Z - info: Site data built
+2022-09-23T17:17:42.996Z - info: Pages rebuilt
+2022-09-23T17:17:42.996Z - info: Website regeneration complete! Total build time: 0.231s
+2022-09-23T17:18:29.572Z - info: [1:18:29 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:18:29.573Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:18:29.573Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:18:29.573Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:18:29.573Z - info: 2. admin/ip-w2
+2022-09-23T17:18:30.585Z - info: Rebuilding 1 pages
+2022-09-23T17:18:30.784Z - info: Site data built
+2022-09-23T17:18:30.785Z - info: Pages rebuilt
+2022-09-23T17:18:30.785Z - info: Website regeneration complete! Total build time: 0.201s
+2022-09-23T17:18:38.884Z - info: [1:18:38 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:18:38.884Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:18:38.885Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:18:38.885Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:18:38.885Z - info: 2. admin/ip-w2
+2022-09-23T17:18:39.899Z - info: Rebuilding 1 pages
+2022-09-23T17:18:40.075Z - info: Site data built
+2022-09-23T17:18:40.076Z - info: Pages rebuilt
+2022-09-23T17:18:40.076Z - info: Website regeneration complete! Total build time: 0.178s
+2022-09-23T17:19:30.890Z - info: [1:19:30 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:19:30.890Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:19:30.890Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:19:30.890Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:19:30.890Z - info: 2. admin/ip-w2
+2022-09-23T17:19:31.902Z - info: Rebuilding 1 pages
+2022-09-23T17:19:32.152Z - info: Site data built
+2022-09-23T17:19:32.153Z - info: Pages rebuilt
+2022-09-23T17:19:32.153Z - info: Website regeneration complete! Total build time: 0.252s
+2022-09-23T17:22:28.454Z - info: [1:22:28 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:22:28.454Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:22:28.454Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:22:28.457Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:22:28.457Z - info: 2. admin/ip-w2
+2022-09-23T17:22:29.467Z - info: Rebuilding 1 pages
+2022-09-23T17:22:29.640Z - info: Site data built
+2022-09-23T17:22:29.640Z - info: Pages rebuilt
+2022-09-23T17:22:29.640Z - info: Website regeneration complete! Total build time: 0.174s
+2022-09-23T17:22:46.995Z - info: [1:22:46 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:22:46.995Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:22:46.995Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:22:46.996Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:22:46.997Z - info: 2. admin/ip-w2
+2022-09-23T17:22:48.019Z - info: Rebuilding 1 pages
+2022-09-23T17:22:48.208Z - info: Site data built
+2022-09-23T17:22:48.209Z - info: Pages rebuilt
+2022-09-23T17:22:48.209Z - info: Website regeneration complete! Total build time: 0.191s
+2022-09-23T17:23:55.379Z - info: [1:23:55 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:23:55.382Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:23:55.382Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:23:55.383Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:23:55.383Z - info: 2. admin/ip-w2
+2022-09-23T17:23:56.388Z - info: Rebuilding 1 pages
+2022-09-23T17:23:56.558Z - info: Site data built
+2022-09-23T17:23:56.558Z - info: Pages rebuilt
+2022-09-23T17:23:56.559Z - info: Website regeneration complete! Total build time: 0.172s
+2022-09-23T17:24:18.798Z - info: [1:24:18 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:24:18.798Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:24:18.798Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:24:18.799Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:24:18.799Z - info: 2. admin/ip-w2
+2022-09-23T17:24:19.818Z - info: Rebuilding 1 pages
+2022-09-23T17:24:19.995Z - info: Site data built
+2022-09-23T17:24:19.995Z - info: Pages rebuilt
+2022-09-23T17:24:19.996Z - info: Website regeneration complete! Total build time: 0.178s
+2022-09-23T17:25:03.015Z - info: [1:25:03 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:25:03.015Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:25:03.015Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:25:03.015Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:25:03.015Z - info: 2. admin/ip-w2
+2022-09-23T17:25:04.026Z - info: Rebuilding 1 pages
+2022-09-23T17:25:04.196Z - info: Site data built
+2022-09-23T17:25:04.196Z - info: Pages rebuilt
+2022-09-23T17:25:04.196Z - info: Website regeneration complete! Total build time: 0.17s
+2022-09-23T17:25:36.345Z - info: [1:25:36 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:25:36.345Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:25:36.345Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:25:36.345Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:25:36.346Z - info: 2. admin/ip-w2
+2022-09-23T17:25:37.349Z - info: Rebuilding 1 pages
+2022-09-23T17:25:37.529Z - info: Site data built
+2022-09-23T17:25:37.529Z - info: Pages rebuilt
+2022-09-23T17:25:37.529Z - info: Website regeneration complete! Total build time: 0.181s
+2022-09-23T17:25:49.360Z - info: [1:25:49 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:25:49.360Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:25:49.361Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:25:49.361Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:25:49.361Z - info: 2. admin/ip-w2
+2022-09-23T17:25:50.372Z - info: Rebuilding 1 pages
+2022-09-23T17:25:50.539Z - info: Site data built
+2022-09-23T17:25:50.539Z - info: Pages rebuilt
+2022-09-23T17:25:50.539Z - info: Website regeneration complete! Total build time: 0.168s
+2022-09-23T17:25:58.911Z - info: [1:25:58 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:25:58.911Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:25:58.911Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:25:58.911Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:25:58.911Z - info: 2. admin/ip-w2
+2022-09-23T17:25:59.923Z - info: Rebuilding 1 pages
+2022-09-23T17:26:00.087Z - info: Site data built
+2022-09-23T17:26:00.087Z - info: Pages rebuilt
+2022-09-23T17:26:00.087Z - info: Website regeneration complete! Total build time: 0.164s
+2022-09-23T17:26:34.966Z - info: [1:26:34 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:26:34.966Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:26:34.966Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:26:34.966Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:26:34.966Z - info: 2. admin/ip-w2
+2022-09-23T17:26:35.978Z - info: Rebuilding 1 pages
+2022-09-23T17:26:36.172Z - info: Site data built
+2022-09-23T17:26:36.172Z - info: Pages rebuilt
+2022-09-23T17:26:36.172Z - info: Website regeneration complete! Total build time: 0.194s
+2022-09-23T17:28:25.525Z - info: [1:28:25 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:28:25.525Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:28:25.525Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:28:25.526Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:28:25.526Z - info: 2. admin/ip-w2
+2022-09-23T17:28:26.537Z - info: Rebuilding 1 pages
+2022-09-23T17:28:26.703Z - info: Site data built
+2022-09-23T17:28:26.704Z - info: Pages rebuilt
+2022-09-23T17:28:26.704Z - info: Website regeneration complete! Total build time: 0.168s
+2022-09-23T17:29:51.682Z - info: [1:29:51 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:29:51.682Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:29:51.683Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:29:51.683Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:29:51.683Z - info: 2. admin/ip-w2
+2022-09-23T17:29:52.702Z - info: Rebuilding 1 pages
+2022-09-23T17:29:53.006Z - info: Site data built
+2022-09-23T17:29:53.006Z - info: Pages rebuilt
+2022-09-23T17:29:53.006Z - info: Website regeneration complete! Total build time: 0.305s
+2022-09-23T17:31:00.361Z - info: [1:31:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:31:00.362Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:31:00.362Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:31:00.362Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:31:00.362Z - info: 2. admin/ip-w2
+2022-09-23T17:31:01.378Z - info: Rebuilding 1 pages
+2022-09-23T17:31:01.628Z - info: Site data built
+2022-09-23T17:31:01.628Z - info: Pages rebuilt
+2022-09-23T17:31:01.628Z - info: Website regeneration complete! Total build time: 0.251s
+2022-09-23T17:32:31.506Z - info: [1:32:31 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:32:31.506Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:32:31.506Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:32:31.506Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:32:32.524Z - info: Rebuilding 1 pages
+2022-09-23T17:32:32.725Z - info: Site data built
+2022-09-23T17:32:32.726Z - info: Pages rebuilt
+2022-09-23T17:32:32.726Z - info: Website regeneration complete! Total build time: 0.203s
+2022-09-23T17:33:38.801Z - info: [1:33:38 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:33:38.802Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:33:38.802Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:33:38.802Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:33:39.817Z - info: Rebuilding 1 pages
+2022-09-23T17:33:40.015Z - info: Site data built
+2022-09-23T17:33:40.015Z - info: Pages rebuilt
+2022-09-23T17:33:40.016Z - info: Website regeneration complete! Total build time: 0.199s
+2022-09-23T17:35:35.364Z - info: [1:35:35 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:35:35.364Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:35:35.365Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:35:35.365Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:35:36.370Z - info: Rebuilding 1 pages
+2022-09-23T17:35:36.545Z - info: Site data built
+2022-09-23T17:35:36.545Z - info: Pages rebuilt
+2022-09-23T17:35:36.546Z - info: Website regeneration complete! Total build time: 0.177s
+2022-09-23T17:36:05.656Z - info: [1:36:05 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:36:05.656Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:36:05.656Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:36:05.656Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:36:06.662Z - info: Rebuilding 1 pages
+2022-09-23T17:36:06.862Z - info: Site data built
+2022-09-23T17:36:06.863Z - info: Pages rebuilt
+2022-09-23T17:36:06.863Z - info: Website regeneration complete! Total build time: 0.202s
+2022-09-23T17:36:47.248Z - info: [1:36:47 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:36:47.248Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:36:47.249Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:36:47.249Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:36:48.254Z - info: Rebuilding 1 pages
+2022-09-23T17:36:48.437Z - info: Site data built
+2022-09-23T17:36:48.437Z - info: Pages rebuilt
+2022-09-23T17:36:48.437Z - info: Website regeneration complete! Total build time: 0.183s
+2022-09-23T17:38:17.496Z - info: [1:38:17 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:38:17.496Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:38:17.497Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:38:17.497Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:38:18.505Z - info: Rebuilding 1 pages
+2022-09-23T17:38:18.687Z - info: Site data built
+2022-09-23T17:38:18.688Z - info: Pages rebuilt
+2022-09-23T17:38:18.688Z - info: Website regeneration complete! Total build time: 0.184s
+2022-09-23T17:38:29.462Z - info: [1:38:29 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:38:29.462Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:38:29.462Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:38:29.462Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:38:30.469Z - info: Rebuilding 1 pages
+2022-09-23T17:38:30.656Z - info: Site data built
+2022-09-23T17:38:30.656Z - info: Pages rebuilt
+2022-09-23T17:38:30.657Z - info: Website regeneration complete! Total build time: 0.189s
+2022-09-23T17:38:44.848Z - info: [1:38:44 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:38:44.848Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:38:44.848Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:38:44.849Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:38:45.861Z - info: Rebuilding 1 pages
+2022-09-23T17:38:46.081Z - info: Site data built
+2022-09-23T17:38:46.081Z - info: Pages rebuilt
+2022-09-23T17:38:46.082Z - info: Website regeneration complete! Total build time: 0.221s
+2022-09-23T17:39:41.605Z - info: [1:39:41 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:39:41.605Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:39:41.605Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:39:41.605Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:39:42.616Z - info: Rebuilding 1 pages
+2022-09-23T17:39:42.789Z - info: Site data built
+2022-09-23T17:39:42.789Z - info: Pages rebuilt
+2022-09-23T17:39:42.789Z - info: Website regeneration complete! Total build time: 0.174s
+2022-09-23T17:41:08.747Z - info: [1:41:08 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:41:08.747Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:41:08.747Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:41:08.747Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:41:09.755Z - info: Rebuilding 1 pages
+2022-09-23T17:41:09.940Z - info: Site data built
+2022-09-23T17:41:09.941Z - info: Pages rebuilt
+2022-09-23T17:41:09.941Z - info: Website regeneration complete! Total build time: 0.187s
+2022-09-23T17:41:46.017Z - info: [1:41:46 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:41:46.017Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:41:46.018Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:41:46.018Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:41:47.029Z - info: Rebuilding 1 pages
+2022-09-23T17:41:47.288Z - info: Site data built
+2022-09-23T17:41:47.288Z - info: Pages rebuilt
+2022-09-23T17:41:47.289Z - info: Website regeneration complete! Total build time: 0.26s
+2022-09-23T17:41:59.086Z - info: [1:41:59 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:41:59.086Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:41:59.086Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:41:59.087Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:42:00.102Z - info: Rebuilding 1 pages
+2022-09-23T17:42:00.342Z - info: Site data built
+2022-09-23T17:42:00.342Z - info: Pages rebuilt
+2022-09-23T17:42:00.342Z - info: Website regeneration complete! Total build time: 0.241s
+2022-09-23T17:42:08.564Z - info: [1:42:08 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:42:08.565Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:42:08.565Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:42:08.565Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:42:09.576Z - info: Rebuilding 1 pages
+2022-09-23T17:42:09.747Z - info: Site data built
+2022-09-23T17:42:09.748Z - info: Pages rebuilt
+2022-09-23T17:42:09.748Z - info: Website regeneration complete! Total build time: 0.172s
+2022-09-23T17:43:44.508Z - info: [1:43:44 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:43:44.509Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:43:44.509Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:43:44.509Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:43:45.517Z - info: Rebuilding 1 pages
+2022-09-23T17:43:45.702Z - info: Site data built
+2022-09-23T17:43:45.703Z - info: Pages rebuilt
+2022-09-23T17:43:45.703Z - info: Website regeneration complete! Total build time: 0.187s
+2022-09-23T17:45:38.968Z - info: [1:45:38 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:45:38.968Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:45:38.969Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:45:38.969Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:45:39.988Z - info: Rebuilding 1 pages
+2022-09-23T17:45:40.168Z - info: Site data built
+2022-09-23T17:45:40.168Z - info: Pages rebuilt
+2022-09-23T17:45:40.168Z - info: Website regeneration complete! Total build time: 0.181s
+2022-09-23T17:46:38.554Z - info: [1:46:38 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:46:38.554Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:46:38.554Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:46:38.555Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:46:39.570Z - info: Rebuilding 1 pages
+2022-09-23T17:46:39.784Z - info: Site data built
+2022-09-23T17:46:39.784Z - info: Pages rebuilt
+2022-09-23T17:46:39.784Z - info: Website regeneration complete! Total build time: 0.215s
+2022-09-23T17:46:51.551Z - info: [1:46:51 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:46:51.551Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:46:51.551Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:46:51.551Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:46:52.566Z - info: Rebuilding 1 pages
+2022-09-23T17:46:52.725Z - info: Site data built
+2022-09-23T17:46:52.725Z - info: Pages rebuilt
+2022-09-23T17:46:52.725Z - info: Website regeneration complete! Total build time: 0.16s
+2022-09-23T17:47:40.467Z - info: [1:47:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:47:40.467Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:47:40.467Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:47:40.467Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:47:41.489Z - info: Rebuilding 1 pages
+2022-09-23T17:47:41.653Z - info: Site data built
+2022-09-23T17:47:41.653Z - info: Pages rebuilt
+2022-09-23T17:47:41.653Z - info: Website regeneration complete! Total build time: 0.165s
+2022-09-23T17:48:47.201Z - info: [1:48:47 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:48:47.202Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:48:47.202Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:48:47.203Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:48:48.219Z - info: Rebuilding 1 pages
+2022-09-23T17:48:48.386Z - info: Site data built
+2022-09-23T17:48:48.387Z - info: Pages rebuilt
+2022-09-23T17:48:48.387Z - info: Website regeneration complete! Total build time: 0.169s
+2022-09-23T17:49:26.385Z - info: [1:49:26 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-23T17:49:26.386Z - info: Synchronizing opened pages list before reload
+2022-09-23T17:49:26.386Z - info: Current opened pages, from most-to-least recent:
+2022-09-23T17:49:26.386Z - info: 1. admin/overview-for-teachers
+2022-09-23T17:49:27.401Z - info: Rebuilding 1 pages
+2022-09-23T17:49:27.560Z - info: Site data built
+2022-09-23T17:49:27.560Z - info: Pages rebuilt
+2022-09-23T17:49:27.560Z - info: Website regeneration complete! Total build time: 0.16s
+2022-09-24T07:51:07.396Z - info: Website generation (lazy) started at 3:51:04 pm
+2022-09-24T07:51:21.400Z - info: Building assets...
+2022-09-24T07:51:30.673Z - info: Assets built
+2022-09-24T07:51:30.674Z - info: Generating landing page...
+2022-09-24T07:51:33.198Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-09-24T07:51:35.389Z - info: Site data built
+2022-09-24T07:51:35.390Z - info: Website generation (lazy) complete! Total build time: 30.501s
+2022-09-24T07:51:37.272Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-09-24T07:51:37.273Z - info: Press CTRL+C to stop ...
+2022-09-24T07:52:55.368Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\mid-semester-survey-results as some of its dependencies were changed since the last visit
+2022-09-24T07:52:56.244Z - info: Site data built
+2022-09-24T07:52:56.244Z - info: Lazy website regeneration complete! Total build time: 0.878s
+2022-09-24T08:06:31.139Z - info: [4:06:31 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T08:06:31.139Z - info: Synchronizing opened pages list before reload
+2022-09-24T08:06:31.139Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T08:06:31.139Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T08:06:32.156Z - info: Rebuilding 1 pages
+2022-09-24T08:06:32.524Z - info: Site data built
+2022-09-24T08:06:32.525Z - info: Pages rebuilt
+2022-09-24T08:06:32.525Z - info: Website regeneration complete! Total build time: 0.37s
+2022-09-24T08:07:15.046Z - info: [4:07:15 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T08:07:15.046Z - info: Synchronizing opened pages list before reload
+2022-09-24T08:07:15.046Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T08:07:15.046Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T08:07:16.053Z - info: Rebuilding 1 pages
+2022-09-24T08:07:16.302Z - info: Site data built
+2022-09-24T08:07:16.303Z - info: Pages rebuilt
+2022-09-24T08:07:16.303Z - info: Website regeneration complete! Total build time: 0.251s
+2022-09-24T08:09:10.447Z - info: [4:09:10 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T08:09:10.448Z - info: Synchronizing opened pages list before reload
+2022-09-24T08:09:10.448Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T08:09:10.448Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T08:09:11.461Z - info: Rebuilding 1 pages
+2022-09-24T08:09:11.752Z - info: Site data built
+2022-09-24T08:09:11.753Z - info: Pages rebuilt
+2022-09-24T08:09:11.753Z - info: Website regeneration complete! Total build time: 0.292s
+2022-09-24T08:10:52.904Z - info: [4:10:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T08:10:52.904Z - info: Synchronizing opened pages list before reload
+2022-09-24T08:10:52.904Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T08:10:52.905Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T08:10:53.913Z - info: Rebuilding 1 pages
+2022-09-24T08:10:54.140Z - info: Site data built
+2022-09-24T08:10:54.141Z - info: Pages rebuilt
+2022-09-24T08:10:54.141Z - info: Website regeneration complete! Total build time: 0.228s
+2022-09-24T08:11:59.922Z - info: [4:11:59 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T08:11:59.922Z - info: Synchronizing opened pages list before reload
+2022-09-24T08:11:59.922Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T08:11:59.922Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T08:12:00.925Z - info: Rebuilding 1 pages
+2022-09-24T08:12:01.130Z - info: Site data built
+2022-09-24T08:12:01.130Z - info: Pages rebuilt
+2022-09-24T08:12:01.130Z - info: Website regeneration complete! Total build time: 0.205s
+2022-09-24T08:12:36.816Z - info: [4:12:36 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T08:12:36.816Z - info: Synchronizing opened pages list before reload
+2022-09-24T08:12:36.816Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T08:12:36.816Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T08:12:37.831Z - info: Rebuilding 1 pages
+2022-09-24T08:12:38.119Z - info: Site data built
+2022-09-24T08:12:38.119Z - info: Pages rebuilt
+2022-09-24T08:12:38.119Z - info: Website regeneration complete! Total build time: 0.288s
+2022-09-24T08:32:51.738Z - info: [4:32:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T08:32:51.738Z - info: Synchronizing opened pages list before reload
+2022-09-24T08:32:51.738Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T08:32:51.739Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T08:32:52.750Z - info: Rebuilding 1 pages
+2022-09-24T08:32:52.988Z - info: Site data built
+2022-09-24T08:32:52.988Z - info: Pages rebuilt
+2022-09-24T08:32:52.988Z - info: Website regeneration complete! Total build time: 0.239s
+2022-09-24T09:06:12.897Z - info: [5:06:12 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T09:06:12.897Z - info: Synchronizing opened pages list before reload
+2022-09-24T09:06:12.897Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T09:06:12.898Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T09:06:13.912Z - info: Rebuilding 1 pages
+2022-09-24T09:06:14.179Z - info: Site data built
+2022-09-24T09:06:14.180Z - info: Pages rebuilt
+2022-09-24T09:06:14.180Z - info: Website regeneration complete! Total build time: 0.269s
+2022-09-24T09:12:56.939Z - info: [5:12:56 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T09:12:56.939Z - info: Synchronizing opened pages list before reload
+2022-09-24T09:12:56.940Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T09:12:56.940Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T09:12:57.948Z - info: Rebuilding 1 pages
+2022-09-24T09:12:58.278Z - info: Site data built
+2022-09-24T09:12:58.279Z - info: Pages rebuilt
+2022-09-24T09:12:58.279Z - info: Website regeneration complete! Total build time: 0.332s
+2022-09-24T09:15:39.853Z - info: [5:15:39 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T09:15:39.853Z - info: Synchronizing opened pages list before reload
+2022-09-24T09:15:39.854Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T09:15:39.854Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T09:15:40.862Z - info: Rebuilding 1 pages
+2022-09-24T09:15:41.047Z - info: Site data built
+2022-09-24T09:15:41.047Z - info: Pages rebuilt
+2022-09-24T09:15:41.047Z - info: Website regeneration complete! Total build time: 0.185s
+2022-09-24T09:18:37.097Z - info: [5:18:37 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T09:18:37.097Z - info: Synchronizing opened pages list before reload
+2022-09-24T09:18:37.097Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T09:18:37.097Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T09:18:38.111Z - info: Rebuilding 1 pages
+2022-09-24T09:18:38.284Z - info: Site data built
+2022-09-24T09:18:38.284Z - info: Pages rebuilt
+2022-09-24T09:18:38.285Z - info: Website regeneration complete! Total build time: 0.174s
+2022-09-24T09:19:58.721Z - info: [5:19:58 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T09:19:58.721Z - info: Synchronizing opened pages list before reload
+2022-09-24T09:19:58.721Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T09:19:58.721Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T09:19:59.729Z - info: Rebuilding 1 pages
+2022-09-24T09:19:59.952Z - info: Site data built
+2022-09-24T09:19:59.952Z - info: Pages rebuilt
+2022-09-24T09:19:59.952Z - info: Website regeneration complete! Total build time: 0.224s
+2022-09-24T09:23:20.523Z - info: [5:23:20 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T09:23:20.523Z - info: Synchronizing opened pages list before reload
+2022-09-24T09:23:20.524Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T09:23:20.524Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T09:23:21.537Z - info: Rebuilding 1 pages
+2022-09-24T09:23:21.714Z - info: Site data built
+2022-09-24T09:23:21.714Z - info: Pages rebuilt
+2022-09-24T09:23:21.715Z - info: Website regeneration complete! Total build time: 0.179s
+2022-09-24T09:25:52.734Z - info: [5:25:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T09:25:52.734Z - info: Synchronizing opened pages list before reload
+2022-09-24T09:25:52.734Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T09:25:52.735Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T09:25:53.742Z - info: Rebuilding 1 pages
+2022-09-24T09:25:53.937Z - info: Site data built
+2022-09-24T09:25:53.937Z - info: Pages rebuilt
+2022-09-24T09:25:53.937Z - info: Website regeneration complete! Total build time: 0.196s
+2022-09-24T09:28:43.122Z - info: [5:28:43 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T09:28:43.122Z - info: Synchronizing opened pages list before reload
+2022-09-24T09:28:43.122Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T09:28:43.123Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T09:28:44.137Z - info: Rebuilding 1 pages
+2022-09-24T09:28:44.487Z - info: Site data built
+2022-09-24T09:28:44.487Z - info: Pages rebuilt
+2022-09-24T09:28:44.487Z - info: Website regeneration complete! Total build time: 0.352s
+2022-09-24T09:36:28.777Z - info: [5:36:28 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T09:36:28.777Z - info: Synchronizing opened pages list before reload
+2022-09-24T09:36:28.777Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T09:36:28.778Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T09:36:29.786Z - info: Rebuilding 1 pages
+2022-09-24T09:36:29.958Z - info: Site data built
+2022-09-24T09:36:29.959Z - info: Pages rebuilt
+2022-09-24T09:36:29.959Z - info: Website regeneration complete! Total build time: 0.173s
+2022-09-24T09:37:59.916Z - info: [5:37:59 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T09:37:59.917Z - info: Synchronizing opened pages list before reload
+2022-09-24T09:37:59.917Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T09:37:59.917Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T09:38:00.930Z - info: Rebuilding 1 pages
+2022-09-24T09:38:01.156Z - info: Site data built
+2022-09-24T09:38:01.157Z - info: Pages rebuilt
+2022-09-24T09:38:01.157Z - info: Website regeneration complete! Total build time: 0.228s
+2022-09-24T09:47:15.595Z - info: [5:47:15 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T09:47:15.595Z - info: Synchronizing opened pages list before reload
+2022-09-24T09:47:15.595Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T09:47:15.595Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T09:47:16.600Z - info: Rebuilding 1 pages
+2022-09-24T09:47:16.882Z - info: Site data built
+2022-09-24T09:47:16.882Z - info: Pages rebuilt
+2022-09-24T09:47:16.882Z - info: Website regeneration complete! Total build time: 0.282s
+2022-09-24T10:01:51.482Z - info: [6:01:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T10:01:51.482Z - info: Synchronizing opened pages list before reload
+2022-09-24T10:01:51.482Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T10:01:51.482Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T10:01:52.488Z - info: Rebuilding 1 pages
+2022-09-24T10:01:52.654Z - info: Site data built
+2022-09-24T10:01:52.654Z - info: Pages rebuilt
+2022-09-24T10:01:52.654Z - info: Website regeneration complete! Total build time: 0.166s
+2022-09-24T10:04:23.661Z - info: [6:04:23 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T10:04:23.661Z - info: Synchronizing opened pages list before reload
+2022-09-24T10:04:23.661Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T10:04:23.661Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T10:04:24.668Z - info: Rebuilding 1 pages
+2022-09-24T10:04:24.840Z - info: Site data built
+2022-09-24T10:04:24.840Z - info: Pages rebuilt
+2022-09-24T10:04:24.840Z - info: Website regeneration complete! Total build time: 0.172s
+2022-09-24T10:08:12.157Z - info: [6:08:12 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T10:08:12.157Z - info: Synchronizing opened pages list before reload
+2022-09-24T10:08:12.157Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T10:08:12.157Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T10:08:13.167Z - info: Rebuilding 1 pages
+2022-09-24T10:08:13.480Z - info: Site data built
+2022-09-24T10:08:13.480Z - info: Pages rebuilt
+2022-09-24T10:08:13.480Z - info: Website regeneration complete! Total build time: 0.314s
+2022-09-24T10:12:58.997Z - info: [6:12:58 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T10:12:58.997Z - info: Synchronizing opened pages list before reload
+2022-09-24T10:12:58.997Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T10:12:58.997Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T10:13:00.002Z - info: Rebuilding 1 pages
+2022-09-24T10:13:00.264Z - info: Site data built
+2022-09-24T10:13:00.264Z - info: Pages rebuilt
+2022-09-24T10:13:00.264Z - info: Website regeneration complete! Total build time: 0.262s
+2022-09-24T10:14:56.250Z - info: [6:14:56 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T10:14:56.250Z - info: Synchronizing opened pages list before reload
+2022-09-24T10:14:56.250Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T10:14:56.250Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T10:14:57.259Z - info: Rebuilding 1 pages
+2022-09-24T10:14:57.470Z - info: Site data built
+2022-09-24T10:14:57.471Z - info: Pages rebuilt
+2022-09-24T10:14:57.471Z - info: Website regeneration complete! Total build time: 0.212s
+2022-09-24T10:16:29.218Z - info: [6:16:29 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T10:16:29.218Z - info: Synchronizing opened pages list before reload
+2022-09-24T10:16:29.218Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T10:16:29.218Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T10:16:30.223Z - info: Rebuilding 1 pages
+2022-09-24T10:16:30.452Z - info: Site data built
+2022-09-24T10:16:30.452Z - info: Pages rebuilt
+2022-09-24T10:16:30.452Z - info: Website regeneration complete! Total build time: 0.23s
+2022-09-24T10:17:42.140Z - info: [6:17:42 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T10:17:42.140Z - info: Synchronizing opened pages list before reload
+2022-09-24T10:17:42.140Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T10:17:42.140Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T10:17:43.143Z - info: Rebuilding 1 pages
+2022-09-24T10:17:43.332Z - info: Site data built
+2022-09-24T10:17:43.332Z - info: Pages rebuilt
+2022-09-24T10:17:43.332Z - info: Website regeneration complete! Total build time: 0.19s
+2022-09-24T10:18:51.761Z - info: [6:18:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T10:18:51.762Z - info: Synchronizing opened pages list before reload
+2022-09-24T10:18:51.762Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T10:18:51.762Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T10:18:52.773Z - info: Rebuilding 1 pages
+2022-09-24T10:18:52.931Z - info: Site data built
+2022-09-24T10:18:52.932Z - info: Pages rebuilt
+2022-09-24T10:18:52.932Z - info: Website regeneration complete! Total build time: 0.16s
+2022-09-24T12:45:55.023Z - info: Website generation (lazy) started at 8:45:52 pm
+2022-09-24T12:46:08.282Z - info: Building assets...
+2022-09-24T12:46:17.096Z - info: Assets built
+2022-09-24T12:46:17.097Z - info: Generating landing page...
+2022-09-24T12:46:19.202Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-09-24T12:46:20.318Z - info: Site data built
+2022-09-24T12:46:20.318Z - info: Website generation (lazy) complete! Total build time: 27.482s
+2022-09-24T12:46:21.293Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-09-24T12:46:21.293Z - info: Press CTRL+C to stop ...
+2022-09-24T12:47:17.565Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\mid-semester-survey-results as some of its dependencies were changed since the last visit
+2022-09-24T12:47:18.137Z - info: Site data built
+2022-09-24T12:47:18.138Z - info: Lazy website regeneration complete! Total build time: 0.574s
+2022-09-24T12:50:13.471Z - info: [8:50:13 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T12:50:13.471Z - info: Synchronizing opened pages list before reload
+2022-09-24T12:50:13.472Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T12:50:13.472Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T12:50:14.493Z - info: Rebuilding 1 pages
+2022-09-24T12:50:14.687Z - info: Site data built
+2022-09-24T12:50:14.688Z - info: Pages rebuilt
+2022-09-24T12:50:14.688Z - info: Website regeneration complete! Total build time: 0.196s
+2022-09-24T12:53:04.247Z - info: [8:53:04 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T12:53:04.248Z - info: Synchronizing opened pages list before reload
+2022-09-24T12:53:04.248Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T12:53:04.248Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T12:53:05.252Z - info: Rebuilding 1 pages
+2022-09-24T12:53:05.488Z - info: Site data built
+2022-09-24T12:53:05.488Z - info: Pages rebuilt
+2022-09-24T12:53:05.488Z - info: Website regeneration complete! Total build time: 0.237s
+2022-09-24T12:54:12.180Z - info: [8:54:12 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T12:54:12.181Z - info: Synchronizing opened pages list before reload
+2022-09-24T12:54:12.181Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T12:54:12.181Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T12:54:13.187Z - info: Rebuilding 1 pages
+2022-09-24T12:54:13.469Z - info: Site data built
+2022-09-24T12:54:13.469Z - info: Pages rebuilt
+2022-09-24T12:54:13.469Z - info: Website regeneration complete! Total build time: 0.283s
+2022-09-24T12:57:11.897Z - info: [8:57:11 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T12:57:11.897Z - info: Synchronizing opened pages list before reload
+2022-09-24T12:57:11.898Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T12:57:11.898Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T12:57:12.919Z - info: Rebuilding 1 pages
+2022-09-24T12:57:13.120Z - info: Site data built
+2022-09-24T12:57:13.120Z - info: Pages rebuilt
+2022-09-24T12:57:13.120Z - info: Website regeneration complete! Total build time: 0.202s
+2022-09-24T12:58:33.960Z - info: [8:58:33 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T12:58:33.960Z - info: Synchronizing opened pages list before reload
+2022-09-24T12:58:33.960Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T12:58:33.961Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T12:58:34.962Z - info: Rebuilding 1 pages
+2022-09-24T12:58:35.141Z - info: Site data built
+2022-09-24T12:58:35.141Z - info: Pages rebuilt
+2022-09-24T12:58:35.141Z - info: Website regeneration complete! Total build time: 0.18s
+2022-09-24T13:00:51.479Z - info: [9:00:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T13:00:51.479Z - info: Synchronizing opened pages list before reload
+2022-09-24T13:00:51.479Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T13:00:51.479Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T13:00:52.481Z - info: Rebuilding 1 pages
+2022-09-24T13:00:52.661Z - info: Site data built
+2022-09-24T13:00:52.661Z - info: Pages rebuilt
+2022-09-24T13:00:52.661Z - info: Website regeneration complete! Total build time: 0.181s
+2022-09-24T13:03:32.792Z - info: [9:03:32 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T13:03:32.792Z - info: Synchronizing opened pages list before reload
+2022-09-24T13:03:32.792Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T13:03:32.792Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T13:03:33.810Z - info: Rebuilding 1 pages
+2022-09-24T13:03:33.957Z - info: Site data built
+2022-09-24T13:03:33.957Z - info: Pages rebuilt
+2022-09-24T13:03:33.957Z - info: Website regeneration complete! Total build time: 0.147s
+2022-09-24T13:04:15.007Z - info: [9:04:15 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T13:04:15.007Z - info: Synchronizing opened pages list before reload
+2022-09-24T13:04:15.007Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T13:04:15.007Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T13:04:16.024Z - info: Rebuilding 1 pages
+2022-09-24T13:04:16.217Z - info: Site data built
+2022-09-24T13:04:16.217Z - info: Pages rebuilt
+2022-09-24T13:04:16.217Z - info: Website regeneration complete! Total build time: 0.194s
+2022-09-24T13:06:31.303Z - info: [9:06:31 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T13:06:31.304Z - info: Synchronizing opened pages list before reload
+2022-09-24T13:06:31.304Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T13:06:31.304Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T13:06:32.316Z - info: Rebuilding 1 pages
+2022-09-24T13:06:32.548Z - info: Site data built
+2022-09-24T13:06:32.548Z - info: Pages rebuilt
+2022-09-24T13:06:32.548Z - info: Website regeneration complete! Total build time: 0.233s
+2022-09-24T13:07:21.780Z - info: [9:07:21 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T13:07:21.780Z - info: Synchronizing opened pages list before reload
+2022-09-24T13:07:21.780Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T13:07:21.780Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T13:07:22.795Z - info: Rebuilding 1 pages
+2022-09-24T13:07:22.978Z - info: Site data built
+2022-09-24T13:07:22.978Z - info: Pages rebuilt
+2022-09-24T13:07:22.978Z - info: Website regeneration complete! Total build time: 0.184s
+2022-09-24T13:08:32.790Z - info: [9:08:32 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T13:08:32.790Z - info: Synchronizing opened pages list before reload
+2022-09-24T13:08:32.790Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T13:08:32.790Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T13:08:33.799Z - info: Rebuilding 1 pages
+2022-09-24T13:08:34.012Z - info: Site data built
+2022-09-24T13:08:34.012Z - info: Pages rebuilt
+2022-09-24T13:08:34.012Z - info: Website regeneration complete! Total build time: 0.213s
+2022-09-24T13:10:02.712Z - info: [9:10:02 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T13:10:02.712Z - info: Synchronizing opened pages list before reload
+2022-09-24T13:10:02.712Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T13:10:02.712Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T13:10:03.716Z - info: Rebuilding 1 pages
+2022-09-24T13:10:03.997Z - info: Site data built
+2022-09-24T13:10:03.997Z - info: Pages rebuilt
+2022-09-24T13:10:03.998Z - info: Website regeneration complete! Total build time: 0.282s
+2022-09-24T13:10:30.758Z - info: [9:10:30 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T13:10:30.758Z - info: Synchronizing opened pages list before reload
+2022-09-24T13:10:30.758Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T13:10:30.758Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T13:10:31.774Z - info: Rebuilding 1 pages
+2022-09-24T13:10:31.949Z - info: Site data built
+2022-09-24T13:10:31.950Z - info: Pages rebuilt
+2022-09-24T13:10:31.950Z - info: Website regeneration complete! Total build time: 0.177s
+2022-09-24T13:12:23.549Z - info: [9:12:23 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\mid-semester-survey-results.md
+2022-09-24T13:12:23.549Z - info: Synchronizing opened pages list before reload
+2022-09-24T13:12:23.549Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T13:12:23.549Z - info: 1. admin/mid-semester-survey-results
+2022-09-24T13:12:24.552Z - info: Rebuilding 1 pages
+2022-09-24T13:12:24.761Z - info: Site data built
+2022-09-24T13:12:24.761Z - info: Pages rebuilt
+2022-09-24T13:12:24.761Z - info: Website regeneration complete! Total build time: 0.209s
+2022-09-24T13:22:54.233Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers as some of its dependencies were changed since the last visit
+2022-09-24T13:22:54.772Z - info: Site data built
+2022-09-24T13:22:54.772Z - info: Lazy website regeneration complete! Total build time: 0.539s
+2022-09-24T13:22:55.722Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers as some of its dependencies were changed since the last visit
+2022-09-24T13:22:55.917Z - info: Site data built
+2022-09-24T13:22:55.918Z - info: Lazy website regeneration complete! Total build time: 0.196s
+2022-09-24T13:24:54.313Z - info: [9:24:54 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T13:24:54.313Z - info: Synchronizing opened pages list before reload
+2022-09-24T13:24:54.313Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T13:24:54.314Z - info: 1. admin/overview-for-teachers
+2022-09-24T13:24:55.320Z - info: Rebuilding 1 pages
+2022-09-24T13:24:55.517Z - info: Site data built
+2022-09-24T13:24:55.518Z - info: Pages rebuilt
+2022-09-24T13:24:55.518Z - info: Website regeneration complete! Total build time: 0.199s
+2022-09-24T13:26:33.711Z - info: [9:26:33 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T13:26:33.711Z - info: Synchronizing opened pages list before reload
+2022-09-24T13:26:33.711Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T13:26:33.711Z - info: 1. admin/overview-for-teachers
+2022-09-24T13:26:34.717Z - info: Rebuilding 1 pages
+2022-09-24T13:26:34.912Z - info: Site data built
+2022-09-24T13:26:34.912Z - info: Pages rebuilt
+2022-09-24T13:26:34.912Z - info: Website regeneration complete! Total build time: 0.196s
+2022-09-24T13:35:01.747Z - info: [9:35:01 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T13:35:01.747Z - info: Synchronizing opened pages list before reload
+2022-09-24T13:35:01.748Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T13:35:01.748Z - info: 1. admin/overview-for-teachers
+2022-09-24T13:35:02.766Z - info: Rebuilding 1 pages
+2022-09-24T13:35:02.955Z - info: Site data built
+2022-09-24T13:35:02.956Z - info: Pages rebuilt
+2022-09-24T13:35:02.956Z - info: Website regeneration complete! Total build time: 0.192s
+2022-09-24T13:36:16.105Z - info: [9:36:16 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T13:36:16.106Z - info: Synchronizing opened pages list before reload
+2022-09-24T13:36:16.106Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T13:36:16.106Z - info: 1. admin/overview-for-teachers
+2022-09-24T13:36:17.125Z - info: Rebuilding 1 pages
+2022-09-24T13:36:17.297Z - info: Site data built
+2022-09-24T13:36:17.297Z - info: Pages rebuilt
+2022-09-24T13:36:17.297Z - info: Website regeneration complete! Total build time: 0.173s
+2022-09-24T14:11:28.846Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\index as some of its dependencies were changed since the last visit
+2022-09-24T14:11:30.235Z - info: Site data built
+2022-09-24T14:11:30.235Z - info: Lazy website regeneration complete! Total build time: 1.392s
+2022-09-24T14:11:39.571Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-timeline as some of its dependencies were changed since the last visit
+2022-09-24T14:11:40.051Z - info: Site data built
+2022-09-24T14:11:40.051Z - info: Lazy website regeneration complete! Total build time: 0.48s
+2022-09-24T14:11:44.132Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\gradeBreakdown as some of its dependencies were changed since the last visit
+2022-09-24T14:11:46.485Z - debug:  
+2022-09-24T14:11:46.579Z - debug:  
+2022-09-24T14:11:46.714Z - info: Site data built
+2022-09-24T14:11:46.715Z - info: Lazy website regeneration complete! Total build time: 2.584s
+2022-09-24T14:11:48.752Z - debug:  
+2022-09-24T14:14:03.819Z - info: [10:14:03 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:14:03.819Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:14:03.819Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:14:03.820Z - info: 1. admin/overview-for-teachers
+2022-09-24T14:14:04.838Z - info: Rebuilding 1 pages
+2022-09-24T14:14:05.151Z - info: Site data built
+2022-09-24T14:14:05.151Z - info: Pages rebuilt
+2022-09-24T14:14:05.152Z - info: Website regeneration complete! Total build time: 0.315s
+2022-09-24T14:20:43.438Z - info: [10:20:43 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:20:43.438Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:20:43.439Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:20:43.439Z - info: 1. admin/overview-for-teachers
+2022-09-24T14:20:44.448Z - info: Rebuilding 1 pages
+2022-09-24T14:20:44.718Z - info: Site data built
+2022-09-24T14:20:44.719Z - info: Pages rebuilt
+2022-09-24T14:20:44.719Z - info: Website regeneration complete! Total build time: 0.272s
+2022-09-24T14:21:51.663Z - info: [10:21:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:21:51.664Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:21:51.664Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:21:51.665Z - info: 1. admin/overview-for-teachers
+2022-09-24T14:21:52.683Z - info: Rebuilding 1 pages
+2022-09-24T14:21:52.974Z - info: Site data built
+2022-09-24T14:21:52.975Z - info: Pages rebuilt
+2022-09-24T14:21:52.975Z - info: Website regeneration complete! Total build time: 0.292s
+2022-09-24T14:22:48.255Z - info: [10:22:48 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:22:48.255Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:22:48.256Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:22:48.256Z - info: 1. admin/overview-for-teachers
+2022-09-24T14:22:49.263Z - info: Rebuilding 1 pages
+2022-09-24T14:22:49.518Z - info: Site data built
+2022-09-24T14:22:49.518Z - info: Pages rebuilt
+2022-09-24T14:22:49.518Z - info: Website regeneration complete! Total build time: 0.257s
+2022-09-24T14:25:14.127Z - info: [10:25:14 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:25:14.128Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:25:14.128Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:25:14.128Z - info: 1. admin/overview-for-teachers
+2022-09-24T14:25:15.130Z - info: Rebuilding 1 pages
+2022-09-24T14:25:15.384Z - info: Site data built
+2022-09-24T14:25:15.384Z - info: Pages rebuilt
+2022-09-24T14:25:15.385Z - info: Website regeneration complete! Total build time: 0.256s
+2022-09-24T14:25:31.308Z - info: [10:25:31 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:25:31.308Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:25:31.308Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:25:31.309Z - info: 1. admin/overview-for-teachers
+2022-09-24T14:25:32.338Z - info: Rebuilding 1 pages
+2022-09-24T14:25:32.610Z - info: Site data built
+2022-09-24T14:25:32.610Z - info: Pages rebuilt
+2022-09-24T14:25:32.610Z - info: Website regeneration complete! Total build time: 0.274s
+2022-09-24T14:25:38.237Z - info: [10:25:38 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:25:38.238Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:25:38.238Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:25:38.238Z - info: 1. admin/overview-for-teachers
+2022-09-24T14:25:39.255Z - info: Rebuilding 1 pages
+2022-09-24T14:25:39.481Z - info: Site data built
+2022-09-24T14:25:39.481Z - info: Pages rebuilt
+2022-09-24T14:25:39.481Z - info: Website regeneration complete! Total build time: 0.227s
+2022-09-24T14:26:03.335Z - info: [10:26:03 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:26:03.335Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:26:03.336Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:26:03.336Z - info: 1. admin/overview-for-teachers
+2022-09-24T14:26:04.360Z - info: Rebuilding 1 pages
+2022-09-24T14:26:04.505Z - info: Site data built
+2022-09-24T14:26:04.506Z - info: Pages rebuilt
+2022-09-24T14:26:04.506Z - info: Website regeneration complete! Total build time: 0.147s
+2022-09-24T14:26:17.910Z - info: [10:26:17 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:26:17.911Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:26:17.911Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:26:17.911Z - info: 1. admin/overview-for-teachers
+2022-09-24T14:26:18.920Z - info: Rebuilding 1 pages
+2022-09-24T14:26:19.078Z - info: Site data built
+2022-09-24T14:26:19.078Z - info: Pages rebuilt
+2022-09-24T14:26:19.078Z - info: Website regeneration complete! Total build time: 0.158s
+2022-09-24T14:26:56.084Z - info: [10:26:56 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:26:56.085Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:26:56.085Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:26:56.086Z - info: 1. admin/overview-for-teachers
+2022-09-24T14:26:57.092Z - info: Rebuilding 1 pages
+2022-09-24T14:26:57.366Z - info: Site data built
+2022-09-24T14:26:57.366Z - info: Pages rebuilt
+2022-09-24T14:26:57.367Z - info: Website regeneration complete! Total build time: 0.275s
+2022-09-24T14:27:09.506Z - info: [10:27:09 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:27:09.506Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:27:09.507Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:27:09.507Z - info: 1. admin/overview-for-teachers
+2022-09-24T14:27:10.518Z - info: Rebuilding 1 pages
+2022-09-24T14:27:10.631Z - info: Site data built
+2022-09-24T14:27:10.631Z - info: Pages rebuilt
+2022-09-24T14:27:10.631Z - info: Website regeneration complete! Total build time: 0.113s
+2022-09-24T14:27:20.881Z - info: [10:27:20 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:27:20.882Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:27:20.883Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:27:20.883Z - info: 1. admin/overview-for-teachers
+2022-09-24T14:27:21.895Z - info: Rebuilding 1 pages
+2022-09-24T14:27:22.105Z - info: Site data built
+2022-09-24T14:27:22.105Z - info: Pages rebuilt
+2022-09-24T14:27:22.105Z - info: Website regeneration complete! Total build time: 0.211s
+2022-09-24T14:27:55.435Z - info: [10:27:55 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:27:55.435Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:27:55.435Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:27:55.436Z - info: 1. admin/overview-for-teachers
+2022-09-24T14:27:56.450Z - info: Rebuilding 1 pages
+2022-09-24T14:27:56.682Z - info: Site data built
+2022-09-24T14:27:56.683Z - info: Pages rebuilt
+2022-09-24T14:27:56.683Z - info: Website regeneration complete! Total build time: 0.234s
+2022-09-24T14:28:36.339Z - info: [10:28:36 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:28:36.339Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:28:36.339Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:28:36.339Z - info: 1. admin/overview-for-teachers
+2022-09-24T14:28:37.350Z - info: Rebuilding 1 pages
+2022-09-24T14:28:37.501Z - info: Site data built
+2022-09-24T14:28:37.502Z - info: Pages rebuilt
+2022-09-24T14:28:37.502Z - info: Website regeneration complete! Total build time: 0.152s
+2022-09-24T14:30:54.926Z - info: [10:30:54 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:30:54.926Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:30:54.926Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:30:54.926Z - info: 1. admin/overview-for-teachers
+2022-09-24T14:30:55.940Z - info: Rebuilding 1 pages
+2022-09-24T14:30:56.449Z - info: Site data built
+2022-09-24T14:30:56.450Z - info: Pages rebuilt
+2022-09-24T14:30:56.450Z - info: Website regeneration complete! Total build time: 0.511s
+2022-09-24T14:31:11.040Z - info: [10:31:11 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:31:11.040Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:31:11.041Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:31:11.041Z - info: 1. admin/overview-for-teachers
+2022-09-24T14:31:12.056Z - info: Rebuilding 1 pages
+2022-09-24T14:31:12.206Z - info: Site data built
+2022-09-24T14:31:12.206Z - info: Pages rebuilt
+2022-09-24T14:31:12.206Z - info: Website regeneration complete! Total build time: 0.15s
+2022-09-24T14:32:52.206Z - info: [10:32:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:32:52.206Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:32:52.206Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:32:52.207Z - info: 1. admin/overview-for-teachers
+2022-09-24T14:32:53.226Z - info: Rebuilding 1 pages
+2022-09-24T14:32:53.441Z - info: Site data built
+2022-09-24T14:32:53.442Z - info: Pages rebuilt
+2022-09-24T14:32:53.442Z - info: Website regeneration complete! Total build time: 0.217s
+2022-09-24T14:33:56.900Z - info: [10:33:56 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:33:56.901Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:33:56.903Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:33:56.903Z - info: 1. admin/overview-for-teachers
+2022-09-24T14:33:57.912Z - info: Rebuilding 1 pages
+2022-09-24T14:33:58.291Z - info: Site data built
+2022-09-24T14:33:58.292Z - info: Pages rebuilt
+2022-09-24T14:33:58.292Z - info: Website regeneration complete! Total build time: 0.381s
+2022-09-24T14:37:34.051Z - info: [10:37:34 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:37:34.051Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:37:34.052Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:37:34.052Z - info: 1. admin/overview-for-teachers
+2022-09-24T14:37:35.059Z - info: Rebuilding 1 pages
+2022-09-24T14:37:35.344Z - info: Site data built
+2022-09-24T14:37:35.344Z - info: Pages rebuilt
+2022-09-24T14:37:35.344Z - info: Website regeneration complete! Total build time: 0.286s
+2022-09-24T14:39:50.084Z - info: [10:39:50 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:39:50.085Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:39:50.085Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:39:50.085Z - info: 1. admin/overview-for-teachers
+2022-09-24T14:39:51.091Z - info: Rebuilding 1 pages
+2022-09-24T14:39:51.236Z - info: Site data built
+2022-09-24T14:39:51.236Z - info: Pages rebuilt
+2022-09-24T14:39:51.237Z - info: Website regeneration complete! Total build time: 0.146s
+2022-09-24T14:40:38.713Z - info: [10:40:38 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:40:38.713Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:40:38.713Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:40:38.713Z - info: 1. admin/overview-for-teachers
+2022-09-24T14:40:39.739Z - info: Rebuilding 1 pages
+2022-09-24T14:40:39.942Z - info: Site data built
+2022-09-24T14:40:39.942Z - info: Pages rebuilt
+2022-09-24T14:40:39.943Z - info: Website regeneration complete! Total build time: 0.207s
+2022-09-24T14:42:09.247Z - info: [10:42:09 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:42:09.247Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:42:09.247Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:42:09.247Z - info: 1. admin/overview-for-teachers
+2022-09-24T14:42:10.261Z - info: Rebuilding 1 pages
+2022-09-24T14:42:10.396Z - info: Site data built
+2022-09-24T14:42:10.396Z - info: Pages rebuilt
+2022-09-24T14:42:10.396Z - info: Website regeneration complete! Total build time: 0.135s
+2022-09-24T14:43:03.907Z - info: [10:43:03 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:43:03.907Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:43:03.907Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:43:03.907Z - info: 1. admin/overview-for-teachers
+2022-09-24T14:43:04.913Z - info: Rebuilding 1 pages
+2022-09-24T14:43:05.088Z - info: Site data built
+2022-09-24T14:43:05.088Z - info: Pages rebuilt
+2022-09-24T14:43:05.088Z - info: Website regeneration complete! Total build time: 0.175s
+2022-09-24T14:46:02.974Z - info: [10:46:02 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:46:02.975Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:46:02.975Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:46:02.975Z - info: 1. admin/overview-for-teachers
+2022-09-24T14:46:03.980Z - info: Rebuilding 1 pages
+2022-09-24T14:46:04.314Z - info: Site data built
+2022-09-24T14:46:04.314Z - info: Pages rebuilt
+2022-09-24T14:46:04.314Z - info: Website regeneration complete! Total build time: 0.335s
+2022-09-24T14:46:14.845Z - info: [10:46:14 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:46:14.846Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:46:14.846Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:46:14.846Z - info: 1. admin/overview-for-teachers
+2022-09-24T14:46:15.859Z - info: Rebuilding 1 pages
+2022-09-24T14:46:16.056Z - info: Site data built
+2022-09-24T14:46:16.057Z - info: Pages rebuilt
+2022-09-24T14:46:16.057Z - info: Website regeneration complete! Total build time: 0.198s
+2022-09-24T14:46:43.377Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-expectations as some of its dependencies were changed since the last visit
+2022-09-24T14:46:44.102Z - info: Site data built
+2022-09-24T14:46:44.102Z - info: Lazy website regeneration complete! Total build time: 0.726s
+2022-09-24T14:47:10.821Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-grading as some of its dependencies were changed since the last visit
+2022-09-24T14:47:11.849Z - info: Site data built
+2022-09-24T14:47:11.849Z - info: Lazy website regeneration complete! Total build time: 1.028s
+2022-09-24T14:47:46.721Z - info: [10:47:46 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:47:46.722Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:47:46.722Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:47:46.722Z - info: 1. admin/tp-grading
+2022-09-24T14:47:46.723Z - info: 2. admin/overview-for-teachers
+2022-09-24T14:47:47.745Z - info: Rebuilding 1 pages
+2022-09-24T14:47:47.920Z - info: Site data built
+2022-09-24T14:47:47.920Z - info: Pages rebuilt
+2022-09-24T14:47:47.920Z - info: Website regeneration complete! Total build time: 0.176s
+2022-09-24T14:47:55.498Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\participation as some of its dependencies were changed since the last visit
+2022-09-24T14:47:55.864Z - info: Site data built
+2022-09-24T14:47:55.864Z - info: Lazy website regeneration complete! Total build time: 0.367s
+2022-09-24T14:48:30.800Z - info: [10:48:30 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:48:30.800Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:48:30.801Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:48:30.801Z - info: 1. admin/tp-grading
+2022-09-24T14:48:30.801Z - info: 2. admin/overview-for-teachers
+2022-09-24T14:48:31.832Z - info: Rebuilding 1 pages
+2022-09-24T14:48:32.295Z - info: Site data built
+2022-09-24T14:48:32.296Z - info: Pages rebuilt
+2022-09-24T14:48:32.296Z - info: Website regeneration complete! Total build time: 0.465s
+2022-09-24T14:49:14.967Z - info: [10:49:14 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:49:14.967Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:49:14.967Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:49:14.967Z - info: 1. admin/tp-grading
+2022-09-24T14:49:14.968Z - info: 2. admin/overview-for-teachers
+2022-09-24T14:49:15.980Z - info: Rebuilding 1 pages
+2022-09-24T14:49:16.165Z - info: Site data built
+2022-09-24T14:49:16.165Z - info: Pages rebuilt
+2022-09-24T14:49:16.165Z - info: Website regeneration complete! Total build time: 0.186s
+2022-09-24T14:50:27.828Z - info: [10:50:27 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:50:27.828Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:50:27.829Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:50:27.829Z - info: 1. admin/tp-grading
+2022-09-24T14:50:27.829Z - info: 2. admin/overview-for-teachers
+2022-09-24T14:50:28.840Z - info: Rebuilding 1 pages
+2022-09-24T14:50:29.053Z - info: Site data built
+2022-09-24T14:50:29.053Z - info: Pages rebuilt
+2022-09-24T14:50:29.053Z - info: Website regeneration complete! Total build time: 0.213s
+2022-09-24T14:52:22.970Z - info: [10:52:22 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:52:22.971Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:52:22.971Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:52:22.971Z - info: 1. admin/tp-grading
+2022-09-24T14:52:22.971Z - info: 2. admin/overview-for-teachers
+2022-09-24T14:52:23.985Z - info: Rebuilding 1 pages
+2022-09-24T14:52:24.198Z - info: Site data built
+2022-09-24T14:52:24.199Z - info: Pages rebuilt
+2022-09-24T14:52:24.199Z - info: Website regeneration complete! Total build time: 0.214s
+2022-09-24T14:52:35.198Z - info: [10:52:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:52:35.198Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:52:35.199Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:52:35.199Z - info: 1. admin/tp-grading
+2022-09-24T14:52:35.199Z - info: 2. admin/overview-for-teachers
+2022-09-24T14:52:36.220Z - info: Rebuilding 1 pages
+2022-09-24T14:52:36.373Z - info: Site data built
+2022-09-24T14:52:36.373Z - info: Pages rebuilt
+2022-09-24T14:52:36.374Z - info: Website regeneration complete! Total build time: 0.155s
+2022-09-24T14:53:28.219Z - info: [10:53:28 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:53:28.219Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:53:28.219Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:53:28.219Z - info: 1. admin/tp-grading
+2022-09-24T14:53:28.219Z - info: 2. admin/overview-for-teachers
+2022-09-24T14:53:29.230Z - info: Rebuilding 1 pages
+2022-09-24T14:53:29.491Z - info: Site data built
+2022-09-24T14:53:29.491Z - info: Pages rebuilt
+2022-09-24T14:53:29.491Z - info: Website regeneration complete! Total build time: 0.262s
+2022-09-24T14:55:29.978Z - info: [10:55:29 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:55:29.978Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:55:29.979Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:55:29.979Z - info: 1. admin/tp-grading
+2022-09-24T14:55:29.979Z - info: 2. admin/overview-for-teachers
+2022-09-24T14:55:31.003Z - info: Rebuilding 1 pages
+2022-09-24T14:55:31.385Z - info: Site data built
+2022-09-24T14:55:31.385Z - info: Pages rebuilt
+2022-09-24T14:55:31.385Z - info: Website regeneration complete! Total build time: 0.383s
+2022-09-24T14:59:16.699Z - info: [10:59:16 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:59:16.700Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:59:16.700Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:59:16.700Z - info: 1. admin/tp-grading
+2022-09-24T14:59:16.700Z - info: 2. admin/overview-for-teachers
+2022-09-24T14:59:17.707Z - info: Rebuilding 1 pages
+2022-09-24T14:59:17.900Z - info: Site data built
+2022-09-24T14:59:17.901Z - info: Pages rebuilt
+2022-09-24T14:59:17.901Z - info: Website regeneration complete! Total build time: 0.195s
+2022-09-24T14:59:30.014Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\timeline as some of its dependencies were changed since the last visit
+2022-09-24T14:59:38.576Z - info: Site data built
+2022-09-24T14:59:38.578Z - info: Lazy website regeneration complete! Total build time: 8.564s
+2022-09-24T14:59:44.023Z - info: [10:59:44 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T14:59:44.023Z - info: Synchronizing opened pages list before reload
+2022-09-24T14:59:44.023Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T14:59:44.023Z - info: 1. schedule/timeline
+2022-09-24T14:59:44.024Z - info: 2. admin/tp-grading
+2022-09-24T14:59:45.039Z - info: No pages needed to be rebuilt
+2022-09-24T15:02:19.027Z - info: [11:02:19 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:02:19.027Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:02:19.027Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:02:19.027Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:02:19.027Z - info: 2. admin/tp-grading
+2022-09-24T15:02:20.033Z - info: Rebuilding 1 pages
+2022-09-24T15:02:20.396Z - info: Site data built
+2022-09-24T15:02:20.396Z - info: Pages rebuilt
+2022-09-24T15:02:20.396Z - info: Website regeneration complete! Total build time: 0.364s
+2022-09-24T15:02:54.358Z - info: [11:02:54 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:02:54.358Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:02:54.359Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:02:54.359Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:02:54.359Z - info: 2. admin/tp-grading
+2022-09-24T15:02:55.379Z - info: Rebuilding 1 pages
+2022-09-24T15:02:55.535Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\index as some of its dependencies were changed since the last visit
+2022-09-24T15:02:55.975Z - info: Site data built
+2022-09-24T15:02:55.975Z - info: Pages rebuilt
+2022-09-24T15:02:55.975Z - info: Website regeneration complete! Total build time: 0.597s
+2022-09-24T15:02:55.991Z - info: Site data built
+2022-09-24T15:02:55.991Z - info: Lazy website regeneration complete! Total build time: 0.456s
+2022-09-24T15:03:07.097Z - info: [11:03:07 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:03:07.097Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:03:07.098Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:03:07.098Z - info: 1. se-book-adapted/index
+2022-09-24T15:03:07.098Z - info: 2. admin/tp-grading
+2022-09-24T15:03:08.107Z - info: No pages needed to be rebuilt
+2022-09-24T15:03:28.462Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers as some of its dependencies were changed since the last visit
+2022-09-24T15:03:28.809Z - info: Site data built
+2022-09-24T15:03:28.810Z - info: Lazy website regeneration complete! Total build time: 0.347s
+2022-09-24T15:17:25.400Z - info: [11:17:25 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:17:25.401Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:17:25.401Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:17:25.401Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:17:26.422Z - info: Rebuilding 1 pages
+2022-09-24T15:17:26.829Z - info: Site data built
+2022-09-24T15:17:26.830Z - info: Pages rebuilt
+2022-09-24T15:17:26.830Z - info: Website regeneration complete! Total build time: 0.409s
+2022-09-24T15:19:00.590Z - info: [11:19:00 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:19:00.590Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:19:00.590Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:19:00.590Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:19:01.602Z - info: Rebuilding 1 pages
+2022-09-24T15:19:01.956Z - info: Site data built
+2022-09-24T15:19:01.956Z - info: Pages rebuilt
+2022-09-24T15:19:01.956Z - info: Website regeneration complete! Total build time: 0.355s
+2022-09-24T15:21:29.697Z - info: [11:21:29 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:21:29.698Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:21:29.698Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:21:29.698Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:21:30.721Z - info: Rebuilding 1 pages
+2022-09-24T15:21:30.994Z - info: Site data built
+2022-09-24T15:21:30.995Z - info: Pages rebuilt
+2022-09-24T15:21:30.995Z - info: Website regeneration complete! Total build time: 0.275s
+2022-09-24T15:25:34.027Z - info: [11:25:34 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:25:34.027Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:25:34.028Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:25:34.028Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:25:35.057Z - info: Rebuilding 1 pages
+2022-09-24T15:25:35.248Z - info: Site data built
+2022-09-24T15:25:35.248Z - info: Pages rebuilt
+2022-09-24T15:25:35.248Z - info: Website regeneration complete! Total build time: 0.192s
+2022-09-24T15:26:58.082Z - info: [11:26:58 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:26:58.082Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:26:58.082Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:26:58.082Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:26:59.103Z - info: Rebuilding 1 pages
+2022-09-24T15:26:59.292Z - info: Site data built
+2022-09-24T15:26:59.293Z - info: Pages rebuilt
+2022-09-24T15:26:59.293Z - info: Website regeneration complete! Total build time: 0.191s
+2022-09-24T15:27:14.494Z - info: [11:27:14 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:27:14.494Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:27:14.494Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:27:14.494Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:27:15.500Z - info: Rebuilding 1 pages
+2022-09-24T15:27:15.692Z - info: Site data built
+2022-09-24T15:27:15.692Z - info: Pages rebuilt
+2022-09-24T15:27:15.692Z - info: Website regeneration complete! Total build time: 0.192s
+2022-09-24T15:29:39.898Z - info: [11:29:39 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:29:39.899Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:29:39.899Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:29:39.899Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:29:40.916Z - info: Rebuilding 1 pages
+2022-09-24T15:29:41.136Z - info: Site data built
+2022-09-24T15:29:41.137Z - info: Pages rebuilt
+2022-09-24T15:29:41.137Z - info: Website regeneration complete! Total build time: 0.222s
+2022-09-24T15:29:50.316Z - info: [11:29:50 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:29:50.316Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:29:50.317Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:29:50.317Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:29:51.332Z - info: Rebuilding 1 pages
+2022-09-24T15:29:51.502Z - info: Site data built
+2022-09-24T15:29:51.502Z - info: Pages rebuilt
+2022-09-24T15:29:51.502Z - info: Website regeneration complete! Total build time: 0.17s
+2022-09-24T15:30:14.942Z - info: [11:30:14 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:30:14.942Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:30:14.943Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:30:14.943Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:30:15.963Z - info: Rebuilding 1 pages
+2022-09-24T15:30:16.188Z - info: Site data built
+2022-09-24T15:30:16.188Z - info: Pages rebuilt
+2022-09-24T15:30:16.188Z - info: Website regeneration complete! Total build time: 0.225s
+2022-09-24T15:30:40.395Z - info: [11:30:40 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:30:40.396Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:30:40.396Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:30:40.396Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:30:41.407Z - info: Rebuilding 1 pages
+2022-09-24T15:30:41.610Z - info: Site data built
+2022-09-24T15:30:41.611Z - info: Pages rebuilt
+2022-09-24T15:30:41.611Z - info: Website regeneration complete! Total build time: 0.205s
+2022-09-24T15:31:11.232Z - info: [11:31:11 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:31:11.232Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:31:11.232Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:31:11.233Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:31:12.238Z - info: Rebuilding 1 pages
+2022-09-24T15:31:12.429Z - info: Site data built
+2022-09-24T15:31:12.430Z - info: Pages rebuilt
+2022-09-24T15:31:12.430Z - info: Website regeneration complete! Total build time: 0.192s
+2022-09-24T15:31:43.305Z - info: [11:31:43 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:31:43.306Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:31:43.306Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:31:43.306Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:31:44.323Z - info: Rebuilding 1 pages
+2022-09-24T15:31:44.640Z - info: Site data built
+2022-09-24T15:31:44.640Z - info: Pages rebuilt
+2022-09-24T15:31:44.641Z - info: Website regeneration complete! Total build time: 0.318s
+2022-09-24T15:32:05.107Z - info: [11:32:05 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:32:05.107Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:32:05.107Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:32:05.107Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:32:06.127Z - info: Rebuilding 1 pages
+2022-09-24T15:32:06.375Z - info: Site data built
+2022-09-24T15:32:06.375Z - info: Pages rebuilt
+2022-09-24T15:32:06.376Z - info: Website regeneration complete! Total build time: 0.249s
+2022-09-24T15:33:09.843Z - info: [11:33:09 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:33:09.843Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:33:09.843Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:33:09.843Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:33:10.849Z - info: Rebuilding 1 pages
+2022-09-24T15:33:11.032Z - info: Site data built
+2022-09-24T15:33:11.032Z - info: Pages rebuilt
+2022-09-24T15:33:11.032Z - info: Website regeneration complete! Total build time: 0.184s
+2022-09-24T15:33:17.654Z - info: [11:33:17 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:33:17.654Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:33:17.654Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:33:17.654Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:33:18.662Z - info: Rebuilding 1 pages
+2022-09-24T15:33:18.854Z - info: Site data built
+2022-09-24T15:33:18.854Z - info: Pages rebuilt
+2022-09-24T15:33:18.854Z - info: Website regeneration complete! Total build time: 0.193s
+2022-09-24T15:35:10.277Z - info: [11:35:10 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:35:10.278Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:35:10.278Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:35:10.278Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:35:11.282Z - info: Rebuilding 1 pages
+2022-09-24T15:35:11.454Z - info: Site data built
+2022-09-24T15:35:11.454Z - info: Pages rebuilt
+2022-09-24T15:35:11.455Z - info: Website regeneration complete! Total build time: 0.173s
+2022-09-24T15:35:54.703Z - info: [11:35:54 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:35:54.703Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:35:54.703Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:35:54.703Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:35:55.715Z - info: Rebuilding 1 pages
+2022-09-24T15:35:55.905Z - info: Site data built
+2022-09-24T15:35:55.905Z - info: Pages rebuilt
+2022-09-24T15:35:55.906Z - info: Website regeneration complete! Total build time: 0.193s
+2022-09-24T15:36:41.436Z - info: [11:36:41 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:36:41.437Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:36:41.437Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:36:41.437Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:36:42.445Z - info: Rebuilding 1 pages
+2022-09-24T15:36:42.635Z - info: Site data built
+2022-09-24T15:36:42.635Z - info: Pages rebuilt
+2022-09-24T15:36:42.636Z - info: Website regeneration complete! Total build time: 0.191s
+2022-09-24T15:42:58.156Z - info: [11:42:58 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:42:58.157Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:42:58.157Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:42:58.157Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:42:59.170Z - info: Rebuilding 1 pages
+2022-09-24T15:42:59.388Z - info: Site data built
+2022-09-24T15:42:59.388Z - info: Pages rebuilt
+2022-09-24T15:42:59.389Z - info: Website regeneration complete! Total build time: 0.219s
+2022-09-24T15:43:19.255Z - info: [11:43:19 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:43:19.255Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:43:19.255Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:43:19.255Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:43:20.268Z - info: Rebuilding 1 pages
+2022-09-24T15:43:20.566Z - info: Site data built
+2022-09-24T15:43:20.566Z - info: Pages rebuilt
+2022-09-24T15:43:20.567Z - info: Website regeneration complete! Total build time: 0.301s
+2022-09-24T15:44:20.811Z - info: [11:44:20 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:44:20.811Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:44:20.811Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:44:20.811Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:44:21.822Z - info: Rebuilding 1 pages
+2022-09-24T15:44:22.055Z - info: Site data built
+2022-09-24T15:44:22.056Z - info: Pages rebuilt
+2022-09-24T15:44:22.056Z - info: Website regeneration complete! Total build time: 0.234s
+2022-09-24T15:49:10.205Z - info: [11:49:10 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:49:10.205Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:49:10.206Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:49:10.206Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:49:11.219Z - info: Rebuilding 1 pages
+2022-09-24T15:49:11.689Z - info: Site data built
+2022-09-24T15:49:11.689Z - info: Pages rebuilt
+2022-09-24T15:49:11.689Z - info: Website regeneration complete! Total build time: 0.471s
+2022-09-24T15:49:29.376Z - info: [11:49:29 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:49:29.377Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:49:29.377Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:49:29.377Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:49:30.395Z - info: Rebuilding 1 pages
+2022-09-24T15:49:30.589Z - info: Site data built
+2022-09-24T15:49:30.589Z - info: Pages rebuilt
+2022-09-24T15:49:30.590Z - info: Website regeneration complete! Total build time: 0.194s
+2022-09-24T15:49:55.043Z - info: [11:49:55 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:49:55.043Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:49:55.043Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:49:55.043Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:49:56.055Z - info: Rebuilding 1 pages
+2022-09-24T15:49:56.222Z - info: Site data built
+2022-09-24T15:49:56.223Z - info: Pages rebuilt
+2022-09-24T15:49:56.223Z - info: Website regeneration complete! Total build time: 0.168s
+2022-09-24T15:51:45.621Z - info: [11:51:45 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:51:45.621Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:51:45.621Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:51:45.622Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:51:46.636Z - info: Rebuilding 1 pages
+2022-09-24T15:51:46.848Z - info: Site data built
+2022-09-24T15:51:46.848Z - info: Pages rebuilt
+2022-09-24T15:51:46.848Z - info: Website regeneration complete! Total build time: 0.212s
+2022-09-24T15:52:17.224Z - info: [11:52:17 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:52:17.224Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:52:17.224Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:52:17.224Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:52:18.226Z - info: Rebuilding 1 pages
+2022-09-24T15:52:18.400Z - info: Site data built
+2022-09-24T15:52:18.400Z - info: Pages rebuilt
+2022-09-24T15:52:18.400Z - info: Website regeneration complete! Total build time: 0.175s
+2022-09-24T15:53:16.329Z - info: [11:53:16 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:53:16.329Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:53:16.329Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:53:16.329Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:53:17.337Z - info: Rebuilding 1 pages
+2022-09-24T15:53:17.456Z - info: Site data built
+2022-09-24T15:53:17.456Z - info: Pages rebuilt
+2022-09-24T15:53:17.456Z - info: Website regeneration complete! Total build time: 0.12s
+2022-09-24T15:53:49.396Z - info: [11:53:49 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:53:49.396Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:53:49.396Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:53:49.396Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:53:50.416Z - info: Rebuilding 1 pages
+2022-09-24T15:53:50.569Z - info: Site data built
+2022-09-24T15:53:50.569Z - info: Pages rebuilt
+2022-09-24T15:53:50.570Z - info: Website regeneration complete! Total build time: 0.154s
+2022-09-24T15:54:11.727Z - info: [11:54:11 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:54:11.727Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:54:11.727Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:54:11.727Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:54:12.742Z - info: Rebuilding 1 pages
+2022-09-24T15:54:12.961Z - info: Site data built
+2022-09-24T15:54:12.962Z - info: Pages rebuilt
+2022-09-24T15:54:12.962Z - info: Website regeneration complete! Total build time: 0.221s
+2022-09-24T15:56:04.322Z - info: [11:56:04 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:56:04.323Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:56:04.323Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:56:04.323Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:56:05.346Z - info: Rebuilding 1 pages
+2022-09-24T15:56:05.504Z - info: Site data built
+2022-09-24T15:56:05.505Z - info: Pages rebuilt
+2022-09-24T15:56:05.505Z - info: Website regeneration complete! Total build time: 0.16s
+2022-09-24T15:58:25.895Z - info: [11:58:25 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:58:25.895Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:58:25.895Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:58:25.896Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:58:26.902Z - info: Rebuilding 1 pages
+2022-09-24T15:58:27.124Z - info: Site data built
+2022-09-24T15:58:27.124Z - info: Pages rebuilt
+2022-09-24T15:58:27.124Z - info: Website regeneration complete! Total build time: 0.223s
+2022-09-24T15:59:53.158Z - info: [11:59:53 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\overview-for-teachers.md
+2022-09-24T15:59:53.159Z - info: Synchronizing opened pages list before reload
+2022-09-24T15:59:53.159Z - info: Current opened pages, from most-to-least recent:
+2022-09-24T15:59:53.159Z - info: 1. admin/overview-for-teachers
+2022-09-24T15:59:54.174Z - info: Rebuilding 1 pages
+2022-09-24T15:59:54.563Z - info: Site data built
+2022-09-24T15:59:54.564Z - info: Pages rebuilt
+2022-09-24T15:59:54.564Z - info: Website regeneration complete! Total build time: 0.391s

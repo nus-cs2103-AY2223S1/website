@@ -284,11 +284,12 @@
       "src": "admin/mid-semester-survey-results.md",
       "title": "Admin: Mid-Semester Survey Followup",
       "headings": {
-        "cs2103-t-mid-semester-survey-followup-ay2122s2": "\nCS2103/T Mid-Semester Survey Followup\n [AY2122S2]\n",
-        "lectures-mode": "Lectures - Mode",
+        "cs2103-t-mid-semester-survey-followup-ay2223s1": "\nCS2103/T Mid-Semester Survey Followup\n [AY2223S1]\n",
+        "lectures-mode": "Lectures (mode)",
         "lectures-pre-recorded-videos": "Lectures - pre-recorded videos",
         "lectures-zoom-briefings": "Lectures - Zoom briefings",
-        "tutorials": "Tutorials",
+        "tutorials-mode": "Tutorials (mode)",
+        "tutorials-quality": "Tutorials (quality)",
         "module-website": "Module website",
         "the-workload": "The workload",
         "the-pace-of-the-module": "The pace of the module",
@@ -313,6 +314,31 @@
       "title": "Admin: CS2103/T: Software Engineering",
       "headings": {
         "cs2103-t-software-engineering": "CS2103/T: Software Engineering "
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/overview-for-teachers.md",
+      "title": "CS2103/T Overview (Teacher's POV)",
+      "headings": {
+        "cs2103-t-overview-teacher-s-pov": "CS2103/T Overview (Teacher's POV)",
+        "key-components": "Key components",
+        "lectures": "Lectures",
+        "tutorials": "Tutorials",
+        "individual-project-ip": "Individual project (iP)",
+        "team-project-tp": "Team project (tP)",
+        "participation": "Participation",
+        "exam": "Exam",
+        "challenges": "Challenges",
+        "challenge-1-iterative-topic-delivery-can-disorient-students": "Challenge 1: Iterative topic delivery can disorient students.",
+        "challenge-2-iterative-is-hard-for-beginners": "Challenge 2: Iterative is hard for beginners",
+        "challenge-3-temptation-to-fake-iterative": "Challenge 3: Temptation to fake 'iterative'",
+        "challenge-4-rigorous-project-grading-is-hard": "Challenge 4: Rigorous project grading is hard",
+        "achievements": "Achievements",
+        "achievement-1-concrete-evidence-of-se-competence": "Achievement 1: Concrete evidence of SE competence",
+        "achievement-2-well-received-despite-many-unpopular-choices": "Achievement 2: Well-received despite many 'unpopular' choices",
+        "achievement-3-scaled-without-losing-rigor": "Achievement 3: Scaled without losing rigor",
+        "future-work": "Future work"
       },
       "headingKeywords": {}
     },
