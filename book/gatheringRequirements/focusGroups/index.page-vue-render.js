@@ -20,6 +20,6 @@ with(this){return _c('p',[_c('img',{attrs:{"src":"https://media.defense.gov/2012
 with(this){return _c('p',[_c('strong',[_v("Focus groups are a kind of informal interview within an interactive group setting.")]),_v(" A group of people (e.g. potential users, beta testers) are asked about their understanding of a specific issue, process, product, advertisement, etc.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Sun, 25 Sept 2022, 1:04:25 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Mon, 26 Sept 2022, 1:26:06 GMT+8]")])])])}
 }];
   
