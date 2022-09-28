@@ -17,6 +17,6 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"more-styles"}},[_c('span',{sta
 with(this){return _c('div',[_c('p',[_c('strong',[_v("Other well-known architectural styles include the "),_c('em',[_v("pipes-and-filters architecture")]),_v(", the "),_c('em',[_v("broker architecture")]),_v(", the "),_c('em',[_v("peer-to-peer architecture")]),_v(", and the "),_c('em',[_v("message-oriented architecture")]),_v(".")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Mon, 26 Sept 2022, 1:26:06 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Thu, 29 Sept 2022, 1:11:10 GMT+8]")])])])}
 }];
   
