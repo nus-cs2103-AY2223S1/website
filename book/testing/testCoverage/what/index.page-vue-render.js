@@ -23,6 +23,6 @@ with(this){return _c('ul',[_c('li',[_c('strong',[_v("Function/method coverage")]
 with(this){return _c('ul',[_c('li',[_c('strong',[_v("Path coverage")]),_v(" measures coverage in terms of possible paths through a given part of the code executed. 100% path coverage means all possible paths have been executed. A commonly used notation for path analysis is called the "),_c('em',[_v("Control Flow Graph (CFG)")]),_v(".")]),_v(" "),_c('li',[_c('strong',[_v("Entry/exit coverage")]),_v(" measures coverage in terms of possible "),_c('em',[_v("calls to")]),_v(" and "),_c('em',[_v("exits")]),_v(" from the operations in the SUT.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Fri, 30 Sept 2022, 18:52:54 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Thu, 6 Oct 2022, 18:05:57 GMT+8]")])])])}
 }];
   
