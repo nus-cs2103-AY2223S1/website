@@ -38,6 +38,6 @@ with(this){return _c('p',[_c('strong',[_v("The "),_c('a',{attrs:{"href":"https:/
 with(this){return _c('p',[_v("The techniques above are good enough to manipulate simple text files. Note that "),_c('strong',[_v("it is also possible to "),_c('a',{attrs:{"href":"https://www.tutorialspoint.com/java/java_files_io.htm"}},[_v("perform file I/O operations using other classes")])]),_v(".")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Fri, 7 Oct 2022, 19:04:42 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Thu, 13 Oct 2022, 23:57:05 GMT+8]")])])])}
 }];
   

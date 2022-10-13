@@ -14,7 +14,7 @@ with(this){return _c('h1',{attrs:{"id":"exams"}},[_c('span',{staticClass:"anchor
 with(this){return _c('ul',[_c('li',[_v("The final exam will be as per the normal exam schedule, and will count for 30% of the final grade.")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("The exam will be done online.")]),_v(" "),_c('li',[_c('mark',[_c('strong',[_v("We will be following the "),_c('a',{attrs:{"href":"https://mysoc.nus.edu.sg/academic/e-exam-sop-for-students/"}},[_v("SoC's E-Exam SOP")])])]),_v(", combined with the deviations/refinements given in the section below. Please read the SOP carefully and ensure you follow all instructions.")])])}
+with(this){return _c('ul',[_c('li',[_v("The exam is open-book.")]),_v(" "),_c('li',[_v("The exam will be done online.")]),_v(" "),_c('li',[_c('mark',[_c('strong',[_v("We will be following the "),_c('a',{attrs:{"href":"https://mysoc.nus.edu.sg/academic/e-exam-sop-for-students/"}},[_v("SoC's E-Exam SOP")])])]),_v(", combined with the deviations/refinements given in the section below. Please read the SOP carefully and ensure you follow all instructions.")])])}
 },function anonymous(
 ) {
 with(this){return _c('h2',{attrs:{"id":"sop-deviations-refinements"}},[_c('span',{staticClass:"anchor",attrs:{"id":"sop-deviations-refinements"}}),_v("SOP deviations/refinements"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#sop-deviations-refinements","onclick":"event.stopPropagation()"}})])}
@@ -59,6 +59,6 @@ with(this){return _c('ul',[_c('li',[_v("There will be an exam briefing in the pe
 with(this){return _c('p',[_c('span',{staticClass:"float-start algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/tools.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" Tools")])])]),_c('span',{staticClass:"float-end algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/participation.html"}},[_c('span',[_v("Participation Marks "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Fri, 7 Oct 2022, 19:04:42 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Thu, 13 Oct 2022, 23:57:05 GMT+8]")])])])}
 }];
   
