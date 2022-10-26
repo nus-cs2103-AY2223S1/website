@@ -17,6 +17,6 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"solid-principles"}},[_c('span'
 with(this){return _c('p',[_v("The five OOP principles given below are known as "),_c('em',[_v("SOLID Principles")]),_v(" (an acronym made up of the first letter of each principle):")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Sat, 22 Oct 2022, 17:26:33 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Wed, 26 Oct 2022, 15:42:42 GMT+8]")])])])}
 }];
   
