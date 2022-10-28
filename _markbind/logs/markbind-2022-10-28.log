@@ -1,0 +1,27 @@
+2022-10-28T11:42:22.020Z - info: Website generation (lazy) started at 7:42:14 pm
+2022-10-28T11:42:36.601Z - info: Building assets...
+2022-10-28T11:42:48.114Z - info: Assets built
+2022-10-28T11:42:48.116Z - info: Generating landing page...
+2022-10-28T11:42:49.785Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-10-28T11:42:51.450Z - info: Site data built
+2022-10-28T11:42:51.450Z - info: Website generation (lazy) complete! Total build time: 36.491s
+2022-10-28T11:42:52.731Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-10-28T11:42:52.732Z - info: Press CTRL+C to stop ...
+2022-10-28T11:43:06.789Z - info: [7:43:06 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-ped-fragment.md
+2022-10-28T11:43:06.789Z - info: Synchronizing opened pages list before reload
+2022-10-28T11:43:06.790Z - info: Current opened pages, from most-to-least recent:
+2022-10-28T11:43:06.791Z - info: 1. index
+2022-10-28T11:43:07.796Z - info: Assets built
+2022-10-28T11:43:15.689Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week12\project as some of its dependencies were changed since the last visit
+2022-10-28T11:43:24.968Z - info: Site data built
+2022-10-28T11:43:24.969Z - info: Lazy website regeneration complete! Total build time: 9.28s
+2022-10-28T11:44:44.442Z - info: [7:44:44 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-ped-fragment.md
+2022-10-28T11:44:44.443Z - info: Synchronizing opened pages list before reload
+2022-10-28T11:44:44.444Z - info: Current opened pages, from most-to-least recent:
+2022-10-28T11:44:44.444Z - info: 1. schedule/week12/project
+2022-10-28T11:44:45.473Z - info: Rebuilding 1 pages
+2022-10-28T11:44:54.398Z - info: Site data built
+2022-10-28T11:44:54.398Z - info: Pages rebuilt
+2022-10-28T11:44:54.399Z - info: Website regeneration complete! Total build time: 8.931s
+2022-10-28T11:46:51.062Z - info: Website generation started at 7:46:47 pm
+2022-10-28T11:47:11.226Z - info: Building assets...
