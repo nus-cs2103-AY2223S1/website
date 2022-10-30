@@ -26,6 +26,6 @@ with(this){return _c('p',[_c('strong',[_v("2. Next, initialize a repository.")])
 with(this){return _c('p',[_v("Create a directory for the repo (e.g., a directory named "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("things")]),_v(").")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Fri, 28 Oct 2022, 19:47:23 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Sun, 30 Oct 2022, 18:28:38 GMT+8]")])])])}
 }];
   
