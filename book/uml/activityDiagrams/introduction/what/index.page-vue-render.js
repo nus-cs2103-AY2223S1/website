@@ -20,6 +20,6 @@ with(this){return _c('span',{staticClass:"dimmed"},[_c('em',[_v("Flow charts")])
 with(this){return _c('p',[_v("An example activity diagram:"),_c('br'),_v(" "),_c('img',{attrs:{"src":"https://upload.wikimedia.org/wikipedia/commons/e/e7/Activity_conducting.svg"}}),_c('br'),_v(" "),_c('sub',[_v("["),_c('a',{attrs:{"href":"https://en.wikipedia.org/wiki/Activity_diagram"}},[_v("source:wikipeida")]),_v("]")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Sun, 30 Oct 2022, 18:45:32 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Mon, 31 Oct 2022, 11:41:17 GMT+8]")])])])}
 }];
   
