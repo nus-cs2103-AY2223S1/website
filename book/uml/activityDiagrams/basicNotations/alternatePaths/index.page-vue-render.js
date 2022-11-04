@@ -26,6 +26,6 @@ with(this){return _c('p',[_v("Both branch nodes and merge nodes are "),_c('mark'
 with(this){return _c('ul',[_c('li',[_v("Omitting the merge node if it doesn't cause any ambiguities.")]),_v(" "),_c('li',[_v("Multiple arrows can starting from the same corner of a branch node.")]),_v(" "),_c('li',[_v("Omitting the "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("[Else]")]),_v(" condition.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Fri, 4 Nov 2022, 17:48:07 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Sat, 5 Nov 2022, 2:40:12 GMT+8]")])])])}
 }];
   
