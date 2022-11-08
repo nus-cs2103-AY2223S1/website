@@ -23,6 +23,6 @@ with(this){return _c('p',[_c('strong',[_v("The software architecture shows the o
 with(this){return _c('p',[_c('strong',[_v("The architecture is typically designed by the "),_c('em',[_v("software architect")])]),_v(", who provides the technical vision of the system and makes high-level (i.e. architecture-level) technical decisions about the project.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Sat, 5 Nov 2022, 20:51:21 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Tue, 8 Nov 2022, 21:38:50 GMT+8]")])])])}
 }];
   
