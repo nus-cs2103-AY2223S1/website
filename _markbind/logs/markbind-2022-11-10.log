@@ -1,0 +1,38 @@
+2022-11-10T05:51:36.860Z - info: Website generation (lazy) started at 1:51:29 pm
+2022-11-10T05:51:49.069Z - info: Building assets...
+2022-11-10T05:51:57.803Z - info: Assets built
+2022-11-10T05:51:57.804Z - info: Generating landing page...
+2022-11-10T05:51:59.365Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-11-10T05:52:01.551Z - info: Site data built
+2022-11-10T05:52:01.552Z - info: Website generation (lazy) complete! Total build time: 31.808s
+2022-11-10T05:52:02.710Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-11-10T05:52:02.710Z - info: Press CTRL+C to stop ...
+2022-11-10T05:52:37.583Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-pe as some of its dependencies were changed since the last visit
+2022-11-10T05:52:40.916Z - info: Site data built
+2022-11-10T05:52:40.917Z - info: Lazy website regeneration complete! Total build time: 3.335s
+2022-11-10T05:54:31.211Z - info: [1:54:31 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-pe-fragment.md
+2022-11-10T05:54:31.211Z - info: Synchronizing opened pages list before reload
+2022-11-10T05:54:31.212Z - info: Current opened pages, from most-to-least recent:
+2022-11-10T05:54:31.212Z - info: 1. admin/tp-pe
+2022-11-10T05:54:32.227Z - info: Rebuilding 1 pages
+2022-11-10T05:54:34.244Z - info: Site data built
+2022-11-10T05:54:34.245Z - info: Pages rebuilt
+2022-11-10T05:54:34.245Z - info: Website regeneration complete! Total build time: 2.019s
+2022-11-10T05:56:23.992Z - info: [1:56:23 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-pe-fragment.md
+2022-11-10T05:56:23.993Z - info: Synchronizing opened pages list before reload
+2022-11-10T05:56:23.994Z - info: Current opened pages, from most-to-least recent:
+2022-11-10T05:56:23.994Z - info: 1. admin/tp-pe
+2022-11-10T05:56:25.002Z - info: Rebuilding 1 pages
+2022-11-10T05:56:26.767Z - info: Site data built
+2022-11-10T05:56:26.767Z - info: Pages rebuilt
+2022-11-10T05:56:26.767Z - info: Website regeneration complete! Total build time: 1.766s
+2022-11-10T05:57:54.753Z - info: [1:57:54 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-pe-fragment.md
+2022-11-10T05:57:54.754Z - info: Synchronizing opened pages list before reload
+2022-11-10T05:57:54.754Z - info: Current opened pages, from most-to-least recent:
+2022-11-10T05:57:54.755Z - info: 1. admin/tp-pe
+2022-11-10T05:57:55.761Z - info: Rebuilding 1 pages
+2022-11-10T05:57:57.189Z - info: Site data built
+2022-11-10T05:57:57.189Z - info: Pages rebuilt
+2022-11-10T05:57:57.190Z - info: Website regeneration complete! Total build time: 1.43s
+2022-11-10T05:58:42.224Z - info: Website generation started at 1:58:40 pm
+2022-11-10T05:58:52.905Z - info: Building assets...
