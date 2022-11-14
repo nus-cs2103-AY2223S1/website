@@ -38,6 +38,6 @@ with(this){return _c('ul',[_c('li',[_v("Because they use a simple notation and p
 with(this){return _c('p',[_c('strong',[_v("One of the main disadvantages of use cases is that they are not good for capturing requirements that do not involve a user interacting with the system.")]),_v(" Hence, they should not be used as the sole means to specify requirements.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Sat, 12 Nov 2022, 23:16:17 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Mon, 14 Nov 2022, 13:50:51 GMT+8]")])])])}
 }];
   

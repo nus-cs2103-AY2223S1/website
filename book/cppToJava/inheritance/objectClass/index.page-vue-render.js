@@ -44,6 +44,6 @@ with(this){return _c('p',[_v("The definition of identity is always the same, so 
 with(this){return _c('p',[_v("By default, the "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("equals")]),_v(" method inherited from the "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("Object")]),_v(" class does the same thing as "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("==")]),_v(". "),_c('strong',[_v("As the definition of equivalence is different for different classes, you can override the "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("equals")]),_v(" method to define your own criteria for equivalence")]),_v(" of objects of your class.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Sat, 12 Nov 2022, 23:16:17 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Mon, 14 Nov 2022, 13:50:51 GMT+8]")])])])}
 }];
   
