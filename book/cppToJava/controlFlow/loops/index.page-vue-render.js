@@ -101,6 +101,6 @@ with(this){return _c('code',{pre:true,attrs:{"class":"line-numbers hljs java"}},
 with(this){return _c('p',[_v("This statement is called an "),_c('em',[_v("enhanced "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("for")]),_v(" loop")]),_v(". You can read it as, “for each value in values”.\nNotice how the single line "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("for (int value : values)")]),_v(" replaces the first two lines of the standard "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("for")]),_v(" loop.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Tue, 15 Nov 2022, 11:20:05 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Wed, 16 Nov 2022, 17:34:09 GMT+8]")])])])}
 }];
   
