@@ -47,12 +47,12 @@ with(this){return _c('ul',[_c('li',[_v("Similar to part 1 (e.g., 16 questions, s
 with(this){return _c('h2',{attrs:{"id":"exam-briefing-mock-exam-practice-exam-paper-2"}},[_c('span',{staticClass:"anchor",attrs:{"id":"exam-briefing-mock-exam-practice-exam-paper-2"}}),_v("Exam briefing, mock exam, practice exam paper"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#exam-briefing-mock-exam-practice-exam-paper-2","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("There will be an exam briefing in the penultimate lecture. It will include a minimal mock exam, just to help you understand the structure.")]),_v(" "),_c('li',[_v("You will be given a practice exam paper (at least half the size of the full paper) to help you practice timing. That practice paper will be released at least one week before the exam.")])])}
+with(this){return _c('ul',[_c('li',[_v("There will be an exam briefing in the penultimate lecture. It will include a minimal mock exam, just to help you understand the structure.")]),_v(" "),_c('li',[_v("You will be given a practice exam paper (at least half the size of the full paper) to help you practice timing. That practice paper will be released at least one week before the exam.")]),_v(" "),_c('li',[_v("Your score and answers for the mock/practice exams can be retrieved by visiting "),_c('a',{attrs:{"href":"https://apac.examsoft.com/GKWeb/login/NUS"}},[_v("https://examsoft.com")]),_v(".")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"float-start algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/tools.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" Tools")])])]),_c('span',{staticClass:"float-end algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/participation.html"}},[_c('span',[_v("Participation Marks "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Wed, 16 Nov 2022, 17:34:09 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Wed, 23 Nov 2022, 12:15:15 GMT+8]")])])])}
 }];
   
