@@ -17,6 +17,6 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"roles"}},[_c('span',{staticCla
 with(this){return _c('p',[_c('strong',[_c('em',[_v("Association Role")]),_v(" labels are used to indicate the role played by the classes in the association.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Wed, 23 Nov 2022, 12:15:15 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Wed, 23 Nov 2022, 14:57:38 GMT+8]")])])])}
 }];
   

@@ -29,6 +29,6 @@ with(this){return _c('p',[_c('strong',[_v("Integrated Development Environments (
 with(this){return _c('ul',[_c('li',[_v("Intellij IDEA")]),_v(" "),_c('li',[_v("Eclipse")]),_v(" "),_c('li',[_v("NetBeans")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Wed, 23 Nov 2022, 12:15:15 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Wed, 23 Nov 2022, 14:57:38 GMT+8]")])])])}
 }];
   

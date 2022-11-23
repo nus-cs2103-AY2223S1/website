@@ -20,7 +20,7 @@ with(this){return _c('ol',{attrs:{"start":"7"}},[_c('li',[_c('strong',[_v("Bring
 with(this){return _c('h2',{attrs:{"id":"format"}},[_c('span',{staticClass:"anchor",attrs:{"id":"format"}}),_v("Format"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#format","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("The exam will be divided into 3 parts.")])])}
+with(this){return _c('ul',[_c('li',[_v("The exam will be divided into 3 parts.")]),_v(" "),_c('li',[_v("Although the official duration of the exam is 1.5 hours, note that the actual exam might take up to 2 hours (due to technical issues). So, please don't schedule anything important right after the exam.")])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"final-exam-part-1"}},[_c('span',{staticClass:"anchor",attrs:{"id":"final-exam-part-1"}}),_v("Final exam - part 1"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#final-exam-part-1","onclick":"event.stopPropagation()"}})])}
@@ -53,6 +53,6 @@ with(this){return _c('ul',[_c('li',[_v("There will be an exam briefing in the pe
 with(this){return _c('p',[_c('span',{staticClass:"float-start algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/tools.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" Tools")])])]),_c('span',{staticClass:"float-end algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/participation.html"}},[_c('span',[_v("Participation Marks "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Wed, 23 Nov 2022, 12:15:15 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Wed, 23 Nov 2022, 14:57:38 GMT+8]")])])])}
 }];
   
