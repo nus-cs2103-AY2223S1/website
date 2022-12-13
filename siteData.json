@@ -282,18 +282,7 @@
     {
       "src": "admin/mid-semester-survey-results.md",
       "title": "Admin: Mid-Semester Survey Followup",
-      "headings": {
-        "cs2103-t-mid-semester-survey-followup-ay2223s1": "\nCS2103/T Mid-Semester Survey Followup\n [AY2223S1]\n",
-        "lectures-mode": "Lectures (mode)",
-        "lectures-pre-recorded-videos": "Lectures - pre-recorded videos",
-        "lectures-zoom-briefings": "Lectures - Zoom briefings",
-        "tutorials-mode": "Tutorials (mode)",
-        "tutorials-quality": "Tutorials (quality)",
-        "module-website": "Module website",
-        "the-workload": "The workload",
-        "the-pace-of-the-module": "The pace of the module",
-        "other-comments-concerns": "Other comments/concerns"
-      },
+      "headings": {},
       "headingKeywords": {}
     },
     {
